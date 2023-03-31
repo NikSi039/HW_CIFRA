@@ -4,18 +4,21 @@
     {
         static void Main ( string[] args )
         {
+            DateTime finishDateTime = new DateTime(2023,3,31,21,20,0);
             int _seconds = 0;
+            DateTime _diffDateTime;  
+            
 
             while (true)
             {
                 Console.Clear ();
                 _seconds = AddSeconds ( _seconds );
-                Console.WriteLine ( $"Время: {GetHours ()} : {GetMinutes ()} : {GetSeconds ()}" );
+                Console.WriteLine ( $"Время: {GetHours ()} : {GetMinutes ( DateTime.Now )} : {GetSeconds (DateTime.Now)}" );
                 Console.WriteLine ( "Секунды: " + _seconds );
+                _diffDateTime =  new DateTime( finishDateTime.Ticks - DateTime.Now.Ticks);
+                Console.WriteLine ( $"Время до конца пары:   { GetMinutes ( _diffDateTime )}  :  { GetSeconds ( _diffDateTime )}");
                 Thread.Sleep ( 1000 );
             }
-
-
 
             Console.ReadLine ();
 
@@ -26,26 +29,23 @@
 
             int AddSeconds ( int seconds )
             {
-                return seconds + GetSeconds ();
+                return seconds + GetSeconds (DateTime.Now);
             }
 
-            int GetSeconds ()
+            int GetSeconds (DateTime dateTimeParam)
             {
-                return DateTime.Now.Second;
+                return dateTimeParam.Second;
             }
 
-            int GetMinutes ()
+            int GetMinutes  (DateTime dateTimeParam)
             {
-                return DateTime.Now.Minute;
+                return dateTimeParam.Minute;
             }
 
             int GetHours ()
             {
                 return DateTime.Now.Hour;
             }
-
-
-
         }
     }
 }
