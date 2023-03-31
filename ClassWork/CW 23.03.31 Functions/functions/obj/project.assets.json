@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\C1NB7\\source\\repos\\NikSi039\\HW_CIFRA\\ClassWork\\CW 23.03.31 Functions\\CW 23.03.31 Functions\\CW 23.03.31 Functions dz razbor.csproj",
-      "projectName": "CW 23.03.31 Functions dz razbor",
-      "projectPath": "C:\\Users\\C1NB7\\source\\repos\\NikSi039\\HW_CIFRA\\ClassWork\\CW 23.03.31 Functions\\CW 23.03.31 Functions\\CW 23.03.31 Functions dz razbor.csproj",
+      "projectUniqueName": "C:\\Users\\C1NB7\\source\\repos\\NikSi039\\HW_CIFRA\\ClassWork\\CW 23.03.31 Functions\\functions\\functions.csproj",
+      "projectName": "functions",
+      "projectPath": "C:\\Users\\C1NB7\\source\\repos\\NikSi039\\HW_CIFRA\\ClassWork\\CW 23.03.31 Functions\\functions\\functions.csproj",
       "packagesPath": "C:\\Users\\C1NB7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\C1NB7\\source\\repos\\NikSi039\\HW_CIFRA\\ClassWork\\CW 23.03.31 Functions\\CW 23.03.31 Functions\\obj\\",
+      "outputPath": "C:\\Users\\C1NB7\\source\\repos\\NikSi039\\HW_CIFRA\\ClassWork\\CW 23.03.31 Functions\\functions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\C1NB7\\AppData\\Roaming\\NuGet\\NuGet.Config",
