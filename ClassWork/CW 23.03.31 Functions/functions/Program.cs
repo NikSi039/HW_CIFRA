@@ -11,7 +11,7 @@
                 Console.Clear ();
                 _seconds = AddSeconds ( _seconds );
                 Console.WriteLine ( $"Время: {GetHours ()} : {GetMinutes ()} : {GetSeconds ()}" );
-                Console.WriteLine ( $"Секунды: " + _seconds );
+                Console.WriteLine ( "Секунды: " + _seconds );
                 Thread.Sleep ( 1000 );
             }
 
