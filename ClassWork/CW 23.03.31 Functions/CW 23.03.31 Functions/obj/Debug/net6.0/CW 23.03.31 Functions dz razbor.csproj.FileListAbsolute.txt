@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/bin/Debug/net6.0/CW 23.03.31 Functions dz razbor
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/bin/Debug/net6.0/CW 23.03.31 Functions dz razbor.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/bin/Debug/net6.0/CW 23.03.31 Functions dz razbor.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/bin/Debug/net6.0/CW 23.03.31 Functions dz razbor.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/bin/Debug/net6.0/CW 23.03.31 Functions dz razbor.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/obj/Debug/net6.0/CW 23.03.31 Functions dz razbor.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/obj/Debug/net6.0/CW 23.03.31 Functions dz razbor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/obj/Debug/net6.0/CW 23.03.31 Functions dz razbor.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/obj/Debug/net6.0/CW 23.03.31 Functions dz razbor.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/obj/Debug/net6.0/CW 23.03.31 Functions dz razbor.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/obj/Debug/net6.0/CW 23.03.31 Functions dz razbor.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/obj/Debug/net6.0/refint/CW 23.03.31 Functions dz razbor.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/obj/Debug/net6.0/CW 23.03.31 Functions dz razbor.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/obj/Debug/net6.0/CW 23.03.31 Functions dz razbor.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.03.31 Functions/CW 23.03.31 Functions/obj/Debug/net6.0/ref/CW 23.03.31 Functions dz razbor.dll
