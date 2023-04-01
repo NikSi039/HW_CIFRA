@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{B4B43204-F020-4AD1-B05F-F8909BC602B3}|Default">
-  <MonoDevelop.Ide.ItemProperties.CW_22023.03.31_220Functions_220dz_220razbor PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <AuthorInfo Name="programmirovanie" Email="sidorova9999@internet.ru" Copyright="" Company="" Trademark="" />
+  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,6 +13,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CW_22023.03.31_220Functions_220dz_220razbor PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
