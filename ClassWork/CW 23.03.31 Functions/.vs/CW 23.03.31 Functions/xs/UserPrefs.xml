@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{B2274C6B-CC01-4A14-8026-2D1AF89118BD}|Default">
+﻿<Properties StartupConfiguration="{B4B43204-F020-4AD1-B05F-F8909BC602B3}|Default">
   <MonoDevelop.Ide.ItemProperties.f2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -6,17 +6,19 @@
   <MultiItemStartupConfigurations />
   <AuthorInfo Name="programmirovanie" Email="sidorova9999@internet.ru" Copyright="" Company="" Trademark="" />
   <Debugger.DebugSourceFolders />
-  <MonoDevelop.Ide.Workbench ActiveDocument="f2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CW 23.03.31 Functions/Program.cs">
     <Files>
-      <File FileName="CW 23.03.31 Functions/Program.cs" Line="49" Column="1" />
-      <File FileName="functions/Program.cs" Line="19" Column="1" />
+      <File FileName="CW 23.03.31 Functions/Program.cs" Line="1" Column="1" />
+      <File FileName="functions/Program.cs" />
       <File FileName="f2/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CW 23.03.31 Functions" expanded="True" selected="True">
-            <Node name="CW 23.03.31 Functions dz razbor" expanded="True" />
+          <Node name="CW 23.03.31 Functions" expanded="True">
+            <Node name="CW 23.03.31 Functions dz razbor" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="f2" expanded="True" />
             <Node name="functions" expanded="True" />
           </Node>
