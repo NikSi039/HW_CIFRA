@@ -1,0 +1,15 @@
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\bin\Debug\net6.0\CW 23.04.05 Razbor dz.exe
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\bin\Debug\net6.0\CW 23.04.05 Razbor dz.deps.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\bin\Debug\net6.0\CW 23.04.05 Razbor dz.runtimeconfig.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\bin\Debug\net6.0\CW 23.04.05 Razbor dz.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\bin\Debug\net6.0\CW 23.04.05 Razbor dz.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\obj\Debug\net6.0\CW 23.04.05 Razbor dz.csproj.AssemblyReference.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\obj\Debug\net6.0\CW 23.04.05 Razbor dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\obj\Debug\net6.0\CW 23.04.05 Razbor dz.AssemblyInfoInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\obj\Debug\net6.0\CW 23.04.05 Razbor dz.AssemblyInfo.cs
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\obj\Debug\net6.0\CW 23.04.05 Razbor dz.csproj.CoreCompileInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\obj\Debug\net6.0\CW 23.04.05 Razbor dz.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\obj\Debug\net6.0\refint\CW 23.04.05 Razbor dz.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\obj\Debug\net6.0\CW 23.04.05 Razbor dz.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\obj\Debug\net6.0\CW 23.04.05 Razbor dz.genruntimeconfig.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\CW 23.04.05 Razbor dz\obj\Debug\net6.0\ref\CW 23.04.05 Razbor dz.dll
