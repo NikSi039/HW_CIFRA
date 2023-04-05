@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CW 23.04.05 Razbor dz")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CW 23.04.05 REF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CW 23.04.05 Razbor dz")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CW 23.04.05 Razbor dz")]
+[assembly: System.Reflection.AssemblyProductAttribute("CW 23.04.05 REF")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CW 23.04.05 REF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.05 Razbor dz\\CW 23.04.05 Razbor dz\\CW 23.04.05 Razbor dz\\CW 23.04.05 Razbor dz.csproj",
-      "projectName": "CW 23.04.05 Razbor dz",
-      "projectPath": "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.05 Razbor dz\\CW 23.04.05 Razbor dz\\CW 23.04.05 Razbor dz\\CW 23.04.05 Razbor dz.csproj",
+      "projectUniqueName": "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.05 Ref\\CW 23.04.05 REF\\CW 23.04.05 REF\\CW 23.04.05 REF.csproj",
+      "projectName": "CW 23.04.05 REF",
+      "projectPath": "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.05 Ref\\CW 23.04.05 REF\\CW 23.04.05 REF\\CW 23.04.05 REF.csproj",
       "packagesPath": "C:\\Users\\C1NB2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.05 Razbor dz\\CW 23.04.05 Razbor dz\\CW 23.04.05 Razbor dz\\obj\\",
+      "outputPath": "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.05 Ref\\CW 23.04.05 REF\\CW 23.04.05 REF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\C1NB2\\AppData\\Roaming\\NuGet\\NuGet.Config",
