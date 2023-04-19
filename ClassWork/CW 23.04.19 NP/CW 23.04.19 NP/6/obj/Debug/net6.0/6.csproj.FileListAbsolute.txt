@@ -1,0 +1,15 @@
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\bin\Debug\net6.0\6.exe
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\bin\Debug\net6.0\6.deps.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\bin\Debug\net6.0\6.runtimeconfig.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\bin\Debug\net6.0\6.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\bin\Debug\net6.0\6.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\obj\Debug\net6.0\6.csproj.AssemblyReference.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\obj\Debug\net6.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\obj\Debug\net6.0\6.AssemblyInfoInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\obj\Debug\net6.0\6.AssemblyInfo.cs
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\obj\Debug\net6.0\6.csproj.CoreCompileInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\obj\Debug\net6.0\6.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\obj\Debug\net6.0\refint\6.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\obj\Debug\net6.0\6.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\obj\Debug\net6.0\6.genruntimeconfig.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.19 NP\CW 23.04.19 NP\6\obj\Debug\net6.0\ref\6.dll
