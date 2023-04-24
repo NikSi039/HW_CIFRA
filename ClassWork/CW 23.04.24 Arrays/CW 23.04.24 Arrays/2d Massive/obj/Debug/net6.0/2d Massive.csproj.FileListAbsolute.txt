@@ -1,0 +1,15 @@
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\bin\Debug\net6.0\2d Massive.exe
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\bin\Debug\net6.0\2d Massive.deps.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\bin\Debug\net6.0\2d Massive.runtimeconfig.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\bin\Debug\net6.0\2d Massive.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\bin\Debug\net6.0\2d Massive.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\obj\Debug\net6.0\2d Massive.csproj.AssemblyReference.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\obj\Debug\net6.0\2d Massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\obj\Debug\net6.0\2d Massive.AssemblyInfoInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\obj\Debug\net6.0\2d Massive.AssemblyInfo.cs
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\obj\Debug\net6.0\2d Massive.csproj.CoreCompileInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\obj\Debug\net6.0\2d Massive.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\obj\Debug\net6.0\refint\2d Massive.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\obj\Debug\net6.0\2d Massive.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\obj\Debug\net6.0\2d Massive.genruntimeconfig.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\2d Massive\obj\Debug\net6.0\ref\2d Massive.dll

@@ -1,0 +1,15 @@
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\bin\Debug\net6.0\RECURSIA.exe
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\bin\Debug\net6.0\RECURSIA.deps.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\bin\Debug\net6.0\RECURSIA.runtimeconfig.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\bin\Debug\net6.0\RECURSIA.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\bin\Debug\net6.0\RECURSIA.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\obj\Debug\net6.0\RECURSIA.csproj.AssemblyReference.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\obj\Debug\net6.0\RECURSIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\obj\Debug\net6.0\RECURSIA.AssemblyInfoInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\obj\Debug\net6.0\RECURSIA.AssemblyInfo.cs
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\obj\Debug\net6.0\RECURSIA.csproj.CoreCompileInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\obj\Debug\net6.0\RECURSIA.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\obj\Debug\net6.0\refint\RECURSIA.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\obj\Debug\net6.0\RECURSIA.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\obj\Debug\net6.0\RECURSIA.genruntimeconfig.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.24 Arrays\CW 23.04.24 Arrays\RECURSIA\obj\Debug\net6.0\ref\RECURSIA.dll
