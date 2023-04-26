@@ -1,0 +1,15 @@
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\bin\Debug\net6.0\Swicth.exe
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\bin\Debug\net6.0\Swicth.deps.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\bin\Debug\net6.0\Swicth.runtimeconfig.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\bin\Debug\net6.0\Swicth.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\bin\Debug\net6.0\Swicth.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\obj\Debug\net6.0\Swicth.csproj.AssemblyReference.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\obj\Debug\net6.0\Swicth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\obj\Debug\net6.0\Swicth.AssemblyInfoInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\obj\Debug\net6.0\Swicth.AssemblyInfo.cs
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\obj\Debug\net6.0\Swicth.csproj.CoreCompileInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\obj\Debug\net6.0\Swicth.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\obj\Debug\net6.0\refint\Swicth.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\obj\Debug\net6.0\Swicth.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\obj\Debug\net6.0\Swicth.genruntimeconfig.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\Swicth\obj\Debug\net6.0\ref\Swicth.dll

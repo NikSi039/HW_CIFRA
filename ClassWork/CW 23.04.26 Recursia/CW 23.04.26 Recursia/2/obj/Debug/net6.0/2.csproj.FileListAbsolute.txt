@@ -1,0 +1,15 @@
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\bin\Debug\net6.0\2.exe
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\bin\Debug\net6.0\2.deps.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\bin\Debug\net6.0\2.runtimeconfig.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\bin\Debug\net6.0\2.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\bin\Debug\net6.0\2.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\obj\Debug\net6.0\2.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\obj\Debug\net6.0\refint\2.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\obj\Debug\net6.0\2.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\obj\Debug\net6.0\2.genruntimeconfig.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\2\obj\Debug\net6.0\ref\2.dll

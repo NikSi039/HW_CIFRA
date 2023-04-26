@@ -1,0 +1,15 @@
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\bin\Debug\net6.0\CW 23.04.26 Recursia.exe
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\bin\Debug\net6.0\CW 23.04.26 Recursia.deps.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\bin\Debug\net6.0\CW 23.04.26 Recursia.runtimeconfig.json
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\bin\Debug\net6.0\CW 23.04.26 Recursia.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\bin\Debug\net6.0\CW 23.04.26 Recursia.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\obj\Debug\net6.0\CW 23.04.26 Recursia.csproj.AssemblyReference.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\obj\Debug\net6.0\CW 23.04.26 Recursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\obj\Debug\net6.0\CW 23.04.26 Recursia.AssemblyInfoInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\obj\Debug\net6.0\CW 23.04.26 Recursia.AssemblyInfo.cs
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\obj\Debug\net6.0\CW 23.04.26 Recursia.csproj.CoreCompileInputs.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\obj\Debug\net6.0\CW 23.04.26 Recursia.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\obj\Debug\net6.0\refint\CW 23.04.26 Recursia.dll
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\obj\Debug\net6.0\CW 23.04.26 Recursia.pdb
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\obj\Debug\net6.0\CW 23.04.26 Recursia.genruntimeconfig.cache
+C:\Users\C1NB2\Github\HW_CIFRA\ClassWork\CW 23.04.26 Recursia\CW 23.04.26 Recursia\CW 23.04.26 Recursia\obj\Debug\net6.0\ref\CW 23.04.26 Recursia.dll
