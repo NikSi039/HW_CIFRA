@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{88F0F7CA-456F-4FA3-8613-24ADCD1F90E1}|Default">
+  <MonoDevelop.Ide.ItemProperties.z2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CW_22023.04.24_220Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2/Program.cs">
+    <Files>
+      <File FileName="2/Program.cs" Line="1" Column="1" />
+      <File FileName="2d Massive/Program.cs" Line="1" Column="1" />
+      <File FileName="zadachka/Program.cs" Line="36" Column="1" />
+      <File FileName="z2/Program.cs" Line="1" Column="1" />
+      <File FileName="RECURSIA/Program.cs" Line="1" Column="1" />
+      <File FileName="CW 23.04.24 Arrays/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW 23.04.24 Arrays" expanded="True">
+            <Node name="2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="2d Massive" expanded="True" />
+            <Node name="CW 23.04.24 Arrays" expanded="True" />
+            <Node name="RECURSIA" expanded="True" />
+            <Node name="z2" expanded="True" />
+            <Node name="zadachka" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.zadachka PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2d_220Massive PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

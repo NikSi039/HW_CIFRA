@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.24 Arrays\\CW 23.04.24 Arrays\\2\\2.csproj": {}
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.24 Arrays/CW 23.04.24 Arrays/2/2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.24 Arrays\\CW 23.04.24 Arrays\\2\\2.csproj": {
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.24 Arrays/CW 23.04.24 Arrays/2/2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.24 Arrays\\CW 23.04.24 Arrays\\2\\2.csproj",
+        "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.24 Arrays/CW 23.04.24 Arrays/2/2.csproj",
         "projectName": "2",
-        "projectPath": "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.24 Arrays\\CW 23.04.24 Arrays\\2\\2.csproj",
-        "packagesPath": "C:\\Users\\C1NB2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\C1NB2\\Github\\HW_CIFRA\\ClassWork\\CW 23.04.24 Arrays\\CW 23.04.24 Arrays\\2\\obj\\",
+        "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.24 Arrays/CW 23.04.24 Arrays/2/2.csproj",
+        "packagesPath": "/Users/programmirovanie/.nuget/packages/",
+        "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.24 Arrays/CW 23.04.24 Arrays/2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\C1NB2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/programmirovanie/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
