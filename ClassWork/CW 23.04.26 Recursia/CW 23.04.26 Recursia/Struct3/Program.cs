@@ -2,11 +2,18 @@
 {
     internal class Program
     {
-        struct People
+        struct PhoneBookDigital
         {
             public string surename;
             public string adress;
-            public int telefonNumber;
+            public long phone;
+        }
+
+        struct PhoneBookString
+        {
+            public string surename;
+            public string adress;
+            public string phone;
         }
 
         static void Main(string[] args)
@@ -20,22 +27,54 @@
             //            2) телефон задан в виде, аналогичном следующему: 268–50–59
 
 
-            People[] peoples = new People[5];
+            //1
 
-            for (int i = 0; i < 5; i++)
+            PhoneBookDigital[] phoneBookDigitals = new PhoneBookDigital[5];
+
+            for (int i = 0; i < phoneBookDigitals.Length; i++)
             {
-                peoples[i] = new People();
-                Console.WriteLine($"Введите название {i + 1} города");
-                citys[i].name = Console.ReadLine();
-                Console.WriteLine($"Введите название {i + 1} страны");
-                citys[i].country = Console.ReadLine();
+                Console.Write("Введите фамилию: ");
+                phoneBookDigitals[i].surename = Console.ReadLine();
+                Console.Write("Введите адрес: ");
+                phoneBookDigitals[i].adress = Console.ReadLine();
+                Console.Write("Введите телефон: ");
+                phoneBookDigitals[i].phone = long.Parse(Console.ReadLine());
             }
 
+            foreach (PhoneBookDigital item in phoneBookDigitals)
+            {
+                if (item.phone / 1000000 == 3)
+                {
+                    Console.WriteLine(item.surename + " " + item.adress + "" + item.phone);
+                }
+            }
+
+            Console.WriteLine("\n\n\n");
 
 
+            //2
 
+            PhoneBookString[] phoneBookStrings = new PhoneBookString[3];
 
+            for (int i = 0; i < phoneBookStrings.Length; i++)
+            {
+                Console.Write("Введите фамилию: ");
+                phoneBookStrings[i].surename = Console.ReadLine();
+                Console.Write("Введите адрес: ");
+                phoneBookStrings[i].adress = Console.ReadLine();
+                Console.Write("Введите телефон: ");
+                phoneBookStrings[i].phone = Console.ReadLine();
+            }
 
+            foreach (PhoneBookString item in phoneBookStrings)
+            {
+                if (item.phone.StartsWith("3"))
+                {
+                    Console.WriteLine(item.surename + " " + item.adress + "" + item.phone);
+                }
+            }
+
+            Console.ReadKey();
         }
     }
 }

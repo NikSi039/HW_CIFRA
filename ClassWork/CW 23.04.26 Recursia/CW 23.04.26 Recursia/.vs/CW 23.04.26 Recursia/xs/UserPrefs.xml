@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{4CCC2CB2-46C8-4ACA-8914-C433C5B224A8}|Default">
+  <MonoDevelop.Ide.ItemProperties.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Swicth/Program.cs">
+    <Files>
+      <File FileName="2/Program.cs" Line="1" Column="1" />
+      <File FileName="3/Program.cs" Line="1" Column="1" />
+      <File FileName="4/Program.cs" Line="1" Column="1" />
+      <File FileName="5/Program.cs" Line="1" Column="1" />
+      <File FileName="CW 23.04.26 Recursia/Program.cs" Line="1" Column="1" />
+      <File FileName="Struc2/Program.cs" Line="1" Column="1" />
+      <File FileName="Struct3/Program.cs" Line="76" Column="1" />
+      <File FileName="STRUCTURE/Program.cs" Line="1" Column="1" />
+      <File FileName="Swicth/Program.cs" Line="20" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW 23.04.26 Recursia" expanded="True">
+            <Node name="2" expanded="True" />
+            <Node name="3" expanded="True" />
+            <Node name="4" expanded="True" />
+            <Node name="5" expanded="True" />
+            <Node name="CW 23.04.26 Recursia" expanded="True" />
+            <Node name="Struc2" expanded="True" />
+            <Node name="Struct3" expanded="True" />
+            <Node name="STRUCTURE" expanded="True" />
+            <Node name="Swicth" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Struct3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CW_22023.04.26_220Recursia PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

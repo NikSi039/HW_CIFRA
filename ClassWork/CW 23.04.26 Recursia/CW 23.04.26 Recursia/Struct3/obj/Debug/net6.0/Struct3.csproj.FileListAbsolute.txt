@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/bin/Debug/net6.0/Struct3
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/bin/Debug/net6.0/Struct3.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/bin/Debug/net6.0/Struct3.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/bin/Debug/net6.0/Struct3.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/bin/Debug/net6.0/Struct3.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/obj/Debug/net6.0/Struct3.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/obj/Debug/net6.0/Struct3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/obj/Debug/net6.0/Struct3.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/obj/Debug/net6.0/Struct3.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/obj/Debug/net6.0/Struct3.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/obj/Debug/net6.0/Struct3.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/obj/Debug/net6.0/refint/Struct3.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/obj/Debug/net6.0/Struct3.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/obj/Debug/net6.0/Struct3.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.04.26 Recursia/CW 23.04.26 Recursia/Struct3/obj/Debug/net6.0/ref/Struct3.dll
