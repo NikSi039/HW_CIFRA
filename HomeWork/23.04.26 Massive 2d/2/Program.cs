@@ -47,11 +47,30 @@ class Program
             Console.WriteLine();
         }
 
-        
+        string[,] maxTemps = new string[1, 7];
+        int max = 0;
+        int temp = 0;
+        string maxTemp = "";
+        string maxDate = "";
 
+        for (int i = 0; i < days.GetLength(0); i++)
+        {
+            for (int j = 0; j < days.GetLength(1) - 7; j++)
+            {
+                temp = days[i, j].temperature + days[i, j + 1].temperature + days[i, j + 2].temperature + days[i, j + 3].temperature + days[i, j + 4].temperature + days[i, j + 5].temperature + days[i, j + 6].temperature;
 
+                if (max < temp)
+                {
+                    max = temp;
+                    maxTemp = max.ToString();
+                    maxDate = days[i, j].date + days[i, j].year;
+                }
+            }
+        }
 
+        //Console.WriteLine($"\nmaxTemp + " " + maxDate);
 
+        Console.WriteLine($"\nСамые теплые 7 дней за последние 10 лет были:\nc {maxDate} по\nсуммарная температура составила {maxTemp}\nили средняя температура в день ");
 
 
 
