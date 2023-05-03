@@ -1,0 +1,15 @@
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\bin\Debug\net6.0\zadacha 1.exe
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\bin\Debug\net6.0\zadacha 1.deps.json
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\bin\Debug\net6.0\zadacha 1.runtimeconfig.json
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\bin\Debug\net6.0\zadacha 1.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\bin\Debug\net6.0\zadacha 1.pdb
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\obj\Debug\net6.0\zadacha 1.csproj.AssemblyReference.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\obj\Debug\net6.0\zadacha 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\obj\Debug\net6.0\zadacha 1.AssemblyInfoInputs.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\obj\Debug\net6.0\zadacha 1.AssemblyInfo.cs
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\obj\Debug\net6.0\zadacha 1.csproj.CoreCompileInputs.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\obj\Debug\net6.0\zadacha 1.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\obj\Debug\net6.0\refint\zadacha 1.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\obj\Debug\net6.0\zadacha 1.pdb
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\obj\Debug\net6.0\zadacha 1.genruntimeconfig.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\zadacha 1\obj\Debug\net6.0\ref\zadacha 1.dll

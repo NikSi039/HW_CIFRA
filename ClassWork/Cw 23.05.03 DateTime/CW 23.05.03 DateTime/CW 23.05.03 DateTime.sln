@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW 23.05.03 DateTime", "CW 23.05.03 DateTime\CW 23.05.03 DateTime.csproj", "{DC439A19-03C3-4EF0-AB1A-D3CE49B5AF48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadacha 1", "zadacha 1\zadacha 1.csproj", "{705ECB31-8A3D-4C71-8C1F-FD6409A8AA09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z2", "z2\z2.csproj", "{9BE3EB1D-7F6B-440D-A870-352247FF4BD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DC439A19-03C3-4EF0-AB1A-D3CE49B5AF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC439A19-03C3-4EF0-AB1A-D3CE49B5AF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC439A19-03C3-4EF0-AB1A-D3CE49B5AF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705ECB31-8A3D-4C71-8C1F-FD6409A8AA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705ECB31-8A3D-4C71-8C1F-FD6409A8AA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705ECB31-8A3D-4C71-8C1F-FD6409A8AA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705ECB31-8A3D-4C71-8C1F-FD6409A8AA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE3EB1D-7F6B-440D-A870-352247FF4BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE3EB1D-7F6B-440D-A870-352247FF4BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE3EB1D-7F6B-440D-A870-352247FF4BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE3EB1D-7F6B-440D-A870-352247FF4BD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
