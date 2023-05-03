@@ -1,0 +1,15 @@
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\bin\Debug\net6.0\CW 23.05.03 DateTime.exe
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\bin\Debug\net6.0\CW 23.05.03 DateTime.deps.json
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\bin\Debug\net6.0\CW 23.05.03 DateTime.runtimeconfig.json
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\bin\Debug\net6.0\CW 23.05.03 DateTime.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\bin\Debug\net6.0\CW 23.05.03 DateTime.pdb
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\obj\Debug\net6.0\CW 23.05.03 DateTime.csproj.AssemblyReference.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\obj\Debug\net6.0\CW 23.05.03 DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\obj\Debug\net6.0\CW 23.05.03 DateTime.AssemblyInfoInputs.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\obj\Debug\net6.0\CW 23.05.03 DateTime.AssemblyInfo.cs
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\obj\Debug\net6.0\CW 23.05.03 DateTime.csproj.CoreCompileInputs.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\obj\Debug\net6.0\CW 23.05.03 DateTime.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\obj\Debug\net6.0\refint\CW 23.05.03 DateTime.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\obj\Debug\net6.0\CW 23.05.03 DateTime.pdb
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\obj\Debug\net6.0\CW 23.05.03 DateTime.genruntimeconfig.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\Cw 23.05.03 DateTime\CW 23.05.03 DateTime\CW 23.05.03 DateTime\obj\Debug\net6.0\ref\CW 23.05.03 DateTime.dll
