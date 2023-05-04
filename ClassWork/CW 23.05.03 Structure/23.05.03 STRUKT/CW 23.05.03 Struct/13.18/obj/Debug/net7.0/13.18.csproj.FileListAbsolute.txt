@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/bin/Debug/net7.0/13.18
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/bin/Debug/net7.0/13.18.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/bin/Debug/net7.0/13.18.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/bin/Debug/net7.0/13.18.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/bin/Debug/net7.0/13.18.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/obj/Debug/net7.0/13.18.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/obj/Debug/net7.0/13.18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/obj/Debug/net7.0/13.18.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/obj/Debug/net7.0/13.18.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/obj/Debug/net7.0/13.18.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/obj/Debug/net7.0/13.18.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/obj/Debug/net7.0/refint/13.18.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/obj/Debug/net7.0/13.18.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/obj/Debug/net7.0/13.18.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.03 Structure/23.05.03 STRUKT/CW 23.05.03 Struct/13.18/obj/Debug/net7.0/ref/13.18.dll
