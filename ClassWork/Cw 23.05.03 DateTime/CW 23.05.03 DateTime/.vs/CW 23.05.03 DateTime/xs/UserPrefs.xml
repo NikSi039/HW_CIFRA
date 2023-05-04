@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9BE3EB1D-7F6B-440D-A870-352247FF4BD2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.z2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CW_22023.05.03_220DateTime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="z2/Program.cs">
+    <Files>
+      <File FileName="CW 23.05.03 DateTime/Program.cs" Line="9" Column="1" />
+      <File FileName="z2/Program.cs" Line="20" Column="10" />
+      <File FileName="zadacha 1/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW 23.05.03 DateTime" expanded="True">
+            <Node name="CW 23.05.03 DateTime" expanded="True" />
+            <Node name="z2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="zadacha 1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

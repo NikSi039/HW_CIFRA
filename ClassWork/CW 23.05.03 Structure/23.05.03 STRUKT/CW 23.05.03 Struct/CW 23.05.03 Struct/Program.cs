@@ -2,6 +2,11 @@
 
 namespace CW_23._05._03_Struct
 {
+    // ConsoleWriteline((int)'A'); // 1040
+    // ConsoleWriteLine((int)'Я'); // 1071
+    // ConsoleWriteLine((int)'a'); // 1072
+    // ConsoleWriteLine((int)'я'); // 1103
+
     struct MyDate
     {
         public int month;
@@ -50,7 +55,8 @@ namespace CW_23._05._03_Struct
             {
                 if (year - item.date.year > 3)
                 {
-                    Console.WriteLine("\n" + item.name + "\n" + item.surname + "\n" + item.lastname + "\n" + item.adress + "\n");
+                    Console.WriteLine("\n" + item.name + "\n" + item.surname +
+                        "\n" + item.lastname + "\n" + item.adress + "\n");
                 }
             }
 

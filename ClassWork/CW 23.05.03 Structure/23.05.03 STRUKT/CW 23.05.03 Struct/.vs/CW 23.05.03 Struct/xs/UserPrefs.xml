@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{334FE00B-5954-4D42-A57B-095E995C2A53}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CW_22023.05.03_220Struct PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="13.18/Program.cs">
+    <Files>
+      <File FileName="13.13/Program.cs" Line="16" Column="28" />
+      <File FileName="CW 23.05.03 Struct/Program.cs" Line="9" Column="1" />
+      <File FileName="13.18/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW 23.05.03 Struct" expanded="True">
+            <Node name="13.13" expanded="True" />
+            <Node name="13.18" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="CW 23.05.03 Struct" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.13.18 FirstBuild="True" />
+</Properties>

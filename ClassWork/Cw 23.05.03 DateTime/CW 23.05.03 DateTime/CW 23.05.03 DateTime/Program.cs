@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Понятие о дате и времени"); 
-            
-            
+
+
             DateTime dateTime = new DateTime();
 
             Console.WriteLine(dateTime);
@@ -92,12 +92,6 @@
             Console.WriteLine(nowDay.ToString("U"));
             Console.WriteLine(nowDay.ToString("u"));
             Console.WriteLine(nowDay.ToString("Y"));
-
-
-
-
-
-
 
             Console.ReadKey();
         }

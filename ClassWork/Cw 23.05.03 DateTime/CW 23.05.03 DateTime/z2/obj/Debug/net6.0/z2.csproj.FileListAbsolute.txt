@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/obj/Debug/net6.0/z2.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/obj/Debug/net6.0/z2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/obj/Debug/net6.0/z2.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/obj/Debug/net6.0/z2.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/obj/Debug/net6.0/z2.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/bin/Debug/net6.0/z2
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/bin/Debug/net6.0/z2.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/bin/Debug/net6.0/z2.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/bin/Debug/net6.0/z2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/bin/Debug/net6.0/z2.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/obj/Debug/net6.0/z2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/obj/Debug/net6.0/refint/z2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/obj/Debug/net6.0/z2.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/obj/Debug/net6.0/z2.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.03 DateTime/CW 23.05.03 DateTime/z2/obj/Debug/net6.0/ref/z2.dll
