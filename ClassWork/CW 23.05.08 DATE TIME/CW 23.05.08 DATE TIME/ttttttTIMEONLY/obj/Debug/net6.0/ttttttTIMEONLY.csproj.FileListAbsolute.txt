@@ -1,0 +1,15 @@
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\bin\Debug\net6.0\ttttttTIMEONLY.exe
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\bin\Debug\net6.0\ttttttTIMEONLY.deps.json
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\bin\Debug\net6.0\ttttttTIMEONLY.runtimeconfig.json
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\bin\Debug\net6.0\ttttttTIMEONLY.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\bin\Debug\net6.0\ttttttTIMEONLY.pdb
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\obj\Debug\net6.0\ttttttTIMEONLY.csproj.AssemblyReference.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\obj\Debug\net6.0\ttttttTIMEONLY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\obj\Debug\net6.0\ttttttTIMEONLY.AssemblyInfoInputs.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\obj\Debug\net6.0\ttttttTIMEONLY.AssemblyInfo.cs
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\obj\Debug\net6.0\ttttttTIMEONLY.csproj.CoreCompileInputs.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\obj\Debug\net6.0\ttttttTIMEONLY.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\obj\Debug\net6.0\refint\ttttttTIMEONLY.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\obj\Debug\net6.0\ttttttTIMEONLY.pdb
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\obj\Debug\net6.0\ttttttTIMEONLY.genruntimeconfig.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\ttttttTIMEONLY\obj\Debug\net6.0\ref\ttttttTIMEONLY.dll

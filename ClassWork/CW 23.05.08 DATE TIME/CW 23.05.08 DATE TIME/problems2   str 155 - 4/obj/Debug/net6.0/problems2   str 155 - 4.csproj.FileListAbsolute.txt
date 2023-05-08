@@ -1,0 +1,15 @@
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\bin\Debug\net6.0\problems2   str 155 - 4.exe
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\bin\Debug\net6.0\problems2   str 155 - 4.deps.json
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\bin\Debug\net6.0\problems2   str 155 - 4.runtimeconfig.json
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\bin\Debug\net6.0\problems2   str 155 - 4.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\bin\Debug\net6.0\problems2   str 155 - 4.pdb
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\obj\Debug\net6.0\problems2   str 155 - 4.csproj.AssemblyReference.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\obj\Debug\net6.0\problems2   str 155 - 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\obj\Debug\net6.0\problems2   str 155 - 4.AssemblyInfoInputs.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\obj\Debug\net6.0\problems2   str 155 - 4.AssemblyInfo.cs
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\obj\Debug\net6.0\problems2   str 155 - 4.csproj.CoreCompileInputs.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\obj\Debug\net6.0\problems2   str 155 - 4.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\obj\Debug\net6.0\refint\problems2   str 155 - 4.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\obj\Debug\net6.0\problems2   str 155 - 4.pdb
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\obj\Debug\net6.0\problems2   str 155 - 4.genruntimeconfig.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\problems2   str 155 - 4\obj\Debug\net6.0\ref\problems2   str 155 - 4.dll

@@ -1,0 +1,15 @@
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\bin\Debug\net6.0\DateOnly.exe
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\bin\Debug\net6.0\DateOnly.deps.json
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\bin\Debug\net6.0\DateOnly.runtimeconfig.json
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\bin\Debug\net6.0\DateOnly.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\bin\Debug\net6.0\DateOnly.pdb
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\obj\Debug\net6.0\DateOnly.csproj.AssemblyReference.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\obj\Debug\net6.0\DateOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\obj\Debug\net6.0\DateOnly.AssemblyInfoInputs.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\obj\Debug\net6.0\DateOnly.AssemblyInfo.cs
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\obj\Debug\net6.0\DateOnly.csproj.CoreCompileInputs.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\obj\Debug\net6.0\DateOnly.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\obj\Debug\net6.0\refint\DateOnly.dll
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\obj\Debug\net6.0\DateOnly.pdb
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\obj\Debug\net6.0\DateOnly.genruntimeconfig.cache
+C:\Users\C1NB3\source\repos\HW_CIFRA\ClassWork\CW 23.05.08 DATE TIME\CW 23.05.08 DATE TIME\DateOnly\obj\Debug\net6.0\ref\DateOnly.dll

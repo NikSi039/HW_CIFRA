@@ -38,13 +38,15 @@
             Console.WriteLine("////////////2///////////////");
 
 
-            Console.Write("Введите время запуска батареи: ");
+            Console.WriteLine("Введите время запуска батареи: ");
+
             int year = int.Parse(Console.ReadLine());
             int month = int.Parse(Console.ReadLine());
             int day = int.Parse(Console.ReadLine());
             int hour = int.Parse(Console.ReadLine());
             int minutes = int.Parse(Console.ReadLine());
             int seconds = int.Parse(Console.ReadLine());
+
             DateTime d = new(year, month, day, hour, minutes, seconds);
 
             Console.Write("Введите задекларированное время работы: ");
@@ -53,13 +55,13 @@
             if (DateTime.Now.Subtract(d).Hours < h)
             {
                 Console.WriteLine($"Количество часов работы {DateTime.Now.Subtract(d).Hours}, " +
-                    $"до полного разряда {60*h - DateTime.Now.Subtract(d).Minutes} минут");
+                    $"до полного разряда {60*h - DateTime.Now.Subtract(d).TotalMinutes} минут");
+
+                Console.WriteLine($"Количество часов работы {DateTime.Now.Subtract(d).Hours}, " +
+                   $"до полного разряда {(h - DateTime.Now.Subtract(d).Hours - 1)} :" +
+                   $" {(60 -DateTime.Now.Subtract(d).Minutes)} : " +
+                   $"{(60 - DateTime.Now.Subtract(d).Seconds)}");
             }
-
-
-
-
-
 
             Console.ReadKey();
         }
