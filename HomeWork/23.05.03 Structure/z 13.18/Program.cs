@@ -28,7 +28,7 @@ class Program
             countries[i].country = GetString(random.Next(4, 10));
             countries[i].partOfTheWorld = partOfTheWorlds[random.Next(0, partOfTheWorlds.Length)];
 
-            Console.WriteLine(countries[i].country + "," + countries[i].partOfTheWorld);
+            Console.WriteLine(countries[i].country + ", " + countries[i].partOfTheWorld);
             Console.WriteLine();
         }
 
