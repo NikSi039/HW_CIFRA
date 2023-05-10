@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = problems2.____str_157___12___1
+build_property.ProjectDir = /Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.    str 157 - 12 - 1/
