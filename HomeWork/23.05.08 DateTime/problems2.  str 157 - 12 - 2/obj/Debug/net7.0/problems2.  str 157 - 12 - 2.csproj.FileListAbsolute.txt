@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/bin/Debug/net7.0/problems2.  str 157 - 12 - 2
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/bin/Debug/net7.0/problems2.  str 157 - 12 - 2.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/bin/Debug/net7.0/problems2.  str 157 - 12 - 2.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/bin/Debug/net7.0/problems2.  str 157 - 12 - 2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/bin/Debug/net7.0/problems2.  str 157 - 12 - 2.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/obj/Debug/net7.0/problems2.  str 157 - 12 - 2.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/obj/Debug/net7.0/problems2.  str 157 - 12 - 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/obj/Debug/net7.0/problems2.  str 157 - 12 - 2.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/obj/Debug/net7.0/problems2.  str 157 - 12 - 2.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/obj/Debug/net7.0/problems2.  str 157 - 12 - 2.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/obj/Debug/net7.0/problems2.  str 157 - 12 - 2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/obj/Debug/net7.0/refint/problems2.  str 157 - 12 - 2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/obj/Debug/net7.0/problems2.  str 157 - 12 - 2.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/obj/Debug/net7.0/problems2.  str 157 - 12 - 2.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.08 DateTime/problems2.  str 157 - 12 - 2/obj/Debug/net7.0/ref/problems2.  str 157 - 12 - 2.dll
