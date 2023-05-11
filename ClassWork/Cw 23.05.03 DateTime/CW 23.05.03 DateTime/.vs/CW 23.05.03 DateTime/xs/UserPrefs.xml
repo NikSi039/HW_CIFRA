@@ -7,7 +7,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="z2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CW 23.05.03 DateTime/Program.cs">
     <Files>
       <File FileName="CW 23.05.03 DateTime/Program.cs" Line="9" Column="1" />
       <File FileName="z2/Program.cs" Line="20" Column="10" />
@@ -17,10 +17,10 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CW 23.05.03 DateTime" expanded="True">
-            <Node name="CW 23.05.03 DateTime" expanded="True" />
-            <Node name="z2" expanded="True">
+            <Node name="CW 23.05.03 DateTime" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="z2" expanded="True" />
             <Node name="zadacha 1" expanded="True" />
           </Node>
         </State>
