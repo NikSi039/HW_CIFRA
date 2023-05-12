@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{47E785FC-3323-48C2-86FA-F123673F1D6B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CW_22023.05.10_220PERECHISLENIYA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="problems2  str 160-2/Program.cs">
+    <Files>
+      <File FileName="CW 23.05.10 PERECHISLENIYA/Program.cs" Line="1" Column="1" />
+      <File FileName="2/Program.cs" Line="22" Column="31" />
+      <File FileName="problems2  str 160-2/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW 23.05.10 PERECHISLENIYA" expanded="True">
+            <Node name="2" expanded="True" />
+            <Node name="CW 23.05.10 PERECHISLENIYA" expanded="True" />
+            <Node name="problems2  str 160-2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

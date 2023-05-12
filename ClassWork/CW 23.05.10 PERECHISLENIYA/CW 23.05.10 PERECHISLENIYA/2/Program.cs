@@ -19,6 +19,7 @@
                 Console.WriteLine("Цвет сорта " + i + "-" + color[(int)i]);
             }
 
+            Console.ReadKey();
         }
     }
 
