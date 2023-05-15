@@ -1,0 +1,15 @@
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\obj\Debug\net6.0\asinxro.csproj.AssemblyReference.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\obj\Debug\net6.0\asinxro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\obj\Debug\net6.0\asinxro.AssemblyInfoInputs.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\obj\Debug\net6.0\asinxro.AssemblyInfo.cs
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\obj\Debug\net6.0\asinxro.csproj.CoreCompileInputs.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\bin\Debug\net6.0\asinxro.exe
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\bin\Debug\net6.0\asinxro.deps.json
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\bin\Debug\net6.0\asinxro.runtimeconfig.json
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\bin\Debug\net6.0\asinxro.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\bin\Debug\net6.0\asinxro.pdb
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\obj\Debug\net6.0\asinxro.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\obj\Debug\net6.0\refint\asinxro.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\obj\Debug\net6.0\asinxro.pdb
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\obj\Debug\net6.0\asinxro.genruntimeconfig.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\asinxro\obj\Debug\net6.0\ref\asinxro.dll

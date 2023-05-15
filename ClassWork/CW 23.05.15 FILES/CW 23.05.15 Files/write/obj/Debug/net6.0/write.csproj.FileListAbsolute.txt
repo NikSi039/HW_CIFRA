@@ -1,0 +1,15 @@
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\bin\Debug\net6.0\write.exe
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\bin\Debug\net6.0\write.deps.json
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\bin\Debug\net6.0\write.runtimeconfig.json
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\bin\Debug\net6.0\write.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\bin\Debug\net6.0\write.pdb
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\obj\Debug\net6.0\write.csproj.AssemblyReference.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\obj\Debug\net6.0\write.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\obj\Debug\net6.0\write.AssemblyInfoInputs.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\obj\Debug\net6.0\write.AssemblyInfo.cs
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\obj\Debug\net6.0\write.csproj.CoreCompileInputs.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\obj\Debug\net6.0\write.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\obj\Debug\net6.0\refint\write.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\obj\Debug\net6.0\write.pdb
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\obj\Debug\net6.0\write.genruntimeconfig.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.15 FILES\CW 23.05.15 Files\write\obj\Debug\net6.0\ref\write.dll
