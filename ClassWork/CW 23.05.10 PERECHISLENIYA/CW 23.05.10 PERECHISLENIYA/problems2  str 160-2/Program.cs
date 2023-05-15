@@ -62,11 +62,30 @@
             {
                 Console.WriteLine("ФИО:" + employers[i].fio);
 
+                int age = DateTime.Now.Year - employers[i].birthday.Year;
+                Console.WriteLine("Возраст: " + age);
+
                 int dayNow = DateTime.Now.Subtract(DateTime.MinValue).Days;
                 DateTime start = DateTime.Parse(employers[i].start.ToString());
                 int dayStart = start.Subtract(DateTime.MinValue).Days;  
                 Console.WriteLine("Количество отработанных дней:" + (dayNow - dayStart));
             }
+
+            for (int i = 0; i <n; i++)
+			{
+                int age = DateTime.Now.Year - employers[i].birthday.Year;
+
+                int dayNow = DateTime.Now.Subtract(DateTime.MinValue).Days;
+                DateTime start = DateTime.Parse(employers[i].start.ToString());
+                int dayStart = start.Subtract(DateTime.MinValue).Days;  
+                int stage = dayNow - dayStart;
+
+                if (((age > 60 && employers[i].pol == Pol.Мужской) ||
+                    (age > 55 && employers[i].pol == Pol.Женский))&& (stage>30))
+	            {
+                    Console.WriteLine ( employers[i].fio );
+	            }
+			}
 
             Console.ReadKey();
         }
