@@ -6,52 +6,30 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Напечатать первую строку:\n");
-        MyMethodReadA();
+        MyMethodRead("lines", 0, 0);
         Thread.Sleep(1000);
-        
-        Console.WriteLine("\n\n\nНапечатать пятую строку:");
-        MyMethodReadB();
+
+        Console.WriteLine("\n\n\nНапечатать пятую строку:\n");
+        MyMethodRead("lines", 4, 4);
         Thread.Sleep(1000);
 
         Console.WriteLine("\n\n\nНапечатать первые 5 строк:\n");
-        MyMethodReadV();
+        MyMethodRead("toLines", 5, 5);
         Thread.Sleep(1000);
 
         Console.WriteLine("\n\n\nНапечатать строки с s1-й по s2-ю:\n");
-        MyMethodReadG();
+        MyMethodRead("lines", 1, 2);
         Thread.Sleep(1000);
 
         Console.WriteLine("\n\n\nНапечатать весь файл:\n");
-        MyMethodReadD();
+        MyMethodRead("allLines", 0, 0);
         Thread.Sleep(1000);
 
         Console.ReadKey();
     }
 
 
-    async static void MyMethodReadA()
-    {
-        using (FileStream f = new FileStream("File.txt", FileMode.Open, FileAccess.Read))
-        {
-            byte[] buffer = new byte[f.Length];
-
-            await f.ReadAsync(buffer, 0, buffer.Length);
-
-            string text = Encoding.Default.GetString(buffer);
-
-            for (int i = 0; i < text.Length; i++)
-            {
-                Console.Write(text[i]);
-
-                if (text[i] == '\n')
-                {
-                    break;
-                }
-            }
-        }
-    }
-
-    async static void MyMethodReadB()
+    async static void MyMethodRead(string str, int c1, int c2)
     {
         using (FileStream f = new FileStream("File.txt", FileMode.Open, FileAccess.Read))
         {
@@ -70,79 +48,25 @@ class Program
                     count++;
                 }
 
-                if (count == 4)
+                switch (str)
                 {
-                    Console.Write(text[i]);
+                    case "lines":
+                        if (count == c1 || count == c2)
+                        {
+                            Console.Write(text[i]);
+                        }
+                        break;
+                    case "toLines":
+                        if (count < c1)
+                        {
+                            Console.Write(text[i]);
+                        }
+                        break;
+                    case "allLines":
+                        Console.Write(text[i]);
+                        break;
                 }
             }
-        }
-    }
-
-    async static void MyMethodReadV()
-    {
-        using (FileStream f = new FileStream("File.txt", FileMode.Open, FileAccess.Read))
-        {
-            byte[] buffer = new byte[f.Length];
-
-            await f.ReadAsync(buffer, 0, buffer.Length);
-
-            string text = Encoding.Default.GetString(buffer);
-
-            int count = 0;
-
-            for (int i = 0; i < text.Length; i++)
-            {
-                if (text[i] == '\n')
-                {
-                    count++;
-                }
-
-                if (count < 5)
-                {
-                    Console.Write(text[i]);
-                }
-            }
-        }
-    }
-
-    async static void MyMethodReadG()
-    {
-        using (FileStream f = new FileStream("File.txt", FileMode.Open, FileAccess.Read))
-        {
-            byte[] buffer = new byte[f.Length];
-
-            await f.ReadAsync(buffer, 0, buffer.Length);
-
-            string text = Encoding.Default.GetString(buffer);
-
-            int count = 0;
-
-            for (int i = 0; i < text.Length; i++)
-            {
-                if (text[i] == '\n')
-                {
-                    count++;
-                }
-
-                if (count == 1 || count == 2)
-                {
-                    Console.Write(text[i]);
-                }
-            }
-        }
-    }
-
-    async static void MyMethodReadD()
-    {
-        using (FileStream f = new FileStream("File.txt", FileMode.Open, FileAccess.Read))
-        {
-            byte[] buffer = new byte[f.Length];
-
-            await f.ReadAsync(buffer, 0, buffer.Length);
-
-            string text = Encoding.Default.GetString(buffer);
-            Console.WriteLine(text);
-           
         }
     }
 }
