@@ -1,0 +1,15 @@
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\obj\Debug\net6.0\bufferedStream.csproj.AssemblyReference.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\obj\Debug\net6.0\bufferedStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\obj\Debug\net6.0\bufferedStream.AssemblyInfoInputs.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\obj\Debug\net6.0\bufferedStream.AssemblyInfo.cs
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\obj\Debug\net6.0\bufferedStream.csproj.CoreCompileInputs.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\bin\Debug\net6.0\bufferedStream.exe
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\bin\Debug\net6.0\bufferedStream.deps.json
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\bin\Debug\net6.0\bufferedStream.runtimeconfig.json
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\bin\Debug\net6.0\bufferedStream.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\bin\Debug\net6.0\bufferedStream.pdb
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\obj\Debug\net6.0\bufferedStream.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\obj\Debug\net6.0\refint\bufferedStream.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\obj\Debug\net6.0\bufferedStream.pdb
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\obj\Debug\net6.0\bufferedStream.genruntimeconfig.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\bufferedStream\obj\Debug\net6.0\ref\bufferedStream.dll
