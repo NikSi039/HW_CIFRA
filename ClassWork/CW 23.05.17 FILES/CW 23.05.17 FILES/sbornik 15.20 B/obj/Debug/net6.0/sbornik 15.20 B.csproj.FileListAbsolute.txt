@@ -1,0 +1,15 @@
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\obj\Debug\net6.0\sbornik 15.20 B.csproj.AssemblyReference.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\obj\Debug\net6.0\sbornik 15.20 B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\obj\Debug\net6.0\sbornik 15.20 B.AssemblyInfoInputs.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\obj\Debug\net6.0\sbornik 15.20 B.AssemblyInfo.cs
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\obj\Debug\net6.0\sbornik 15.20 B.csproj.CoreCompileInputs.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\bin\Debug\net6.0\sbornik 15.20 B.exe
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\bin\Debug\net6.0\sbornik 15.20 B.deps.json
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\bin\Debug\net6.0\sbornik 15.20 B.runtimeconfig.json
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\bin\Debug\net6.0\sbornik 15.20 B.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\bin\Debug\net6.0\sbornik 15.20 B.pdb
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\obj\Debug\net6.0\sbornik 15.20 B.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\obj\Debug\net6.0\refint\sbornik 15.20 B.dll
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\obj\Debug\net6.0\sbornik 15.20 B.pdb
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\obj\Debug\net6.0\sbornik 15.20 B.genruntimeconfig.cache
+C:\Users\C1NB7\source\repos\NikSi039\HW_CIFRA\ClassWork\CW 23.05.17 FILES\CW 23.05.17 FILES\sbornik 15.20 B\obj\Debug\net6.0\ref\sbornik 15.20 B.dll
