@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{EFD793CE-1644-4499-8405-79321CDE3C66}|Default">
+  <MonoDevelop.Ide.ItemProperties.CW_22023.05.17_220FILES PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sbornik 15.29/Program.cs">
+    <Files>
+      <File FileName="CW 23.05.17 FILES/Program.cs" />
+      <File FileName="bufferedStream/Program.cs" />
+      <File FileName="Write/Program.cs" />
+      <File FileName="2/Program.cs" />
+      <File FileName="sbornik 15.19 -2/Program.cs" />
+      <File FileName="sbornik 15.20 B/Program.cs" />
+      <File FileName="sbornik 15.24/Program.cs" />
+      <File FileName="sbornik 15.29/Program.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW 23.05.17 FILES" expanded="True">
+            <Node name="2" expanded="True" />
+            <Node name="bufferedStream" expanded="True" />
+            <Node name="CW 23.05.17 FILES" expanded="True" />
+            <Node name="sbornik 15.19 -2" expanded="True" />
+            <Node name="sbornik 15.20 B" expanded="True" />
+            <Node name="sbornik 15.24" expanded="True" />
+            <Node name="sbornik 15.29" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Write" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.sbornik_22015.29 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.sbornik_22015.20_220B PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/obj/Debug/net6.0/sbornik 15.29.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/obj/Debug/net6.0/sbornik 15.29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/obj/Debug/net6.0/sbornik 15.29.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/obj/Debug/net6.0/sbornik 15.29.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/obj/Debug/net6.0/sbornik 15.29.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/bin/Debug/net6.0/sbornik 15.29
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/bin/Debug/net6.0/sbornik 15.29.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/bin/Debug/net6.0/sbornik 15.29.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/bin/Debug/net6.0/sbornik 15.29.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/bin/Debug/net6.0/sbornik 15.29.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/obj/Debug/net6.0/sbornik 15.29.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/obj/Debug/net6.0/refint/sbornik 15.29.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/obj/Debug/net6.0/sbornik 15.29.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/obj/Debug/net6.0/sbornik 15.29.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.17 FILES/CW 23.05.17 FILES/sbornik 15.29/obj/Debug/net6.0/ref/sbornik 15.29.dll
