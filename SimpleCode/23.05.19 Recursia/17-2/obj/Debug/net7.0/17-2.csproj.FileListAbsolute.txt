@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/bin/Debug/net7.0/17-2
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/bin/Debug/net7.0/17-2.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/bin/Debug/net7.0/17-2.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/bin/Debug/net7.0/17-2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/bin/Debug/net7.0/17-2.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/obj/Debug/net7.0/17-2.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/obj/Debug/net7.0/17-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/obj/Debug/net7.0/17-2.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/obj/Debug/net7.0/17-2.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/obj/Debug/net7.0/17-2.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/obj/Debug/net7.0/17-2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/obj/Debug/net7.0/refint/17-2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/obj/Debug/net7.0/17-2.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/obj/Debug/net7.0/17-2.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/SimpleCode/23.05.19 Recursia/17-2/obj/Debug/net7.0/ref/17-2.dll
