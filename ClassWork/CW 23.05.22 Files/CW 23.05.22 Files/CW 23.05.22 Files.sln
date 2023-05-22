@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sbornik 14.11", "sbornik 14
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct", "struct\struct.csproj", "{A96B99E2-00A7-47D8-A412-4E94ED334B55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problems2 str 138 - 1", "problems2 str 138 - 1\problems2 str 138 - 1.csproj", "{CCE1F2CA-D2EE-4973-9D0E-6664339F720E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problems 2  str 144 - 1", "problems 2  str 144 - 1\problems 2  str 144 - 1.csproj", "{D5C0126A-913C-4964-B72E-E92CF01542CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{A96B99E2-00A7-47D8-A412-4E94ED334B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A96B99E2-00A7-47D8-A412-4E94ED334B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A96B99E2-00A7-47D8-A412-4E94ED334B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE1F2CA-D2EE-4973-9D0E-6664339F720E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE1F2CA-D2EE-4973-9D0E-6664339F720E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE1F2CA-D2EE-4973-9D0E-6664339F720E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE1F2CA-D2EE-4973-9D0E-6664339F720E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C0126A-913C-4964-B72E-E92CF01542CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C0126A-913C-4964-B72E-E92CF01542CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C0126A-913C-4964-B72E-E92CF01542CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C0126A-913C-4964-B72E-E92CF01542CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

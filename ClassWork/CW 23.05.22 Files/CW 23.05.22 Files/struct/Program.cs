@@ -26,10 +26,6 @@ using(BinaryReader reader = new BinaryReader(File.Open("file.dat", FileMode.Open
     }
 }
 
-
-
-
-
 Console.ReadKey();
 
 struct Person
