@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\bin\Debug\net6.0\sbornik 14.1.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\bin\Debug\net6.0\sbornik 14.1.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\bin\Debug\net6.0\sbornik 14.1.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\bin\Debug\net6.0\sbornik 14.1.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\bin\Debug\net6.0\sbornik 14.1.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\obj\Debug\net6.0\sbornik 14.1.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\obj\Debug\net6.0\sbornik 14.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\obj\Debug\net6.0\sbornik 14.1.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\obj\Debug\net6.0\sbornik 14.1.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\obj\Debug\net6.0\sbornik 14.1.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\obj\Debug\net6.0\sbornik 14.1.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\obj\Debug\net6.0\refint\sbornik 14.1.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\obj\Debug\net6.0\sbornik 14.1.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\obj\Debug\net6.0\sbornik 14.1.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\sbornik 14.1\obj\Debug\net6.0\ref\sbornik 14.1.dll

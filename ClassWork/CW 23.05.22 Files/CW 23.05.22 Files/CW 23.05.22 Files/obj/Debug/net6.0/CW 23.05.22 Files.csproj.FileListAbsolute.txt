@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\bin\Debug\net6.0\CW 23.05.22 Files.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\bin\Debug\net6.0\CW 23.05.22 Files.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\bin\Debug\net6.0\CW 23.05.22 Files.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\bin\Debug\net6.0\CW 23.05.22 Files.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\bin\Debug\net6.0\CW 23.05.22 Files.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\obj\Debug\net6.0\CW 23.05.22 Files.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\obj\Debug\net6.0\CW 23.05.22 Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\obj\Debug\net6.0\CW 23.05.22 Files.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\obj\Debug\net6.0\CW 23.05.22 Files.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\obj\Debug\net6.0\CW 23.05.22 Files.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\obj\Debug\net6.0\CW 23.05.22 Files.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\obj\Debug\net6.0\refint\CW 23.05.22 Files.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\obj\Debug\net6.0\CW 23.05.22 Files.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\obj\Debug\net6.0\CW 23.05.22 Files.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.22 Files\CW 23.05.22 Files\CW 23.05.22 Files\obj\Debug\net6.0\ref\CW 23.05.22 Files.dll
