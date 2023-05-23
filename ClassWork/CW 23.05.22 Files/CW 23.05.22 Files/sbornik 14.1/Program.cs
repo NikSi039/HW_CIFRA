@@ -15,7 +15,7 @@ using (BinaryWriter writer = new BinaryWriter(File.Open("file.dat", FileMode.Ope
 using (BinaryReader reader = new BinaryReader(File.Open("file.dat", FileMode.Open)))
 {
     int age = reader.ReadInt32();
-double next = reader.ReadDouble();
+    double next = reader.ReadDouble();
     string name = reader.ReadString();
 
     Console.WriteLine(name + " " + age + " " + next);

@@ -5,11 +5,13 @@ Person[] mas = new Person[n];
 
 for (int i = 0; i < mas.Length; i++)
 {
+    Console.Write("\nВведите имя: ");
     mas[i].Name = Console.ReadLine();
+    Console.Write("\nВведите возраст: ");
     mas[i].Age = int.Parse(Console.ReadLine());
 }
 
-using(BinaryWriter writer = new BinaryWriter(File.Open("file.dat", FileMode.OpenOrCreate)))
+using (BinaryWriter writer = new BinaryWriter(File.Open("file.dat", FileMode.OpenOrCreate)))
 {
     foreach (Person p in mas)
     {
@@ -18,9 +20,9 @@ using(BinaryWriter writer = new BinaryWriter(File.Open("file.dat", FileMode.Open
     }
 }
 
-using(BinaryReader reader = new BinaryReader(File.Open("file.dat", FileMode.Open)))
+using (BinaryReader reader = new BinaryReader(File.Open("file.dat", FileMode.Open)))
 {
-    while (reader.PeekChar()>-1)
+    while (reader.PeekChar() > -1)
     {
         Console.WriteLine(reader.ReadString() + " " + reader.ReadInt32());
     }
