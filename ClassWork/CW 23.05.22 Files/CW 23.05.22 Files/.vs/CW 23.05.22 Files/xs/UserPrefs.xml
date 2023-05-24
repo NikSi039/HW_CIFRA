@@ -1,4 +1,5 @@
-﻿<Properties StartupConfiguration="{3000F6C9-1396-41EF-98B7-83911F9C0D55}|Default">
+﻿<Properties StartupConfiguration="{B5871A9F-EF87-4352-87FC-042BEE974A81}|Default">
+  <MonoDevelop.Ide.ItemProperties.sbornik_22014.11 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.struct PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
@@ -6,15 +7,20 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CW_22023.05.22_220Files PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.sbornik_22014.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.sbornik_22014.5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.sbornik_22014.2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sbornik_22014.7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="sbornik 14.2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sbornik 14.11/Program.cs">
     <Files>
-      <File FileName="CW 23.05.22 Files/Program.cs" Line="1" Column="1" />
-      <File FileName="struct/Program.cs" Line="27" Column="1" />
-      <File FileName="sbornik 14.1/Program.cs" Line="1" Column="1" />
-      <File FileName="sbornik 14.2/Program.cs" Line="22" Column="6" />
+      <File FileName="CW 23.05.22 Files/Program.cs" />
+      <File FileName="struct/Program.cs" />
+      <File FileName="sbornik 14.1/Program.cs" />
+      <File FileName="sbornik 14.2/Program.cs" Line="14" Column="2" />
+      <File FileName="sbornik 14.5/Program.cs" Line="15" Column="2" />
+      <File FileName="sbornik 14.7/Program.cs" Line="29" Column="19" />
+      <File FileName="sbornik 14.11/Program.cs" Line="15" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,7 +28,12 @@
           <Node name="CW 23.05.22 Files" expanded="True">
             <Node name="CW 23.05.22 Files" expanded="True" />
             <Node name="sbornik 14.1" expanded="True" />
+            <Node name="sbornik 14.11" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="sbornik 14.2" expanded="True" />
+            <Node name="sbornik 14.5" expanded="True" />
+            <Node name="sbornik 14.7" expanded="True" />
             <Node name="struct" expanded="True" />
           </Node>
         </State>

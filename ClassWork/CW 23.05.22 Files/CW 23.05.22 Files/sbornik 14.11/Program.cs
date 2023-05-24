@@ -7,8 +7,8 @@
 
 using (BinaryWriter writer = new BinaryWriter(File.Open("file.dat", FileMode.OpenOrCreate)))
 {
-    Random random = new Random();
-    int n ;
+    Random random = new();
+    int n;
 
     do
     {
@@ -22,6 +22,7 @@ Console.WriteLine();
 
 using (BinaryReader reader = new BinaryReader(File.Open("file.dat", FileMode.Open)))
 {
+    Console.Write("Введите число: ");
     int n = int.Parse(Console.ReadLine());
     int count = 0;
     int last = 0;
