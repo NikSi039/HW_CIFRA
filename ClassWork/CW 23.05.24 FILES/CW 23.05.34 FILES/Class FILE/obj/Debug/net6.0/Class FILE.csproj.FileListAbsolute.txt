@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\bin\Debug\net6.0\Class FILE.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\bin\Debug\net6.0\Class FILE.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\bin\Debug\net6.0\Class FILE.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\bin\Debug\net6.0\Class FILE.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\bin\Debug\net6.0\Class FILE.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\obj\Debug\net6.0\Class FILE.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\obj\Debug\net6.0\Class FILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\obj\Debug\net6.0\Class FILE.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\obj\Debug\net6.0\Class FILE.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\obj\Debug\net6.0\Class FILE.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\obj\Debug\net6.0\Class FILE.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\obj\Debug\net6.0\refint\Class FILE.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\obj\Debug\net6.0\Class FILE.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\obj\Debug\net6.0\Class FILE.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Class FILE\obj\Debug\net6.0\ref\Class FILE.dll
