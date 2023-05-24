@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/bin/Debug/net6.0/problems 2  str 144 - 1
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/bin/Debug/net6.0/problems 2  str 144 - 1.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/bin/Debug/net6.0/problems 2  str 144 - 1.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/bin/Debug/net6.0/problems 2  str 144 - 1.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/bin/Debug/net6.0/problems 2  str 144 - 1.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/obj/Debug/net6.0/problems 2  str 144 - 1.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/obj/Debug/net6.0/problems 2  str 144 - 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/obj/Debug/net6.0/problems 2  str 144 - 1.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/obj/Debug/net6.0/problems 2  str 144 - 1.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/obj/Debug/net6.0/problems 2  str 144 - 1.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/obj/Debug/net6.0/problems 2  str 144 - 1.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/obj/Debug/net6.0/refint/problems 2  str 144 - 1.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/obj/Debug/net6.0/problems 2  str 144 - 1.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/obj/Debug/net6.0/problems 2  str 144 - 1.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.22 Files/CW 23.05.22 Files/problems 2  str 144 - 1/obj/Debug/net6.0/ref/problems 2  str 144 - 1.dll

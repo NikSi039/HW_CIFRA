@@ -1,22 +1,23 @@
 ﻿int count = 0;
 
-using (BinaryWriter writer = new BinaryWriter(File.Open("text.dat",FileMode.OpenOrCreate)))
+using (BinaryWriter writer = new(File.Open("text.dat", FileMode.OpenOrCreate)))
 {
-    Random random = new Random();
+    Random random = new();
     int n;
 
     do
     {
         n = random.Next(-10, 11);
-        writer.Write(n); 
+        writer.Write(n);
         count++;
         Console.Write(n + " ");
-    } while (n!=0);
+    } while (n != 0);
+    Console.WriteLine("\n");
 }
 
 int[] mas = new int[count];
 
-using (BinaryReader reader = new BinaryReader(File.Open("text.dat",FileMode.Open)))
+using (BinaryReader reader = new(File.Open("text.dat", FileMode.Open)))
 {
     for (int i = 0; i < count; i++)
     {
@@ -24,7 +25,7 @@ using (BinaryReader reader = new BinaryReader(File.Open("text.dat",FileMode.Open
     }
 }
 
-using (BinaryWriter writer = new BinaryWriter(File.Open("text.dat", FileMode.Open, FileAccess.Write)))
+using (BinaryWriter writer = new(File.Open("text.dat", FileMode.Open, FileAccess.Write)))
 {
     foreach (int item in mas)
     {
@@ -32,7 +33,7 @@ using (BinaryWriter writer = new BinaryWriter(File.Open("text.dat", FileMode.Ope
     }
 }
 
-using (BinaryReader reader = new BinaryReader(File.Open("text.dat", FileMode.Open)))
+using (BinaryReader reader = new(File.Open("text.dat", FileMode.Open)))
 {
     for (int i = 0; i < count; i++)
     {

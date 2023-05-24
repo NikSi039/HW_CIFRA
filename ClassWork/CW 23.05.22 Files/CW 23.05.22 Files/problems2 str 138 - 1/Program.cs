@@ -4,26 +4,30 @@ Console.Write("Введите количество студентов: ");
 int n = int.Parse(Console.ReadLine());
 
 Student[] mas = new Student[n];
-Random random = new Random();
+Random random = new();
 
 for (int i = 0; i < mas.Length; i++)
 {
-    Console.Write("Введите ФИО: ");
+    Console.Write("\nВведите ФИО: ");
     mas[i].Fio = Console.ReadLine();
-    Console.Write("Введите номер группы: ");  
+
+    Console.Write("Введите номер группы: ");
     mas[i].Number = int.Parse(Console.ReadLine());
+
     mas[i].Grades = new int[3];
     Console.Write("Оценки: ");
+
     for (int j = 0; j < mas[i].Grades.Length; j++)
     {
         mas[i].Grades[j] = random.Next(3, 6);
         Console.Write(mas[i].Grades[j] + " ");
     }
-    Console.WriteLine("Введите стипендию: ");
+
+    Console.Write("\nВведите стипендию: ");
     mas[i].Scolarship = decimal.Parse(Console.ReadLine());
 }
 
-using (BinaryWriter writer = new BinaryWriter(File.Open("file.dat", FileMode.OpenOrCreate)))
+using (BinaryWriter writer = new(File.Open("file.dat", FileMode.OpenOrCreate)))
 {
     foreach (Student st in mas)
     {
@@ -37,7 +41,7 @@ using (BinaryWriter writer = new BinaryWriter(File.Open("file.dat", FileMode.Ope
     }
 }
 
-using (BinaryReader reader = new BinaryReader(File.Open("file.dat", FileMode.Open)))
+using (BinaryReader reader = new(File.Open("file.dat", FileMode.Open)))
 {
     while (reader.PeekChar() > -1)
     {
@@ -54,7 +58,8 @@ using (BinaryReader reader = new BinaryReader(File.Open("file.dat", FileMode.Ope
 
         if (isTrue)
         {
-            Console.Write(fio + " " + number + " " + studGrades[0] + " " + studGrades[1] + " " + studGrades[2] + " " + scolarship);
+            Console.Write("\n\n\n" + fio + " " + number + " " + studGrades[0] +
+                " " + studGrades[1] + " " + studGrades[2] + " " + scolarship);
         }
     }
 }

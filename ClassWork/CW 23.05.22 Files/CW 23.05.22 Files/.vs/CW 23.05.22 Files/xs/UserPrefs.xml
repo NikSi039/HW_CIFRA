@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{B5871A9F-EF87-4352-87FC-042BEE974A81}|Default">
+﻿<Properties StartupConfiguration="{D5C0126A-913C-4964-B72E-E92CF01542CF}|Default">
   <MonoDevelop.Ide.ItemProperties.sbornik_22014.11 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.struct PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -12,25 +12,29 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.sbornik_22014.7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="sbornik 14.11/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.problems_2202_220_220str_220144_220-_2201 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.problems2_220str_220138_220-_2201 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="problems 2  str 144 - 1/Program.cs">
     <Files>
       <File FileName="CW 23.05.22 Files/Program.cs" />
       <File FileName="struct/Program.cs" />
       <File FileName="sbornik 14.1/Program.cs" />
-      <File FileName="sbornik 14.2/Program.cs" Line="14" Column="2" />
-      <File FileName="sbornik 14.5/Program.cs" Line="15" Column="2" />
-      <File FileName="sbornik 14.7/Program.cs" Line="29" Column="19" />
+      <File FileName="sbornik 14.2/Program.cs" />
+      <File FileName="sbornik 14.5/Program.cs" />
+      <File FileName="sbornik 14.7/Program.cs" />
       <File FileName="sbornik 14.11/Program.cs" Line="15" Column="34" />
+      <File FileName="problems2 str 138 - 1/Program.cs" Line="64" Column="6" />
+      <File FileName="problems 2  str 144 - 1/Program.cs" Line="16" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CW 23.05.22 Files" expanded="True">
             <Node name="CW 23.05.22 Files" expanded="True" />
+            <Node name="problems 2  str 144 - 1" expanded="True" />
+            <Node name="problems2 str 138 - 1" expanded="True" />
             <Node name="sbornik 14.1" expanded="True" />
-            <Node name="sbornik 14.11" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="sbornik 14.11" expanded="True" />
             <Node name="sbornik 14.2" expanded="True" />
             <Node name="sbornik 14.5" expanded="True" />
             <Node name="sbornik 14.7" expanded="True" />
