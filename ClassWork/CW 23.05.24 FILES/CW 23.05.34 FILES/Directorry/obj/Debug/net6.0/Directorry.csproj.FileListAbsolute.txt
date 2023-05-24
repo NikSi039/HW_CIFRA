@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\bin\Debug\net6.0\Directorry.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\bin\Debug\net6.0\Directorry.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\bin\Debug\net6.0\Directorry.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\bin\Debug\net6.0\Directorry.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\bin\Debug\net6.0\Directorry.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\obj\Debug\net6.0\Directorry.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\obj\Debug\net6.0\Directorry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\obj\Debug\net6.0\Directorry.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\obj\Debug\net6.0\Directorry.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\obj\Debug\net6.0\Directorry.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\obj\Debug\net6.0\Directorry.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\obj\Debug\net6.0\refint\Directorry.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\obj\Debug\net6.0\Directorry.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\obj\Debug\net6.0\Directorry.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Directorry\obj\Debug\net6.0\ref\Directorry.dll

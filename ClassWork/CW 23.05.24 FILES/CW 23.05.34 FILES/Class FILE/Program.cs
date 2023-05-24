@@ -38,8 +38,4 @@ if (newInfo2.Exists)
     newInfo2.Replace(destinationPath, resPath,true);
 }
 
-
-
-
-
 Console.ReadKey();

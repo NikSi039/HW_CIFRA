@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\bin\Debug\net6.0\Folders.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\bin\Debug\net6.0\Folders.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\bin\Debug\net6.0\Folders.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\bin\Debug\net6.0\Folders.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\bin\Debug\net6.0\Folders.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\obj\Debug\net6.0\Folders.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\obj\Debug\net6.0\Folders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\obj\Debug\net6.0\Folders.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\obj\Debug\net6.0\Folders.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\obj\Debug\net6.0\Folders.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\obj\Debug\net6.0\Folders.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\obj\Debug\net6.0\refint\Folders.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\obj\Debug\net6.0\Folders.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\obj\Debug\net6.0\Folders.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.05.24 FILES\CW 23.05.34 FILES\Folders\obj\Debug\net6.0\ref\Folders.dll
