@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5F8E04B6-11C1-4A92-B8FD-E2A002456755}|Default">
+  <MonoDevelop.Ide.ItemProperties.CW_22023.05.34_220FILES PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Directorry PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Class_220FILE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Folders/Program.cs">
+    <Files>
+      <File FileName="CW 23.05.34 FILES/Program.cs" Line="19" Column="49" />
+      <File FileName="Class FILE/Program.cs" Line="17" Column="57" />
+      <File FileName="Directorry/Program.cs" Line="14" Column="1" />
+      <File FileName="Folders/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW 23.05.34 FILES" expanded="True">
+            <Node name="Class FILE" expanded="True" />
+            <Node name="CW 23.05.34 FILES" expanded="True" />
+            <Node name="Directorry" expanded="True" />
+            <Node name="Folders" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

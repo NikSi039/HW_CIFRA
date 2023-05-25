@@ -5,7 +5,7 @@ string destinationPath = @"dtext.txt";
 string resPath = @"rtext.txt";
 
 FileInfo fileInfo = new FileInfo(path);
-FileInfo newInfo = new FileInfo(newPath);   
+FileInfo newInfo = new FileInfo(newPath);
 FileInfo newInfo2 = new FileInfo(movePath);
 
 if (fileInfo.Exists)
@@ -23,7 +23,7 @@ if (fileInfo.Exists)
 
 if (newInfo.Exists)
 {
-    Console.WriteLine("Имя файла: " + newInfo.Name); 
+    Console.WriteLine("Имя файла: " + newInfo.Name);
     Console.WriteLine("Время создания: " + newInfo.CreationTime);
     Console.WriteLine("Размер файла: " + newInfo.Length);
 
@@ -35,7 +35,7 @@ if (newInfo.Exists)
 
 if (newInfo2.Exists)
 {
-    newInfo2.Replace(destinationPath, resPath,true);
+    newInfo2.Replace(destinationPath, resPath, true);
 }
 
 Console.ReadKey();

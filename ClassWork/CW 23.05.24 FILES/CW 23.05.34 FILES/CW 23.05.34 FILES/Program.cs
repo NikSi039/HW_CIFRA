@@ -16,26 +16,26 @@ ZipFile.CreateFromDirectory(zipSourceFolder, zipFile);
 ZipFile.ExtractToDirectory(zipFile, targetFolder);
 
 await CompressAsync(sourceFile, compressFile);
-await DecompressAsync(compressFile, targetFile);	
+await DecompressAsync(compressFile, targetFile);
 
-Console.ReadKey();  
+Console.ReadKey();
 
 
-async Task CompressAsync( string sourceFile, string compressFile)
+async Task CompressAsync(string sourceFile, string compressFile)
 {
-	using FileStream sourceStream = new FileStream(sourceFile, FileMode.OpenOrCreate);
-	using FileStream targetStream = File.Create(compressFile);	
-	using GZipStream compressionStream = new GZipStream(targetStream, CompressionMode.Compress);
-	
-	await sourceStream.CopyToAsync(compressionStream);
-	Console.Write("Сжатие завершено");
+    using FileStream sourceStream = new FileStream(sourceFile, FileMode.OpenOrCreate);
+    using FileStream targetStream = File.Create(compressFile);
+    using GZipStream compressionStream = new GZipStream(targetStream, CompressionMode.Compress);
+
+    await sourceStream.CopyToAsync(compressionStream);
+    Console.Write("Сжатие завершено");
 }
 
 async Task DecompressAsync(string compressFile, string targetFile)
 {
-	using FileStream sourceStream = new FileStream(compressFile, FileMode.OpenOrCreate);
-	using FileStream targetStream = File.Create(targetFile);
-	using GZipStream decompressionStream = new GZipStream(sourceStream, CompressionMode.Decompress);	
+    using FileStream sourceStream = new FileStream(compressFile, FileMode.OpenOrCreate);
+    using FileStream targetStream = File.Create(targetFile);
+    using GZipStream decompressionStream = new GZipStream(sourceStream, CompressionMode.Decompress);
 
-	await decompressionStream.CopyToAsync(targetStream);	
+    await decompressionStream.CopyToAsync(targetStream);
 }
