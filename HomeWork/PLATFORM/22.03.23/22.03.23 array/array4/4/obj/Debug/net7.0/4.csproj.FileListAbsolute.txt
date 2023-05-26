@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/bin/Debug/net7.0/4
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/bin/Debug/net7.0/4.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/bin/Debug/net7.0/4.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/bin/Debug/net7.0/4.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/bin/Debug/net7.0/4.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/obj/Debug/net7.0/4.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/obj/Debug/net7.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/obj/Debug/net7.0/4.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/obj/Debug/net7.0/4.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/obj/Debug/net7.0/4.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/obj/Debug/net7.0/4.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/obj/Debug/net7.0/refint/4.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/obj/Debug/net7.0/4.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/obj/Debug/net7.0/4.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array4/4/obj/Debug/net7.0/ref/4.dll

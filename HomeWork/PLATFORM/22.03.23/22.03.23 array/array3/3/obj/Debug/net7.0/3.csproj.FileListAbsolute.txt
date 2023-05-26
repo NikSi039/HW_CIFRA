@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/bin/Debug/net7.0/3
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/bin/Debug/net7.0/3.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/bin/Debug/net7.0/3.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/bin/Debug/net7.0/3.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/bin/Debug/net7.0/3.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/obj/Debug/net7.0/3.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/obj/Debug/net7.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/obj/Debug/net7.0/3.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/obj/Debug/net7.0/3.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/obj/Debug/net7.0/3.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/obj/Debug/net7.0/3.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/obj/Debug/net7.0/refint/3.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/obj/Debug/net7.0/3.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/obj/Debug/net7.0/3.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/22.03.23/22.03.23 array/array3/3/obj/Debug/net7.0/ref/3.dll
