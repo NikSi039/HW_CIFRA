@@ -31,30 +31,30 @@
             if (moveSource.Exists) moveSource.MoveTo(@$"{path}\{commands[2]}", true);
             break;
         case "dir":
-            DirectoryInfo dir = new DirectoryInfo(path);
-            if (dir.Exists)
+                DirectoryInfo dir = new DirectoryInfo(path);
+                if (dir.Exists)
+                {
+                    foreach (DirectoryInfo s in dir.GetDirectories())
+                    {
+                        Console.WriteLine(s.Name);
+                    }
+                    foreach (FileInfo s in dir.GetFiles())
+                    {
+                        Console.WriteLine(s.Name + " " + s.Length + " " + s.CreationTime);
+                    }
+                }
+                break;
+        case "mkdir":
+            DirectoryInfo dirinfo = new DirectoryInfo(@$"{path}\{commands[1]}");
+            if(!dirinfo.Exists)
             {
-                DirectoryInfo[] dirs = dir.GetDirectories();    
-                foreach (DirectoryInfo s in dirs)
-                {
-                    Console.WriteLine(s.Name);
-                }
-                FileInfo[] files = dir.GetFiles();  
-                foreach (FileInfo s in files)
-                {
-                    Console.WriteLine(s.Name);
-                }
+                dirinfo.Create();
             }
             break;
+        
         default:
             break;
     }
-
-
-
-
-
-
 }
 
 
