@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\bin\Debug\net6.0\CW 23.05.29 FileManager.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\bin\Debug\net6.0\CW 23.05.29 FileManager.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\bin\Debug\net6.0\CW 23.05.29 FileManager.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\bin\Debug\net6.0\CW 23.05.29 FileManager.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\bin\Debug\net6.0\CW 23.05.29 FileManager.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\obj\Debug\net6.0\CW 23.05.29 FileManager.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\obj\Debug\net6.0\CW 23.05.29 FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\obj\Debug\net6.0\CW 23.05.29 FileManager.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\obj\Debug\net6.0\CW 23.05.29 FileManager.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\obj\Debug\net6.0\CW 23.05.29 FileManager.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\obj\Debug\net6.0\CW 23.05.29 FileManager.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\obj\Debug\net6.0\refint\CW 23.05.29 FileManager.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\obj\Debug\net6.0\CW 23.05.29 FileManager.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\obj\Debug\net6.0\CW 23.05.29 FileManager.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\Cw 23.05.29 FileManager\CW 23.05.29 FileManager\CW 23.05.29 FileManager\obj\Debug\net6.0\ref\CW 23.05.29 FileManager.dll
