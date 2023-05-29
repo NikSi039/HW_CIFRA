@@ -1,6 +1,6 @@
-﻿while (true)
+﻿    string path = Environment.CurrentDirectory;
+while (true)
 {
-    string path = Environment.CurrentDirectory;
     Console.Write(path + ">");
 
     string? command = Console.ReadLine();
@@ -45,13 +45,41 @@
                 }
                 break;
         case "mkdir":
-            DirectoryInfo dirinfo = new DirectoryInfo(@$"{path}\{commands[1]}");
-            if(!dirinfo.Exists)
+            DirectoryInfo dirCreate = new DirectoryInfo(@$"{path}\{commands[1]}");
+            if(!dirCreate.Exists)
             {
-                dirinfo.Create();
+                dirCreate.Create();
             }
             break;
-        
+        case "deleteDir":
+            DirectoryInfo dirInfo = new DirectoryInfo(@$"{path}\{commands[1]}");
+            if (dirInfo.Exists)
+            {
+                dirInfo.Delete(true);
+                Console.WriteLine("Каталог удален");
+            }
+            else Console.WriteLine("Каталог не существует");
+            break;
+        case "cd":
+            switch (commands[1])
+            {
+                case "..":
+                    DirectoryInfo currentInfo = new DirectoryInfo(@$"{path}");
+                    DirectoryInfo? newDir = currentInfo.Parent;
+                    path = newDir!.FullName;
+                    break; 
+                    case "/":
+                   currentInfo = new DirectoryInfo(@$"{path}");
+                    DirectoryInfo? rootDir = currentInfo.Root;
+                    path = rootDir!.FullName;
+                    break;
+                default:
+                    currentInfo = new DirectoryInfo(@$"{path}\{commands[1]}");
+                    if (currentInfo.Exists) path = currentInfo.FullName;
+                    else Console.WriteLine("Такого каталога не существует");
+                    break;
+            }
+            break;   
         default:
             break;
     }
