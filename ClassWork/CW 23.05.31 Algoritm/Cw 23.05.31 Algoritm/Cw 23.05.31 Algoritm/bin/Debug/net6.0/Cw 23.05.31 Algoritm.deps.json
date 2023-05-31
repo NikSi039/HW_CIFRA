@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cw 23.05.31 Algoritm/1.0.0": {
+        "runtime": {
+          "Cw 23.05.31 Algoritm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cw 23.05.31 Algoritm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
