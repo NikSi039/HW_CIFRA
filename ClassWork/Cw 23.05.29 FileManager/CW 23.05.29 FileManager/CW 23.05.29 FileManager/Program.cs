@@ -1,4 +1,5 @@
-﻿    string path = Environment.CurrentDirectory;
+﻿string path = Environment.CurrentDirectory;
+
 while (true)
 {
     Console.Write(path + ">");
@@ -14,7 +15,7 @@ while (true)
             Console.WriteLine("delete - удаление файла delete file");
             break;
         case "touch":
-           FileStream file = File.Create(@$"{path}\{commands[1]}");
+            FileStream file = File.Create(@$"{path}\{commands[1]}");
             break;
         case "delete":
             FileInfo fileDel = new FileInfo(@$"{path}\{commands[1]}");
@@ -23,7 +24,7 @@ while (true)
             break;
         case "copy":
             FileInfo fileSource = new FileInfo(@$"{path}\{commands[1]}");
-            if (fileSource.Exists) fileSource.CopyTo(@$"{path}\{commands[2]}",true);
+            if (fileSource.Exists) fileSource.CopyTo(@$"{path}\{commands[2]}", true);
             else Console.WriteLine("Файл не существует");
             break;
         case "move":
@@ -31,25 +32,17 @@ while (true)
             if (moveSource.Exists) moveSource.MoveTo(@$"{path}\{commands[2]}", true);
             break;
         case "dir":
-                DirectoryInfo dir = new DirectoryInfo(path);
-                if (dir.Exists)
-                {
-                    foreach (DirectoryInfo s in dir.GetDirectories())
-                    {
-                        Console.WriteLine(s.Name);
-                    }
-                    foreach (FileInfo s in dir.GetFiles())
-                    {
-                        Console.WriteLine(s.Name + " " + s.Length + " " + s.CreationTime);
-                    }
-                }
-                break;
+            DirectoryInfo dir = new DirectoryInfo(path);
+            if (dir.Exists)
+            {
+                foreach (DirectoryInfo s in dir.GetDirectories()) Console.WriteLine(s.Name);
+                foreach (FileInfo s in dir.GetFiles()) Console.WriteLine(s.Name + " "
+                    + s.Length + " " + s.CreationTime);
+            }
+            break;
         case "mkdir":
             DirectoryInfo dirCreate = new DirectoryInfo(@$"{path}\{commands[1]}");
-            if(!dirCreate.Exists)
-            {
-                dirCreate.Create();
-            }
+            if (!dirCreate.Exists) dirCreate.Create();
             break;
         case "deleteDir":
             DirectoryInfo dirInfo = new DirectoryInfo(@$"{path}\{commands[1]}");
@@ -67,9 +60,9 @@ while (true)
                     DirectoryInfo currentInfo = new DirectoryInfo(@$"{path}");
                     DirectoryInfo? newDir = currentInfo.Parent;
                     path = newDir!.FullName;
-                    break; 
-                    case "/":
-                   currentInfo = new DirectoryInfo(@$"{path}");
+                    break;
+                case "/":
+                    currentInfo = new DirectoryInfo(@$"{path}");
                     DirectoryInfo? rootDir = currentInfo.Root;
                     path = rootDir!.FullName;
                     break;
@@ -79,10 +72,8 @@ while (true)
                     else Console.WriteLine("Такого каталога не существует");
                     break;
             }
-            break;   
+            break;
         default:
             break;
     }
 }
-
-

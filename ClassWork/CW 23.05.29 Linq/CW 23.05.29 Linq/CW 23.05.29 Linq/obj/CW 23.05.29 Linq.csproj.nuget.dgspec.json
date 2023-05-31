@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.05.29 Linq\\CW 23.05.29 Linq\\CW 23.05.29 Linq\\CW 23.05.29 Linq.csproj": {}
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/CW 23.05.29 Linq/CW 23.05.29 Linq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.05.29 Linq\\CW 23.05.29 Linq\\CW 23.05.29 Linq\\CW 23.05.29 Linq.csproj": {
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/CW 23.05.29 Linq/CW 23.05.29 Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.05.29 Linq\\CW 23.05.29 Linq\\CW 23.05.29 Linq\\CW 23.05.29 Linq.csproj",
+        "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/CW 23.05.29 Linq/CW 23.05.29 Linq.csproj",
         "projectName": "CW 23.05.29 Linq",
-        "projectPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.05.29 Linq\\CW 23.05.29 Linq\\CW 23.05.29 Linq\\CW 23.05.29 Linq.csproj",
-        "packagesPath": "C:\\Users\\C1nb9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.05.29 Linq\\CW 23.05.29 Linq\\CW 23.05.29 Linq\\obj\\",
+        "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/CW 23.05.29 Linq/CW 23.05.29 Linq.csproj",
+        "packagesPath": "/Users/programmirovanie/.nuget/packages/",
+        "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/CW 23.05.29 Linq/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\C1nb9\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/programmirovanie/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
