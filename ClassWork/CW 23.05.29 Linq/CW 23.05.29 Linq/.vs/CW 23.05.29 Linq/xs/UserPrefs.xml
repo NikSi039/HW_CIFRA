@@ -1,22 +1,28 @@
-﻿<Properties StartupConfiguration="{7ECDE6A4-21A2-42F8-801D-576429D7CF6D}|Default">
+﻿<Properties StartupConfiguration="{D64D20FA-4C84-4796-9CDC-22F8B995C4F3}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.11.19 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.11.17 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CW_22023.05.29_220Linq PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CW 23.05.29 Linq/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="11.19/Program.cs">
     <Files>
-      <File FileName="CW 23.05.29 Linq/Program.cs" Line="62" Column="1" />
+      <File FileName="CW 23.05.29 Linq/Program.cs" Line="63" Column="19" />
+      <File FileName="11.17/Program.cs" Line="20" Column="1" />
+      <File FileName="11.19/Program.cs" Line="53" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CW 23.05.29 Linq" expanded="True">
-            <Node name="CW 23.05.29 Linq" expanded="True">
+            <Node name="11.17" expanded="True" />
+            <Node name="11.19" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="CW 23.05.29 Linq" expanded="True" />
           </Node>
         </State>
       </Pad>

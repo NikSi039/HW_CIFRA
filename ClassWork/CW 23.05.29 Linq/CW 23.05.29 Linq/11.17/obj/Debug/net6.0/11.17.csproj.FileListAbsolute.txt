@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/bin/Debug/net6.0/11.17
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/bin/Debug/net6.0/11.17.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/bin/Debug/net6.0/11.17.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/bin/Debug/net6.0/11.17.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/bin/Debug/net6.0/11.17.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/obj/Debug/net6.0/11.17.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/obj/Debug/net6.0/11.17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/obj/Debug/net6.0/11.17.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/obj/Debug/net6.0/11.17.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/obj/Debug/net6.0/11.17.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/obj/Debug/net6.0/11.17.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/obj/Debug/net6.0/refint/11.17.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/obj/Debug/net6.0/11.17.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/obj/Debug/net6.0/11.17.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.29 Linq/CW 23.05.29 Linq/11.17/obj/Debug/net6.0/ref/11.17.dll
