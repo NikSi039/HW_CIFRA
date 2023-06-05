@@ -53,6 +53,7 @@
             this.tbKurs.Name = "tbKurs";
             this.tbKurs.Size = new System.Drawing.Size(381, 32);
             this.tbKurs.TabIndex = 1;
+            this.tbKurs.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbKurs_KeyPress);
             // 
             // label2
             // 
@@ -71,6 +72,8 @@
             this.tbDollar.Name = "tbDollar";
             this.tbDollar.Size = new System.Drawing.Size(381, 32);
             this.tbDollar.TabIndex = 3;
+            this.tbDollar.TextChanged += new System.EventHandler(this.tbDollar_TextChanged);
+            this.tbDollar.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbDollar_KeyPress);
             // 
             // btResult
             // 
@@ -105,8 +108,10 @@
             this.Controls.Add(this.tbKurs);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Конвертер";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);

@@ -28,5 +28,51 @@ namespace firstWinFormsApp
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void tbKurs_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar>='0' && e.KeyChar<='9')  return;
+            if (e.KeyChar == '.') e.KeyChar = ',';
+            if (e.KeyChar == ',')
+            {
+                if (tbKurs.Text.IndexOf(',')!= -1)
+                {
+                    e.Handled = true;
+                }
+                return;
+            }
+            if (Char.IsControl(e.KeyChar))
+            {
+                if(e.KeyChar == (char)Keys.Enter) tbDollar.Focus();
+                return;
+            }
+            e.Handled = true;
+           
+        }
+
+        private void tbDollar_TextChanged(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void tbDollar_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar >= '0' && e.KeyChar <= '9') return;
+            if (e.KeyChar == '.') e.KeyChar = ',';
+            if (e.KeyChar == ',')
+            {
+                if (tbKurs.Text.IndexOf(',') != -1)
+                {
+                    e.Handled = true;
+                }
+                return;
+            }
+            if (Char.IsControl(e.KeyChar))
+            {
+                if (e.KeyChar == (char)Keys.Enter) btResult.Focus();
+                return;
+            }
+            e.Handled = true;
+        }
     }
 }
