@@ -19,7 +19,8 @@ namespace firstWinFormsApp
                 decimal kurs = decimal.Parse(tbKurs.Text.Replace(".",","));
                 int dollars = int.Parse(tbDollar.Text);
                 decimal result = kurs * dollars;
-                lbResult.Text = $"{dollars}$ = {result} рублей";
+               // lbResult.Text = $"{dollars}$ = {result} рублей";
+               lbResult.Text = dollars + "$=" + result.ToString("C");
             }
             catch (Exception ex)
             {
