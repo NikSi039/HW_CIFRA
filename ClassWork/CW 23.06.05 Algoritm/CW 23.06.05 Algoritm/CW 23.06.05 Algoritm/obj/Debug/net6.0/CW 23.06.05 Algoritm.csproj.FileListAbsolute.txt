@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\obj\Debug\net6.0\CW 23.06.05 Algoritm.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\obj\Debug\net6.0\CW 23.06.05 Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\obj\Debug\net6.0\CW 23.06.05 Algoritm.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\obj\Debug\net6.0\CW 23.06.05 Algoritm.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\obj\Debug\net6.0\CW 23.06.05 Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\bin\Debug\net6.0\CW 23.06.05 Algoritm.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\bin\Debug\net6.0\CW 23.06.05 Algoritm.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\bin\Debug\net6.0\CW 23.06.05 Algoritm.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\bin\Debug\net6.0\CW 23.06.05 Algoritm.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\bin\Debug\net6.0\CW 23.06.05 Algoritm.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\obj\Debug\net6.0\CW 23.06.05 Algoritm.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\obj\Debug\net6.0\refint\CW 23.06.05 Algoritm.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\obj\Debug\net6.0\CW 23.06.05 Algoritm.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\obj\Debug\net6.0\CW 23.06.05 Algoritm.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\ClassWork\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\CW 23.06.05 Algoritm\obj\Debug\net6.0\ref\CW 23.06.05 Algoritm.dll
