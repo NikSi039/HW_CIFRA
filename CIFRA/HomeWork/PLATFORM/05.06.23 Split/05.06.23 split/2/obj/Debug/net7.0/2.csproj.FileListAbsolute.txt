@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/bin/Debug/net7.0/2
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/bin/Debug/net7.0/2.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/bin/Debug/net7.0/2.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/bin/Debug/net7.0/2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/bin/Debug/net7.0/2.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/obj/Debug/net7.0/2.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/obj/Debug/net7.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/obj/Debug/net7.0/2.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/obj/Debug/net7.0/2.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/obj/Debug/net7.0/2.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/obj/Debug/net7.0/2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/obj/Debug/net7.0/refint/2.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/obj/Debug/net7.0/2.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/obj/Debug/net7.0/2.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/05.06.23 Split/05.06.23 split/2/obj/Debug/net7.0/ref/2.dll
