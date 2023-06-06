@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="firstWinFormsApp/Form1.resx">
+    <Files>
+      <File FileName="firstWinFormsApp/Program.cs" Line="1" Column="1" />
+      <File FileName="firstWinFormsApp/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="firstWinFormsApp/Form1.resx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firstWinFormsApp" expanded="True">
+            <Node name="firstWinFormsApp" expanded="True">
+              <Node name="Form1.resx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
