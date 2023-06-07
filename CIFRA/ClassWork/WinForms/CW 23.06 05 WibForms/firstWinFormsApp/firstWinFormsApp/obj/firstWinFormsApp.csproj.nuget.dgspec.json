@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.06 05 WibForms\\firstWinFormsApp\\firstWinFormsApp\\firstWinFormsApp.csproj": {}
+    "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06 05 WibForms\\firstWinFormsApp\\firstWinFormsApp\\firstWinFormsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.06 05 WibForms\\firstWinFormsApp\\firstWinFormsApp\\firstWinFormsApp.csproj": {
+    "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06 05 WibForms\\firstWinFormsApp\\firstWinFormsApp\\firstWinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.06 05 WibForms\\firstWinFormsApp\\firstWinFormsApp\\firstWinFormsApp.csproj",
+        "projectUniqueName": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06 05 WibForms\\firstWinFormsApp\\firstWinFormsApp\\firstWinFormsApp.csproj",
         "projectName": "firstWinFormsApp",
-        "projectPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.06 05 WibForms\\firstWinFormsApp\\firstWinFormsApp\\firstWinFormsApp.csproj",
+        "projectPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06 05 WibForms\\firstWinFormsApp\\firstWinFormsApp\\firstWinFormsApp.csproj",
         "packagesPath": "C:\\Users\\C1nb9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.06 05 WibForms\\firstWinFormsApp\\firstWinFormsApp\\obj\\",
+        "outputPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06 05 WibForms\\firstWinFormsApp\\firstWinFormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\C1nb9\\AppData\\Roaming\\NuGet\\NuGet.Config",
