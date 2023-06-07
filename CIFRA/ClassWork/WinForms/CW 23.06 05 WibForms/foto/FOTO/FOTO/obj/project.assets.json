@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.06 05 WibForms\\foto\\FOTO\\FOTO\\FOTO.csproj",
+      "projectUniqueName": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06 05 WibForms\\foto\\FOTO\\FOTO\\FOTO.csproj",
       "projectName": "FOTO",
-      "projectPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.06 05 WibForms\\foto\\FOTO\\FOTO\\FOTO.csproj",
+      "projectPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06 05 WibForms\\foto\\FOTO\\FOTO\\FOTO.csproj",
       "packagesPath": "C:\\Users\\C1nb9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\ClassWork\\CW 23.06 05 WibForms\\foto\\FOTO\\FOTO\\obj\\",
+      "outputPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06 05 WibForms\\foto\\FOTO\\FOTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\C1nb9\\AppData\\Roaming\\NuGet\\NuGet.Config",
