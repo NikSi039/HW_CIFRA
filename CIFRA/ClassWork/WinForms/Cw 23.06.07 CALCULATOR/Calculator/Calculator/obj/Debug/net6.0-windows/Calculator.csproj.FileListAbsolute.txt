@@ -1,0 +1,17 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\Cw 23.06.07 CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
