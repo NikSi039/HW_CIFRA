@@ -1,0 +1,17 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\bin\Debug\net6.0-windows\Zhalusi.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\bin\Debug\net6.0-windows\Zhalusi.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\bin\Debug\net6.0-windows\Zhalusi.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\bin\Debug\net6.0-windows\Zhalusi.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\bin\Debug\net6.0-windows\Zhalusi.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\Zhalusi.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\Zhalusi.Form1.resources
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\Zhalusi.csproj.GenerateResource.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\Zhalusi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\Zhalusi.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\Zhalusi.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\Zhalusi.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\Zhalusi.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\refint\Zhalusi.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\Zhalusi.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\Zhalusi.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.07 WinForms\Zhalusi\Zhalusi\obj\Debug\net6.0-windows\ref\Zhalusi.dll
