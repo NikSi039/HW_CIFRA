@@ -34,10 +34,10 @@ int[] StoogeSort(int[] mas, int startIndex, int endIndex)
     {
         Swap(ref mas[startIndex], ref mas[endIndex]);
     }
-    if (endIndex -startIndex >1)
+    if (endIndex - startIndex > 1)
     {
         int len = (endIndex - startIndex + 1) / 3;
-        StoogeSort(mas, startIndex,endIndex- len);
+        StoogeSort(mas, startIndex, endIndex - len);
         StoogeSort(mas, startIndex + len, endIndex);
         StoogeSort(mas, startIndex, endIndex - len);
     }
