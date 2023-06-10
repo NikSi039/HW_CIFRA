@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/bin/Debug/net7.0/1
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/bin/Debug/net7.0/1.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/bin/Debug/net7.0/1.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/bin/Debug/net7.0/1.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/bin/Debug/net7.0/1.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/obj/Debug/net7.0/1.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/obj/Debug/net7.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/obj/Debug/net7.0/1.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/obj/Debug/net7.0/1.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/obj/Debug/net7.0/1.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/obj/Debug/net7.0/1.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/obj/Debug/net7.0/refint/1.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/obj/Debug/net7.0/1.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/obj/Debug/net7.0/1.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/24.04.23 massive/massive/1/obj/Debug/net7.0/ref/1.dll
