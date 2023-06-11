@@ -23,10 +23,7 @@ for (int i = 0; i < mas.Length - 1; i++)
     }
 }
 
-foreach (int item in mas) 
-{
-    Console.Write(item + " ");
-}
+foreach (int item in mas) Console.Write(item + " ");
 Console.WriteLine();
 
 Console.ReadKey();
