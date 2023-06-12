@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/prostoy vstavki/prostoy vstavki.csproj": {}
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/prostoy vstavki/prostoy vstavki.csproj": {}
   },
   "projects": {
-    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/prostoy vstavki/prostoy vstavki.csproj": {
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/prostoy vstavki/prostoy vstavki.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/prostoy vstavki/prostoy vstavki.csproj",
+        "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/prostoy vstavki/prostoy vstavki.csproj",
         "projectName": "prostoy vstavki",
-        "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/prostoy vstavki/prostoy vstavki.csproj",
+        "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/prostoy vstavki/prostoy vstavki.csproj",
         "packagesPath": "/Users/programmirovanie/.nuget/packages/",
-        "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/prostoy vstavki/obj/",
+        "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/prostoy vstavki/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/programmirovanie/.nuget/NuGet/NuGet.Config"

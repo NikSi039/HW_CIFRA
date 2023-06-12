@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/vybora/vybora.csproj": {}
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/vybora/vybora.csproj": {}
   },
   "projects": {
-    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/vybora/vybora.csproj": {
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/vybora/vybora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/vybora/vybora.csproj",
+        "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/vybora/vybora.csproj",
         "projectName": "vybora",
-        "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/vybora/vybora.csproj",
+        "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/vybora/vybora.csproj",
         "packagesPath": "/Users/programmirovanie/.nuget/packages/",
-        "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/vybora/obj/",
+        "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/vybora/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/programmirovanie/.nuget/NuGet/NuGet.Config"

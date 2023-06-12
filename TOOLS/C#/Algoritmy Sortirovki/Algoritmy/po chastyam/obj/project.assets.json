@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/po chastyam/po chastyam.csproj",
+      "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/po chastyam/po chastyam.csproj",
       "projectName": "po chastyam",
-      "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/po chastyam/po chastyam.csproj",
+      "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/po chastyam/po chastyam.csproj",
       "packagesPath": "/Users/programmirovanie/.nuget/packages/",
-      "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/po chastyam/obj/",
+      "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/po chastyam/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/programmirovanie/.nuget/NuGet/NuGet.Config"

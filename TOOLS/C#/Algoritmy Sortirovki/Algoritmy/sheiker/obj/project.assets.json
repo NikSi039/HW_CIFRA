@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/sheiker/sheiker.csproj",
+      "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/sheiker/sheiker.csproj",
       "projectName": "sheiker",
-      "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/sheiker/sheiker.csproj",
+      "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/sheiker/sheiker.csproj",
       "packagesPath": "/Users/programmirovanie/.nuget/packages/",
-      "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/Algoritmy Sortirovki/Algoritmy/sheiker/obj/",
+      "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/sheiker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/programmirovanie/.nuget/NuGet/NuGet.Config"
