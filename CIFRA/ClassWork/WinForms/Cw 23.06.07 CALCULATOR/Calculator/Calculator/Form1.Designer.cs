@@ -37,9 +37,10 @@
             this.tbResult.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tbResult.Name = "tbResult";
             this.tbResult.ReadOnly = true;
-            this.tbResult.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.tbResult.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.tbResult.Size = new System.Drawing.Size(421, 36);
             this.tbResult.TabIndex = 0;
+            this.tbResult.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // Form1
             // 
@@ -51,7 +52,6 @@
             this.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.Name = "Form1";
             this.Text = "Каькулятор";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

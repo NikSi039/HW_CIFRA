@@ -14,7 +14,7 @@ namespace Calculator
         int[] btnTag = {7,8,9,-3,
                         4,5,6,-4,
                          1,2,3,-2,
-                         0,-1,5};
+                         0,-1,-5};
 
         double ac = 0;// аккумулятор
         int cp = 0;// код операции
@@ -111,38 +111,59 @@ namespace Calculator
                 return;
             }
 
+            if (Convert.ToInt32(btn.Tag) == -1)
+            {
+                if (fd)
+                {
+                    tbResult.Text = "0,";
+                    fd = false;
+                }
+                else
+                {
+                    if (tbResult.Text.IndexOf(",") == -1)
+                    {
+                        tbResult.Text += btn.Text;
+                    }
+                }
+                return;
+            }
 
+            if (Convert.ToInt32(btn.Tag) == -5)
+            {
+                ac = 0;
+                cp = 0;
+                tbResult.Text = "0";
+                fd = true;
+                return;
+            }
 
+            if (Convert.ToInt32(btn.Tag) < -1)
+            {
+                double n;
+                n = Convert.ToDouble(tbResult.Text);
 
+                if (ac!=0)
+                {
+                    switch (cp)
+                    {
+                        case -3: ac += n; break;
+                        case -4: ac -= n; break;
+                        case -2: ac = n; break; 
+
+                    }
+                    tbResult.Text = ac.ToString("N");
+                }
+                else
+                {
+                    ac = n;
+                }
+
+                cp = Convert.ToInt32(btn.Tag);
+                fd = true;
+
+            }
+           
 
         }
-
-
-
-
-
-
-
-        private void button9_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button8_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button11_Click(object sender, EventArgs e)
-        {
-
-        }
-
-
     }
 }
