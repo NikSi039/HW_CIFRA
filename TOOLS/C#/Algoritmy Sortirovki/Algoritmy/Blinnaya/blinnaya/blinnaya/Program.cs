@@ -15,19 +15,18 @@ mas = PancakeSort(mas);
 
 foreach (int i in mas) Console.Write(i + " ");
 
+Console.ReadKey();
+
 
 //END
 
 
-int IndexOfMax(int[]mas,int n)
+int IndexOfMax(int[] mas, int n)
 {
     int result = 0;
     for (int i = 1; i <= n; i++)
     {
-        if (mas[i] > mas[result])
-        {
-            result = i;
-        }
+        if (mas[i] > mas[result]) result = i;
     }
     return result;
 }
@@ -44,16 +43,14 @@ void Flip(int[] mas, int end)
 
 int[] PancakeSort(int[] mas)
 {
-    for (int i = mas.Length-1; i >= 0 ; i--)
+    for (int i = mas.Length - 1; i >= 0; i--)
     {
         int maxIndex = IndexOfMax(mas, i);
-        if (maxIndex!=i)
+        if (maxIndex != i)
         {
             Flip(mas, maxIndex);
-            Flip(mas,i);
+            Flip(mas, i);
         }
     }
     return mas;
 }
-
-Console.ReadKey();
