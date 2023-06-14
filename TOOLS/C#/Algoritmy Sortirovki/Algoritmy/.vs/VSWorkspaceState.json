@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\1",
     "\\Blinnaya",
     "\\Blinnaya\\blinnaya",
     "\\Blinnaya\\blinnaya\\blinnaya",
     "\\po chastyam",
     "\\prostoy vstavki",
     "\\sheiker",
+    "\\Shela",
+    "\\sluchaynaya",
     "\\vybora"
   ],
-  "SelectedNode": "\\vybora\\Program.cs",
+  "SelectedNode": "\\Shela\\Shela.csproj",
   "PreviewInSolutionExplorer": false
 }
