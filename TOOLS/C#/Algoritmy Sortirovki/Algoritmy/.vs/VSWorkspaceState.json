@@ -2,11 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\1",
+    "\\Blinnaya",
+    "\\Blinnaya\\blinnaya",
+    "\\Blinnaya\\blinnaya\\blinnaya",
     "\\po chastyam",
     "\\prostoy vstavki",
     "\\sheiker",
     "\\vybora"
   ],
-  "SelectedNode": "\\po chastyam\\po chastyam.csproj",
+  "SelectedNode": "\\vybora\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
