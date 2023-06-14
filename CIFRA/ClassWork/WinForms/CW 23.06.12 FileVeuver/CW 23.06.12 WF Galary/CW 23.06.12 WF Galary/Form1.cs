@@ -4,6 +4,7 @@ namespace CW_23._06._12_WF_Galary
     {
         int pbw, pbh, pbX, pbY;
         string fpath;
+        int count;
 
         private void lbFiles_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -32,6 +33,44 @@ namespace CW_23._06._12_WF_Galary
             FillListBox(fpath);
         }
 
+        private void btPrev_Click(object sender, EventArgs e)
+        {
+            if (!btNext.Enabled)
+            {
+                btNext.Enabled = true;
+            }
+
+            if (lbFiles.SelectedIndex > 0)
+            {
+                lbFiles.SelectedIndex--;
+            }
+            if (lbFiles.SelectedIndex == 0)
+            {
+                btPrev.Enabled = false;
+            }
+
+   
+        }
+
+        private void btNext_Click(object sender, EventArgs e)
+        {
+            if (!btPrev.Enabled)
+            {
+                btPrev.Enabled = true;
+            }
+            
+            if (lbFiles.SelectedIndex < count -1)
+            {
+                lbFiles.SelectedIndex++;
+            }
+            if (lbFiles.SelectedIndex == count-1)
+            {
+                btNext.Enabled = false;
+            }
+            
+         
+        }
+
         public Form1()
         {
             InitializeComponent();
@@ -49,12 +88,16 @@ namespace CW_23._06._12_WF_Galary
             cbExtention.SelectedIndex = 0;
 
             FillListBox(fpath);
+
+            btPrev.Enabled = false;
         }
 
         private bool FillListBox(string path)
         {
             DirectoryInfo di = new DirectoryInfo(path);
             FileInfo[] fi = di.GetFiles(cbExtention.SelectedItem.ToString()!);
+
+            count = fi.Length;
 
             lbFiles.Items.Clear();
 

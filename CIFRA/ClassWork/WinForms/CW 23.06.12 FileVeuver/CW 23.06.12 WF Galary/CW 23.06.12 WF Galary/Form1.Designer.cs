@@ -28,12 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.lbFiles = new System.Windows.Forms.ListBox();
             this.button1 = new System.Windows.Forms.Button();
             this.btBrowse = new System.Windows.Forms.Button();
             this.pbImage = new System.Windows.Forms.PictureBox();
             this.lbPath = new System.Windows.Forms.Label();
             this.cbExtention = new System.Windows.Forms.ComboBox();
+            this.btNext = new System.Windows.Forms.Button();
+            this.btPrev = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pbImage)).BeginInit();
             this.SuspendLayout();
             // 
@@ -97,11 +100,35 @@
             this.cbExtention.TabIndex = 5;
             this.cbExtention.SelectedIndexChanged += new System.EventHandler(this.cbExtention_SelectedIndexChanged);
             // 
+            // btNext
+            // 
+            this.btNext.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btNext.BackgroundImage")));
+            this.btNext.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btNext.Location = new System.Drawing.Point(786, 378);
+            this.btNext.Name = "btNext";
+            this.btNext.Size = new System.Drawing.Size(97, 56);
+            this.btNext.TabIndex = 6;
+            this.btNext.UseVisualStyleBackColor = true;
+            this.btNext.Click += new System.EventHandler(this.btNext_Click);
+            // 
+            // btPrev
+            // 
+            this.btPrev.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btPrev.BackgroundImage")));
+            this.btPrev.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btPrev.Location = new System.Drawing.Point(678, 378);
+            this.btPrev.Name = "btPrev";
+            this.btPrev.Size = new System.Drawing.Size(102, 56);
+            this.btPrev.TabIndex = 7;
+            this.btPrev.UseVisualStyleBackColor = true;
+            this.btPrev.Click += new System.EventHandler(this.btPrev_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(925, 446);
+            this.Controls.Add(this.btPrev);
+            this.Controls.Add(this.btNext);
             this.Controls.Add(this.cbExtention);
             this.Controls.Add(this.lbPath);
             this.Controls.Add(this.pbImage);
@@ -127,5 +154,7 @@
         private PictureBox pbImage;
         private Label lbPath;
         private ComboBox cbExtention;
+        private Button btNext;
+        private Button btPrev;
     }
 }
