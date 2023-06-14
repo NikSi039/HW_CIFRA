@@ -5,6 +5,33 @@ namespace CW_23._06._12_WF_Galary
         int pbw, pbh, pbX, pbY;
         string fpath;
 
+        private void lbFiles_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            LoadImage();
+        }
+
+        private void btBrowse_Click(object sender, EventArgs e)
+        {
+            FolderBrowserDialog folderBrowseDialog = new FolderBrowserDialog();
+            folderBrowseDialog.Description = "Выберите папку, в которой находятся иллюстрации";
+            folderBrowseDialog.ShowNewFolderButton = false;
+
+            if (folderBrowseDialog.ShowDialog() == DialogResult.OK)
+            {
+                fpath = folderBrowseDialog.SelectedPath;
+                lbPath.Text = fpath;    
+              if (!FillListBox(folderBrowseDialog.SelectedPath))
+              {
+                pbImage.Image = null;
+              }
+            }
+        }
+
+        private void cbExtention_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            FillListBox(fpath);
+        }
+
         public Form1()
         {
             InitializeComponent();
@@ -19,13 +46,15 @@ namespace CW_23._06._12_WF_Galary
             fpath = di.FullName; 
             lbPath.Text = fpath;
 
+            cbExtention.SelectedIndex = 0;
+
             FillListBox(fpath);
         }
 
         private bool FillListBox(string path)
         {
             DirectoryInfo di = new DirectoryInfo(path);
-            FileInfo[] fi = di.GetFiles("*.jpg");
+            FileInfo[] fi = di.GetFiles(cbExtention.SelectedItem.ToString()!);
 
             lbFiles.Items.Clear();
 
@@ -43,12 +72,12 @@ namespace CW_23._06._12_WF_Galary
             else
             {
                 lbFiles.SelectedIndex = 0;
-                LoadImage(lbFiles.SelectedItem.ToString()!);
+                LoadImage();
                 return true;
             }
         }
 
-        private void LoadImage(string path)
+        private void LoadImage()
         {
             double mh, mw;
             pbImage.Visible = false;
@@ -56,7 +85,30 @@ namespace CW_23._06._12_WF_Galary
             pbImage.SizeMode = PictureBoxSizeMode.AutoSize;
             pbImage.Image = new Bitmap(fpath + @"\" + lbFiles.SelectedItem.ToString());
 
-            //
+            // Масштабирование
+
+            if (pbImage.Image.Width > pbw || pbImage.Image.Height > pbh)
+            {
+                pbImage.SizeMode = PictureBoxSizeMode.StretchImage;
+                mw = (double)pbh/ (double)pbImage.Image.Width;  
+                mh = (double)pbh/ (double)pbImage.Image.Height;
+
+                if (mh < mw)
+                {
+                    pbImage.Width = Convert.ToInt16(pbImage.Image.Width * mh);
+                    pbImage.Height = pbh;
+
+                }
+                else
+                {
+                    pbImage.Width = pbw;
+                    pbImage.Height = Convert.ToInt16(pbImage.Image.Height * mw);    
+                }
+            }
+
+            pbImage.Left = pbX + (pbw - pbImage.Width) / 2;
+            pbImage.Top = pbY + (pbh - pbImage.Height) / 2; 
+
 
             pbImage.Visible = true;
         }

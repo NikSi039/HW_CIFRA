@@ -32,8 +32,8 @@
             this.button1 = new System.Windows.Forms.Button();
             this.btBrowse = new System.Windows.Forms.Button();
             this.pbImage = new System.Windows.Forms.PictureBox();
-            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.lbPath = new System.Windows.Forms.Label();
+            this.cbExtention = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.pbImage)).BeginInit();
             this.SuspendLayout();
             // 
@@ -46,6 +46,7 @@
             this.lbFiles.Name = "lbFiles";
             this.lbFiles.Size = new System.Drawing.Size(295, 334);
             this.lbFiles.TabIndex = 0;
+            this.lbFiles.SelectedIndexChanged += new System.EventHandler(this.lbFiles_SelectedIndexChanged);
             // 
             // button1
             // 
@@ -59,12 +60,13 @@
             // 
             // btBrowse
             // 
-            this.btBrowse.Location = new System.Drawing.Point(94, 367);
+            this.btBrowse.Location = new System.Drawing.Point(21, 369);
             this.btBrowse.Name = "btBrowse";
             this.btBrowse.Size = new System.Drawing.Size(131, 65);
             this.btBrowse.TabIndex = 2;
             this.btBrowse.Text = "Обзор";
             this.btBrowse.UseVisualStyleBackColor = true;
+            this.btBrowse.Click += new System.EventHandler(this.btBrowse_Click);
             // 
             // pbImage
             // 
@@ -82,11 +84,25 @@
             this.lbPath.Size = new System.Drawing.Size(0, 30);
             this.lbPath.TabIndex = 4;
             // 
+            // cbExtention
+            // 
+            this.cbExtention.FormattingEnabled = true;
+            this.cbExtention.Items.AddRange(new object[] {
+            "*.jpg",
+            "*.bmp",
+            "*.png"});
+            this.cbExtention.Location = new System.Drawing.Point(173, 369);
+            this.cbExtention.Name = "cbExtention";
+            this.cbExtention.Size = new System.Drawing.Size(143, 38);
+            this.cbExtention.TabIndex = 5;
+            this.cbExtention.SelectedIndexChanged += new System.EventHandler(this.cbExtention_SelectedIndexChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(925, 446);
+            this.Controls.Add(this.cbExtention);
             this.Controls.Add(this.lbPath);
             this.Controls.Add(this.pbImage);
             this.Controls.Add(this.btBrowse);
@@ -109,7 +125,7 @@
         private Button button1;
         private Button btBrowse;
         private PictureBox pbImage;
-        private FolderBrowserDialog folderBrowserDialog1;
         private Label lbPath;
+        private ComboBox cbExtention;
     }
 }
