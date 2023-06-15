@@ -2,14 +2,14 @@
 
 Random r = new();
 
-Console.Write("Введите размер массива:");
+Console.Write("Введите размер массива: ");
 int n = int.Parse(Console.ReadLine()!);
 
 int[] mas = new int[n];
 mas = mas.Select(i => i + r.Next(10, 100)).ToArray();
 
 foreach (int i in mas) Console.Write(i + " ");
-Console.WriteLine();
+Console.WriteLine("\n");
 
 mas = StoogeSort(mas, 0, mas.Length - 1);
 

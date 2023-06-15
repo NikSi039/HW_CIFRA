@@ -1,7 +1,8 @@
-﻿//метод простой вставки 
+﻿//метод простой вставки
+
 Random r = new();
 
-Console.Write("Введите размер массива:");
+Console.Write("Введите размер массива: ");
 int n = int.Parse(Console.ReadLine()!);
 
 int[] mas = new int[n];

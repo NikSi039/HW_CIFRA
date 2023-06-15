@@ -8,7 +8,7 @@ for (int i = 0; i < mas.Length; i++)
     mas[i] = random.Next(10, 100);
     Console.Write(mas[i] + " ");
 }
-Console.WriteLine();
+Console.WriteLine("\n");
 
 for (int i = 0; i < mas.Length - 1; i++)
 {
