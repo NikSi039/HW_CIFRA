@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CIFRA",
+    "\\CIFRA\\ClassWork",
+    "\\CIFRA\\ClassWork\\WinForms",
+    "\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer",
+    "\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer",
+    "\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer"
   ],
-  "SelectedNode": "\\FOTO.sln",
+  "SelectedNode": "\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

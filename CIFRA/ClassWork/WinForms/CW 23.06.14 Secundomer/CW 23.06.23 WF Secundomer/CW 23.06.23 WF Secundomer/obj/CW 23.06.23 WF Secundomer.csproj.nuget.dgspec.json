@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj": {}
+    "C:\\Users\\sidor\\Source\\Repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj": {
+    "C:\\Users\\sidor\\Source\\Repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj",
+        "projectUniqueName": "C:\\Users\\sidor\\Source\\Repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj",
         "projectName": "CW 23.06.23 WF Secundomer",
-        "projectPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj",
-        "packagesPath": "C:\\Users\\C1nb9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\obj\\",
+        "projectPath": "C:\\Users\\sidor\\Source\\Repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj",
+        "packagesPath": "C:\\Users\\sidor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sidor\\Source\\Repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\C1nb9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sidor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
