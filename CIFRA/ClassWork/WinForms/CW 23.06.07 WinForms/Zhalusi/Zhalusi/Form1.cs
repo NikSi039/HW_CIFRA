@@ -7,15 +7,9 @@ namespace Zhalusi
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void cbMaterial_SelectedIndexChanged(object sender, EventArgs e)
         {
             decimal price= 0;
-
             try
             {
                 double width = double.Parse(tbWidth.Text);

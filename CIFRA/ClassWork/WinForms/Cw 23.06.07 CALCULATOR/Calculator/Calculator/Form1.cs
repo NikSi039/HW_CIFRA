@@ -20,7 +20,6 @@ namespace Calculator
         int cp = 0;// код операции
         private Boolean fd = true;
 
-
         public Form1()
         {
             InitializeComponent();
@@ -31,11 +30,9 @@ namespace Calculator
             int x, y;
             y = tbResult.Bottom + dy;
 
-
             for (int i = 0; i < 4; i++)
             {
                 x = dx;
-
                 for (int j = 0; j < 4; j++)
                 {
                     if (!((i == 3) && (j == 0)))
@@ -48,17 +45,9 @@ namespace Calculator
 
                         btn[k].Click += new System.EventHandler(this.Button_Click!);
 
-                        // Изменение цвета
-                        //if (btnTag[k] < 0)
-                        //{
-                        //    btn[k].BackColor = SystemColors.ControlDark;
-                        //}
-
                         this.Controls.Add(this.btn[k]);
                         x+= bw + dx;
                         k++;
-
-                       
                     }
                     else
                     {
@@ -76,7 +65,7 @@ namespace Calculator
                         j++;
                     }
                 }
-                    y+= bh + dy;
+                y+= bh + dy;
             }
         }
 
@@ -91,23 +80,14 @@ namespace Calculator
                     tbResult.Text = btn.Text;
                     fd = false; 
                 }
-                else
-                {
-                    tbResult.Text += btn.Text;    
-                }
+                else tbResult.Text += btn.Text;    
                 return;
             }
 
             if (Convert.ToInt32(btn.Tag) == 0)
             {
-                if (fd)
-                {
-                    tbResult.Text = btn.Text;
-                }
-                if (tbResult.Text != "0")
-                {
-                    tbResult.Text += btn.Text;
-                }
+                if (fd) tbResult.Text = btn.Text;
+                if (tbResult.Text != "0") tbResult.Text += btn.Text;
                 return;
             }
 
@@ -120,10 +100,7 @@ namespace Calculator
                 }
                 else
                 {
-                    if (tbResult.Text.IndexOf(",") == -1)
-                    {
-                        tbResult.Text += btn.Text;
-                    }
+                    if (tbResult.Text.IndexOf(",") == -1) tbResult.Text += btn.Text;
                 }
                 return;
             }
@@ -141,7 +118,6 @@ namespace Calculator
             {
                 double n;
                 n = Convert.ToDouble(tbResult.Text);
-
                 if (ac!=0)
                 {
                     switch (cp)
@@ -149,21 +125,14 @@ namespace Calculator
                         case -3: ac += n; break;
                         case -4: ac -= n; break;
                         case -2: ac = n; break; 
-
                     }
                     tbResult.Text = ac.ToString("N");
                 }
-                else
-                {
-                    ac = n;
-                }
+                else ac = n;
 
                 cp = Convert.ToInt32(btn.Tag);
                 fd = true;
-
             }
-           
-
         }
     }
 }

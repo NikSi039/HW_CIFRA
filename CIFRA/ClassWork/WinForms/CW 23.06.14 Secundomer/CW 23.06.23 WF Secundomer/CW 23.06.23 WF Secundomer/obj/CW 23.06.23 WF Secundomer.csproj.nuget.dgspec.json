@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sidor\\Source\\Repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj": {}
+    "C:\\Users\\sidor\\source\\repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sidor\\Source\\Repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj": {
+    "C:\\Users\\sidor\\source\\repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sidor\\Source\\Repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj",
+        "projectUniqueName": "C:\\Users\\sidor\\source\\repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj",
         "projectName": "CW 23.06.23 WF Secundomer",
-        "projectPath": "C:\\Users\\sidor\\Source\\Repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj",
+        "projectPath": "C:\\Users\\sidor\\source\\repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer.csproj",
         "packagesPath": "C:\\Users\\sidor\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sidor\\Source\\Repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.06.14 Secundomer\\CW 23.06.23 WF Secundomer\\CW 23.06.23 WF Secundomer\\obj\\",
         "projectStyle": "PackageReference",

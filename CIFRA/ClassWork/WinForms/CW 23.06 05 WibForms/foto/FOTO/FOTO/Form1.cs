@@ -8,20 +8,10 @@ namespace FOTO
             btOk.Enabled = false;
         }
 
-        private void rb18_24_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox5_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void tbCount_TextChanged(object sender, EventArgs e)
         {
-            if (tbCount.Text.Length!=0) btOk.Enabled = true;    
-            else btOk.Enabled = false;  
+            if (tbCount.Text.Length != 0) btOk.Enabled = true;
+            else btOk.Enabled = false;
         }
 
         private void btOk_Click(object sender, EventArgs e)
@@ -32,7 +22,7 @@ namespace FOTO
             if (rb12_15.Checked) price = decimal.Parse(tbPrice12_15.Text);
             if (rb18_24.Checked) price = decimal.Parse(tbPrice18_24.Text);
 
-            lbResult.Text = "Итого:" +  (int.Parse(tbCount.Text) * price).ToString("C");
+            lbResult.Text = "Итого:" + (int.Parse(tbCount.Text) * price).ToString("C");
         }
     }
 }

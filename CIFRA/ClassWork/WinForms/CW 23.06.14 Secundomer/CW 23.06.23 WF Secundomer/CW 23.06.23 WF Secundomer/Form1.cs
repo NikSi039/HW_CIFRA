@@ -31,7 +31,6 @@ namespace CW_23._06._23_WF_Secundomer
         private void timer1_Tick(object sender, EventArgs e)
         {
             string res = String.Empty;
-
             s++;
 
             if (s == 60)
@@ -62,14 +61,8 @@ namespace CW_23._06._23_WF_Secundomer
                     res = m + ":" + s;
                 }
             }
-          
-
-           
-
             lbSeconds.Text = res;
         }
-
- 
 
         public Form1()
         {

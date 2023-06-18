@@ -35,40 +35,16 @@ namespace CW_23._06._12_WF_Galary
 
         private void btPrev_Click(object sender, EventArgs e)
         {
-            if (!btNext.Enabled)
-            {
-                btNext.Enabled = true;
-            }
-
-            if (lbFiles.SelectedIndex > 0)
-            {
-                lbFiles.SelectedIndex--;
-            }
-            if (lbFiles.SelectedIndex == 0)
-            {
-                btPrev.Enabled = false;
-            }
-
-   
+            if (!btNext.Enabled) btNext.Enabled = true;
+            if (lbFiles.SelectedIndex > 0) lbFiles.SelectedIndex--;
+            if (lbFiles.SelectedIndex == 0)  btPrev.Enabled = false;
         }
 
         private void btNext_Click(object sender, EventArgs e)
         {
-            if (!btPrev.Enabled)
-            {
-                btPrev.Enabled = true;
-            }
-            
-            if (lbFiles.SelectedIndex < count -1)
-            {
-                lbFiles.SelectedIndex++;
-            }
-            if (lbFiles.SelectedIndex == count-1)
-            {
-                btNext.Enabled = false;
-            }
-            
-         
+            if (!btPrev.Enabled)  btPrev.Enabled = true;
+            if (lbFiles.SelectedIndex < count -1) lbFiles.SelectedIndex++;
+            if (lbFiles.SelectedIndex == count-1) btNext.Enabled = false;
         }
 
         public Form1()
@@ -101,17 +77,11 @@ namespace CW_23._06._12_WF_Galary
 
             lbFiles.Items.Clear();
 
-            foreach (FileInfo fc in fi)
-            {
-                lbFiles.Items.Add(fc.Name);
-            }
+            foreach (FileInfo fc in fi) lbFiles.Items.Add(fc.Name);
 
             lbPath.Text = path;
 
-            if (fi.Length == 0)
-            {
-                return false;
-            }
+            if (fi.Length == 0)  return false;
             else
             {
                 lbFiles.SelectedIndex = 0;
@@ -140,7 +110,6 @@ namespace CW_23._06._12_WF_Galary
                 {
                     pbImage.Width = Convert.ToInt16(pbImage.Image.Width * mh);
                     pbImage.Height = pbh;
-
                 }
                 else
                 {
@@ -151,7 +120,6 @@ namespace CW_23._06._12_WF_Galary
 
             pbImage.Left = pbX + (pbw - pbImage.Width) / 2;
             pbImage.Top = pbY + (pbh - pbImage.Height) / 2; 
-
 
             pbImage.Visible = true;
         }
