@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\bin\Debug\net6.0\sliyaniya.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\bin\Debug\net6.0\sliyaniya.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\bin\Debug\net6.0\sliyaniya.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\bin\Debug\net6.0\sliyaniya.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\bin\Debug\net6.0\sliyaniya.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\obj\Debug\net6.0\sliyaniya.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\obj\Debug\net6.0\sliyaniya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\obj\Debug\net6.0\sliyaniya.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\obj\Debug\net6.0\sliyaniya.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\obj\Debug\net6.0\sliyaniya.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\obj\Debug\net6.0\sliyaniya.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\obj\Debug\net6.0\refint\sliyaniya.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\obj\Debug\net6.0\sliyaniya.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\obj\Debug\net6.0\sliyaniya.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\sliyaniya\obj\Debug\net6.0\ref\sliyaniya.dll
