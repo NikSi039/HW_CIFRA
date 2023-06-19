@@ -1,0 +1,18 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\bin\Debug\net6.0-windows\CW WF 23.06.19 Settingss.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\bin\Debug\net6.0-windows\CW WF 23.06.19 Settingss.dll.config
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\bin\Debug\net6.0-windows\CW WF 23.06.19 Settingss.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\bin\Debug\net6.0-windows\CW WF 23.06.19 Settingss.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\bin\Debug\net6.0-windows\CW WF 23.06.19 Settingss.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\bin\Debug\net6.0-windows\CW WF 23.06.19 Settingss.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\CW WF 23.06.19 Settingss.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\CW_WF_23._06._19_Settingss.Form1.resources
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\CW WF 23.06.19 Settingss.csproj.GenerateResource.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\CW WF 23.06.19 Settingss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\CW WF 23.06.19 Settingss.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\CW WF 23.06.19 Settingss.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\CW WF 23.06.19 Settingss.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\CW WF 23.06.19 Settingss.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\refint\CW WF 23.06.19 Settingss.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\CW WF 23.06.19 Settingss.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\CW WF 23.06.19 Settingss.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.19 Settings\CW WF 23.06.19 Settingss\CW WF 23.06.19 Settingss\obj\Debug\net6.0-windows\ref\CW WF 23.06.19 Settingss.dll
