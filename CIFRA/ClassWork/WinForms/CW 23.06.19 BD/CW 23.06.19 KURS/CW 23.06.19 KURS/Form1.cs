@@ -18,12 +18,7 @@ namespace CW_23._06._19_KURS
         {
             FileInfo fi = new FileInfo(Application.StartupPath + @"usd.dat");
 
-            if (!fi.Exists)
-            {
-                fi.Create();
-            }
-       
-            using (BinaryWriter writer = new BinaryWriter(fi.OpenWrite()))
+            using (BinaryWriter writer = new BinaryWriter(File.Open(fi.FullName,FileMode.OpenOrCreate)))
             {
                 Current current = new Current();
                 current.name = cbCurrent.SelectedItem.ToString()!;
