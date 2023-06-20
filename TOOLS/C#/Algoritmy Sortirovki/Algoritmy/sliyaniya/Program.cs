@@ -1,4 +1,4 @@
-﻿// Сортировка слиянием
+﻿// 9 - Сортировка слиянием
 
 Random random = new();
 
@@ -26,16 +26,16 @@ int[] MergeSort(int[] mas, int lowIndex, int hightIndex)
     if (lowIndex < hightIndex)
     {
         int middleIndex = (lowIndex + hightIndex) / 2;
-        MergeSort(mas, lowIndex,middleIndex);
+        MergeSort(mas, lowIndex, middleIndex);
         MergeSort(mas, middleIndex + 1, hightIndex);
-        Merge(mas, lowIndex, middleIndex,hightIndex);
+        Merge(mas, lowIndex, middleIndex, hightIndex);
     }
     return mas;
 }
 
 int[] MergeSortMas(int[] mas)
 {
-    return MergeSort(mas,0, mas.Length - 1);    
+    return MergeSort(mas, 0, mas.Length - 1);
 }
 
 // метод слияния массивов
