@@ -26,5 +26,10 @@ namespace CW_WF_23._06._19_Settingss
             Settings.Default.Height = this.Height;
             Settings.Default.Save();
         }
+
+        private void lbPosition_Click(object sender, EventArgs e)
+        {
+            lbPosition.Text = Top + " " + Left;
+        }
     }
 }
