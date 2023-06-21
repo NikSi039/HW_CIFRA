@@ -1,0 +1,18 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\bin\Debug\net6.0-windows\CW 23.06.21 Question.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\bin\Debug\net6.0-windows\CW 23.06.21 Question.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\bin\Debug\net6.0-windows\CW 23.06.21 Question.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\bin\Debug\net6.0-windows\CW 23.06.21 Question.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\bin\Debug\net6.0-windows\CW 23.06.21 Question.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW 23.06.21 Question.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW_23._06._21_Question.Form1.resources
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW 23.06.21 Question.csproj.GenerateResource.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW 23.06.21 Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW 23.06.21 Question.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW 23.06.21 Question.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW 23.06.21 Question.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW 23.06.21 Question.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\refint\CW 23.06.21 Question.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW 23.06.21 Question.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW 23.06.21 Question.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\ref\CW 23.06.21 Question.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW_23._06._21_Question.EditForm.resources
