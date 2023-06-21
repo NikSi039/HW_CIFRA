@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/bin/Debug/net7.0/Directory___
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/bin/Debug/net7.0/Directory___.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/bin/Debug/net7.0/Directory___.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/bin/Debug/net7.0/Directory___.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/bin/Debug/net7.0/Directory___.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/obj/Debug/net7.0/Directory___.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/obj/Debug/net7.0/Directory___.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/obj/Debug/net7.0/Directory___.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/obj/Debug/net7.0/Directory___.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/obj/Debug/net7.0/Directory___.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/obj/Debug/net7.0/Directory___.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/obj/Debug/net7.0/refint/Directory___.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/obj/Debug/net7.0/Directory___.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/obj/Debug/net7.0/Directory___.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/Files/Directory___/obj/Debug/net7.0/ref/Directory___.dll
