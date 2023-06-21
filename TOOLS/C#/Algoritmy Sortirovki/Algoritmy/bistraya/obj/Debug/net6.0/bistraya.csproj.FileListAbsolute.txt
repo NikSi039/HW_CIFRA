@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\bin\Debug\net6.0\bistraya.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\bin\Debug\net6.0\bistraya.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\bin\Debug\net6.0\bistraya.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\bin\Debug\net6.0\bistraya.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\bin\Debug\net6.0\bistraya.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\obj\Debug\net6.0\bistraya.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\obj\Debug\net6.0\bistraya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\obj\Debug\net6.0\bistraya.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\obj\Debug\net6.0\bistraya.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\obj\Debug\net6.0\bistraya.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\obj\Debug\net6.0\bistraya.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\obj\Debug\net6.0\refint\bistraya.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\obj\Debug\net6.0\bistraya.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\obj\Debug\net6.0\bistraya.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\bistraya\obj\Debug\net6.0\ref\bistraya.dll
