@@ -28,77 +28,109 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dtpDate = new DateTimePicker();
-            btAdd = new Button();
-            nudRubbles = new NumericUpDown();
-            nudKopeek = new NumericUpDown();
-            cbCurrent = new ComboBox();
-            ((System.ComponentModel.ISupportInitialize)nudRubbles).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)nudKopeek).BeginInit();
-            SuspendLayout();
+            this.dtpDate = new System.Windows.Forms.DateTimePicker();
+            this.btAdd = new System.Windows.Forms.Button();
+            this.nudRubbles = new System.Windows.Forms.NumericUpDown();
+            this.nudKopeek = new System.Windows.Forms.NumericUpDown();
+            this.cbCurrent = new System.Windows.Forms.ComboBox();
+            this.lbKurs = new System.Windows.Forms.ListBox();
+            this.btLoad = new System.Windows.Forms.Button();
+            this.mcFilter = new System.Windows.Forms.MonthCalendar();
+            ((System.ComponentModel.ISupportInitialize)(this.nudRubbles)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudKopeek)).BeginInit();
+            this.SuspendLayout();
             // 
             // dtpDate
             // 
-            dtpDate.Location = new Point(43, 55);
-            dtpDate.Margin = new Padding(6, 6, 6, 6);
-            dtpDate.Name = "dtpDate";
-            dtpDate.Size = new Size(368, 39);
-            dtpDate.TabIndex = 0;
+            this.dtpDate.Location = new System.Drawing.Point(23, 26);
+            this.dtpDate.Name = "dtpDate";
+            this.dtpDate.Size = new System.Drawing.Size(200, 23);
+            this.dtpDate.TabIndex = 0;
             // 
             // btAdd
             // 
-            btAdd.Location = new Point(158, 337);
-            btAdd.Margin = new Padding(6, 6, 6, 6);
-            btAdd.Name = "btAdd";
-            btAdd.Size = new Size(139, 49);
-            btAdd.TabIndex = 2;
-            btAdd.Text = "Добавить";
-            btAdd.UseVisualStyleBackColor = true;
-            btAdd.Click += btAdd_Click;
+            this.btAdd.Location = new System.Drawing.Point(145, 154);
+            this.btAdd.Name = "btAdd";
+            this.btAdd.Size = new System.Drawing.Size(75, 23);
+            this.btAdd.TabIndex = 2;
+            this.btAdd.Text = "Добавить";
+            this.btAdd.UseVisualStyleBackColor = true;
+            this.btAdd.Click += new System.EventHandler(this.btAdd_Click);
             // 
             // nudRubbles
             // 
-            nudRubbles.Location = new Point(43, 230);
-            nudRubbles.Margin = new Padding(6, 6, 6, 6);
-            nudRubbles.Name = "nudRubbles";
-            nudRubbles.Size = new Size(208, 39);
-            nudRubbles.TabIndex = 3;
+            this.nudRubbles.Location = new System.Drawing.Point(23, 108);
+            this.nudRubbles.Name = "nudRubbles";
+            this.nudRubbles.Size = new System.Drawing.Size(112, 23);
+            this.nudRubbles.TabIndex = 3;
             // 
             // nudKopeek
             // 
-            nudKopeek.Location = new Point(262, 230);
-            nudKopeek.Margin = new Padding(6, 6, 6, 6);
-            nudKopeek.Name = "nudKopeek";
-            nudKopeek.Size = new Size(152, 39);
-            nudKopeek.TabIndex = 4;
+            this.nudKopeek.Location = new System.Drawing.Point(141, 108);
+            this.nudKopeek.Name = "nudKopeek";
+            this.nudKopeek.Size = new System.Drawing.Size(82, 23);
+            this.nudKopeek.TabIndex = 4;
             // 
             // cbCurrent
             // 
-            cbCurrent.FormattingEnabled = true;
-            cbCurrent.Items.AddRange(new object[] { "USD", "EURO", "POUND" });
-            cbCurrent.Location = new Point(43, 141);
-            cbCurrent.Margin = new Padding(6, 6, 6, 6);
-            cbCurrent.Name = "cbCurrent";
-            cbCurrent.Size = new Size(362, 40);
-            cbCurrent.TabIndex = 5;
+            this.cbCurrent.FormattingEnabled = true;
+            this.cbCurrent.Items.AddRange(new object[] {
+            "USD",
+            "EURO",
+            "POUND"});
+            this.cbCurrent.Location = new System.Drawing.Point(23, 66);
+            this.cbCurrent.Name = "cbCurrent";
+            this.cbCurrent.Size = new System.Drawing.Size(197, 23);
+            this.cbCurrent.TabIndex = 5;
+            // 
+            // lbKurs
+            // 
+            this.lbKurs.FormattingEnabled = true;
+            this.lbKurs.ItemHeight = 15;
+            this.lbKurs.Location = new System.Drawing.Point(274, 26);
+            this.lbKurs.Name = "lbKurs";
+            this.lbKurs.Size = new System.Drawing.Size(432, 274);
+            this.lbKurs.TabIndex = 6;
+            // 
+            // btLoad
+            // 
+            this.btLoad.Location = new System.Drawing.Point(34, 154);
+            this.btLoad.Name = "btLoad";
+            this.btLoad.Size = new System.Drawing.Size(75, 23);
+            this.btLoad.TabIndex = 7;
+            this.btLoad.Text = "Загрузить";
+            this.btLoad.UseVisualStyleBackColor = true;
+            this.btLoad.Click += new System.EventHandler(this.btLoad_Click);
+            // 
+            // mcFilter
+            // 
+            this.mcFilter.Location = new System.Drawing.Point(44, 201);
+            this.mcFilter.Name = "mcFilter";
+            this.mcFilter.ShowWeekNumbers = true;
+            this.mcFilter.TabIndex = 8;
+            this.mcFilter.DateChanged += new System.Windows.Forms.DateRangeEventHandler(this.mcFilter_DateChanged);
             // 
             // frmKurs
             // 
-            AutoScaleDimensions = new SizeF(13F, 32F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1486, 960);
-            Controls.Add(cbCurrent);
-            Controls.Add(nudKopeek);
-            Controls.Add(nudRubbles);
-            Controls.Add(btAdd);
-            Controls.Add(dtpDate);
-            Margin = new Padding(6, 6, 6, 6);
-            Name = "frmKurs";
-            StartPosition = FormStartPosition.CenterScreen;
-            Text = "Курс валюты";
-            ((System.ComponentModel.ISupportInitialize)nudRubbles).EndInit();
-            ((System.ComponentModel.ISupportInitialize)nudKopeek).EndInit();
-            ResumeLayout(false);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(738, 469);
+            this.Controls.Add(this.mcFilter);
+            this.Controls.Add(this.btLoad);
+            this.Controls.Add(this.lbKurs);
+            this.Controls.Add(this.cbCurrent);
+            this.Controls.Add(this.nudKopeek);
+            this.Controls.Add(this.nudRubbles);
+            this.Controls.Add(this.btAdd);
+            this.Controls.Add(this.dtpDate);
+            this.Name = "frmKurs";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Курс валюты";
+            this.Load += new System.EventHandler(this.frmKurs_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.nudRubbles)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudKopeek)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
@@ -108,5 +140,8 @@
         private NumericUpDown nudRubbles;
         private NumericUpDown nudKopeek;
         private ComboBox cbCurrent;
+        private ListBox lbKurs;
+        private Button btLoad;
+        private MonthCalendar mcFilter;
     }
 }
