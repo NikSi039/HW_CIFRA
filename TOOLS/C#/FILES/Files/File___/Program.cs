@@ -99,7 +99,7 @@ Console.WriteLine(fileText);
 
 // Кодировка
 
- 
+
 string path1 = "/Users/eugene/Documents/app/content.txt";
 
 string originalText1 = "Привет Metanit.com";

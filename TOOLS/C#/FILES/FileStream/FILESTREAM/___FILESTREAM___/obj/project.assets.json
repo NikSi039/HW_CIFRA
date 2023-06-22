@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "/Users/programmirovanie/.nuget/packages/": {}
@@ -13,25 +13,25 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/bistraya/bistraya.csproj",
-      "projectName": "bistraya",
-      "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/bistraya/bistraya.csproj",
+      "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/FileStream/FILESTREAM/___FILESTREAM___/___FILESTREAM___.csproj",
+      "projectName": "___FILESTREAM___",
+      "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/FileStream/FILESTREAM/___FILESTREAM___/___FILESTREAM___.csproj",
       "packagesPath": "/Users/programmirovanie/.nuget/packages/",
-      "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/Algoritmy Sortirovki/Algoritmy/bistraya/obj/",
+      "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/TOOLS/C#/FILES/FileStream/FILESTREAM/___FILESTREAM___/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/programmirovanie/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -42,8 +42,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
