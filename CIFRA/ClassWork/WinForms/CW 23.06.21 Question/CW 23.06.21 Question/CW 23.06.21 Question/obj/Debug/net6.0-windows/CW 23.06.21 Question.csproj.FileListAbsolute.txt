@@ -16,3 +16,4 @@ C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Questi
 C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW 23.06.21 Question.genruntimeconfig.cache
 C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\ref\CW 23.06.21 Question.dll
 C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW_23._06._21_Question.EditForm.resources
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.21 Question\CW 23.06.21 Question\CW 23.06.21 Question\obj\Debug\net6.0-windows\CW_23._06._21_Question.AnswerControl.resources
