@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\bin\Debug\net6.0\gnomiya.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\bin\Debug\net6.0\gnomiya.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\bin\Debug\net6.0\gnomiya.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\bin\Debug\net6.0\gnomiya.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\bin\Debug\net6.0\gnomiya.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\obj\Debug\net6.0\gnomiya.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\obj\Debug\net6.0\gnomiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\obj\Debug\net6.0\gnomiya.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\obj\Debug\net6.0\gnomiya.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\obj\Debug\net6.0\gnomiya.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\obj\Debug\net6.0\gnomiya.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\obj\Debug\net6.0\refint\gnomiya.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\obj\Debug\net6.0\gnomiya.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\obj\Debug\net6.0\gnomiya.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\gnomiya\obj\Debug\net6.0\ref\gnomiya.dll
