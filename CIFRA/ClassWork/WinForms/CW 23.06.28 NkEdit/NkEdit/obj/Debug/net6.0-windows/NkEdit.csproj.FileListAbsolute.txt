@@ -1,0 +1,17 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\bin\Debug\net6.0-windows\NkEdit.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\bin\Debug\net6.0-windows\NkEdit.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\bin\Debug\net6.0-windows\NkEdit.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\bin\Debug\net6.0-windows\NkEdit.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\bin\Debug\net6.0-windows\NkEdit.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\NkEdit.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\NkEdit.NKEdit.resources
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\NkEdit.csproj.GenerateResource.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\NkEdit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\NkEdit.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\NkEdit.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\NkEdit.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\NkEdit.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\refint\NkEdit.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\NkEdit.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\NkEdit.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.06.28 NkEdit\NkEdit\obj\Debug\net6.0-windows\ref\NkEdit.dll
