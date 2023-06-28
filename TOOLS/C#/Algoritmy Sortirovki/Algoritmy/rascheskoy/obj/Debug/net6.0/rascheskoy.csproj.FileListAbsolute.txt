@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\bin\Debug\net6.0\rascheskoy.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\bin\Debug\net6.0\rascheskoy.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\bin\Debug\net6.0\rascheskoy.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\bin\Debug\net6.0\rascheskoy.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\bin\Debug\net6.0\rascheskoy.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\obj\Debug\net6.0\rascheskoy.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\obj\Debug\net6.0\rascheskoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\obj\Debug\net6.0\rascheskoy.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\obj\Debug\net6.0\rascheskoy.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\obj\Debug\net6.0\rascheskoy.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\obj\Debug\net6.0\rascheskoy.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\obj\Debug\net6.0\refint\rascheskoy.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\obj\Debug\net6.0\rascheskoy.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\obj\Debug\net6.0\rascheskoy.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\TOOLS\C#\Algoritmy Sortirovki\Algoritmy\rascheskoy\obj\Debug\net6.0\ref\rascheskoy.dll
