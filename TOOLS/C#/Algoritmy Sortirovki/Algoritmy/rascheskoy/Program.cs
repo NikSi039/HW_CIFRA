@@ -50,21 +50,16 @@ int[] CombSort(int[] mas)
             }
         }
 
-        if (!SwapFlag)
-        {
-            break;
-        }
+        if (!SwapFlag) break;
     }
-
     return mas;
 }
 
 // Метод генерации следующего шага
-int GenNextStep (int s)
+int GenNextStep(int s)
 {
     s *= 1000 / 1247;
-
-    return s > 1 ? s : 1 ;
+    return s > 1 ? s : 1;
 }
 
 void Swap(ref int a, ref int b)
