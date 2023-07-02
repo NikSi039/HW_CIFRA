@@ -12,16 +12,17 @@
     <Files>
       <File FileName="CW 23.05.34 FILES/Program.cs" />
       <File FileName="Class FILE/Program.cs" Line="17" Column="57" />
-      <File FileName="Directorry/Program.cs" Line="14" Column="1" />
-      <File FileName="Folders/Program.cs" Line="1" Column="1" />
+      <File FileName="Directorry/Program.cs" />
+      <File FileName="Folders/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CW 23.05.34 FILES">
-            <Node name="Class FILE">
+          <Node name="CW 23.05.34 FILES" expanded="True">
+            <Node name="Class FILE" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="CW 23.05.34 FILES" expanded="True" />
           </Node>
         </State>
       </Pad>
