@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.24 FILES/CW 23.05.34 FILES/Directorry/Directorry.csproj": {}
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/CONSOLE/CW 23.05.24 FILES/CW 23.05.34 FILES/Directorry/Directorry.csproj": {}
   },
   "projects": {
-    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.24 FILES/CW 23.05.34 FILES/Directorry/Directorry.csproj": {
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/CONSOLE/CW 23.05.24 FILES/CW 23.05.34 FILES/Directorry/Directorry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.24 FILES/CW 23.05.34 FILES/Directorry/Directorry.csproj",
+        "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/CONSOLE/CW 23.05.24 FILES/CW 23.05.34 FILES/Directorry/Directorry.csproj",
         "projectName": "Directorry",
-        "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.24 FILES/CW 23.05.34 FILES/Directorry/Directorry.csproj",
+        "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/CONSOLE/CW 23.05.24 FILES/CW 23.05.34 FILES/Directorry/Directorry.csproj",
         "packagesPath": "/Users/programmirovanie/.nuget/packages/",
-        "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/CW 23.05.24 FILES/CW 23.05.34 FILES/Directorry/obj/",
+        "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/CONSOLE/CW 23.05.24 FILES/CW 23.05.34 FILES/Directorry/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/programmirovanie/.nuget/NuGet/NuGet.Config"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
         }
       }
     }

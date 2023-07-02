@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.29 FileManager/CW 23.05.29 FileManager/CW 23.05.29 FileManager/CW 23.05.29 FileManager.csproj",
+      "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/CONSOLE/Cw 23.05.29 FileManager/CW 23.05.29 FileManager/CW 23.05.29 FileManager/CW 23.05.29 FileManager.csproj",
       "projectName": "CW 23.05.29 FileManager",
-      "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.29 FileManager/CW 23.05.29 FileManager/CW 23.05.29 FileManager/CW 23.05.29 FileManager.csproj",
+      "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/CONSOLE/Cw 23.05.29 FileManager/CW 23.05.29 FileManager/CW 23.05.29 FileManager/CW 23.05.29 FileManager.csproj",
       "packagesPath": "/Users/programmirovanie/.nuget/packages/",
-      "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/ClassWork/Cw 23.05.29 FileManager/CW 23.05.29 FileManager/CW 23.05.29 FileManager/obj/",
+      "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/CONSOLE/Cw 23.05.29 FileManager/CW 23.05.29 FileManager/CW 23.05.29 FileManager/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/programmirovanie/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
       }
     }
   }
