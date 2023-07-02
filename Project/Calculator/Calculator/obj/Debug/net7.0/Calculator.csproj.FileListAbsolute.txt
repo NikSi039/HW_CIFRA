@@ -1,0 +1,5 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/Project/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/Project/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/Project/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/Project/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/Project/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
