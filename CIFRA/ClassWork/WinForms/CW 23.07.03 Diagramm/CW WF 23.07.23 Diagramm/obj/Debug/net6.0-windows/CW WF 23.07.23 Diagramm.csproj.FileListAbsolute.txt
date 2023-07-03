@@ -1,0 +1,17 @@
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\bin\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.exe
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\bin\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.deps.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\bin\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.runtimeconfig.json
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\bin\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\bin\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\CW_WF_23._07._23_Diagramm.FormKurs.resources
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.csproj.GenerateResource.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\refint\CW WF 23.07.23 Diagramm.dll
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.pdb
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\CW WF 23.07.23 Diagramm.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\HW_CIFRA\CIFRA\ClassWork\WinForms\CW 23.07.03 Diagramm\CW WF 23.07.23 Diagramm\obj\Debug\net6.0-windows\ref\CW WF 23.07.23 Diagramm.dll
