@@ -1,0 +1,18 @@
+Добавление новых столбцов с помощью команды ALTER TABLE:
+
+ALTER TABLE Customers
+ADD COLUMN Age INT;
+
+
+Изменение столбцов (тип данных, размер и т.д.) с помощью команды ALTER TABLE:
+
+ALTER TABLE Customers
+ALTER COLUMN Email TYPE VARCHAR(150);
+
+
+Удаление столбцов с помощью команды ALTER TABLE:
+
+ALTER TABLE Customers
+DROP COLUMN Age;
+
+

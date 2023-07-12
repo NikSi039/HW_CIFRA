@@ -1,0 +1,163 @@
+INSERT INTO Customers (FirstName, LastName, Email) 
+VALUES ('John', 'Doe', 'john.doe@example.com');
+
+UPDATE Products SET UnitPrice = UnitPrice * 1.1 
+WHERE CategoryID = 3;
+
+DELETE FROM Orders WHERE OrderDate < CURRENT_DATE - INTERVAL '30 days';
+
+INSERT INTO Employees (FirstName, LastName, HireDate) 
+SELECT FirstName, LastName, CURRENT_DATE FROM NewEmployees;
+
+UPDATE Customers SET City = 'London' 
+WHERE Country = 'UK' AND City = 'Manchester';
+
+DELETE FROM Products WHERE ProductID 
+IN (SELECT ProductID FROM DiscontinuedProducts);
+
+INSERT INTO Orders (CustomerID, OrderDate) 
+SELECT CustomerID, CURRENT_DATE FROM Customers 
+WHERE Country = 'USA';
+
+UPDATE Employees SET Salary = Salary * 1.05 
+WHERE HireDate < '2022-01-01';
+
+DELETE FROM Customers WHERE CustomerID 
+NOT IN (SELECT CustomerID FROM Orders);
+
+INSERT INTO OrderDetails (OrderID, ProductID, Quantity) 
+VALUES ((SELECT OrderID FROM Orders 
+WHERE CustomerID = 'CUST001'), 'PROD001', 10);
+
+
+
+Вставка записи
+
+INSERT INTO TableName (Column1, Column2, Column3, ...)
+VALUES (Value1, Value2, Value3, ...);
+
+
+Yказать значения для каждого столбца вручную:
+
+INSERT INTO Customers (CustomerID, FirstName, LastName, Email, Phone)
+VALUES (1, 'John', 'Doe', 'john.doe@example.com', '1234567890');
+
+
+Заполнение значений для каждого столбца или выборка значений из другой таблицы:
+
+INSERT INTO Orders (OrderID, CustomerID, ProductID, Quantity, OrderDate)
+SELECT OrderID, CustomerID, ProductID, Quantity, OrderDate
+FROM OrderArchive
+WHERE OrderDate >= '2023-01-01';
+
+
+
+
+INSERT INTO Products (ProductID, ProductName, Price, Category)
+VALUES (1, 'Phone', 999.99, 'Electronics');
+
+
+INSERT INTO Customers (CustomerID, FirstName, LastName, Email, Phone)
+VALUES (1, 'John', 'Doe', 'john.doe@example.com', '1234567890');
+
+
+INSERT INTO Customers (CustomerID, FirstName, LastName, Email, Phone)
+VALUES (1, 'John', 'Doe', 'john.doe@example.com', '1234567890');
+
+
+
+Пример вставки нескольких записей с использованием одной команды INSERT INTO:
+
+INSERT INTO Products (ProductID, ProductName, Price, Category)
+VALUES (2, 'Laptop', 1499.99, 'Electronics'),
+       (3, 'Shirt', 29.99, 'Apparel'),
+       (4, 'Book', 19.99, 'Books');
+
+
+
+
+Простая выборка данных
+
+Оператор SELECT используется для извлечения данных из одной или нескольких таблиц. Вот основная структура оператора SELECT:
+
+SELECT column1, column2, ...
+FROM table
+WHERE condition;
+
+
+Простая выборка всех столбцов из таблицы "Products":
+
+SELECT *
+FROM Products;
+
+
+Выборка определенных столбцов из таблицы "Customers":
+
+SELECT CustomerID, FirstName, LastName
+FROM Customers;
+
+
+Выборка товаров с ценой больше 1000:
+
+SELECT *
+FROM Products
+WHERE Price > 1000;
+
+
+
+
+Обновление записи
+
+Обновление записи позволяет изменить данные в таблице на основе определенного условия. Вот основная структура команды UPDATE:
+
+UPDATE table
+SET column1 = value1, column2 = value2, ...
+WHERE condition;
+
+
+Обновление значения столбца "Price" в таблице "Products" для товара с определенным "ProductID":
+
+UPDATE Products
+SET Price = 1499.99
+WHERE ProductID = 1;
+
+
+Обновление нескольких столбцов в таблице "Customers" с использованием условия:
+
+UPDATE Customers
+SET FirstName = 'Jane', LastName = 'Smith'
+WHERE CustomerID = 1;
+
+
+Обновление значения столбца на основе существующих данных:
+
+UPDATE Orders
+SET Quantity = Quantity + 1
+WHERE ProductID = 1;
+
+
+Удаление записи
+
+Удаление записи позволяет удалить данные из таблицы на основе определенного условия. Вот основная структура команды DELETE FROM:
+
+DELETE FROM table
+WHERE condition;
+
+
+даление всех записей из таблицы "Products":
+
+DELETE FROM Products;
+
+
+Удаление записей из таблицы "Customers" на основе условия:
+
+DELETE FROM Customers
+WHERE LastName = 'Doe';
+
+
+Удаление одной конкретной записи из таблицы "Orders" на основе условия:
+
+DELETE FROM Orders
+WHERE OrderID = 1;
+
+

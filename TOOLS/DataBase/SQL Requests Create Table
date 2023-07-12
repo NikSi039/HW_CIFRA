@@ -1,3 +1,7 @@
+Удаление таблицы
+DROP TABLE OrdersHistory;
+
+
 -- Создание таблицы "Customer" (Пользователь)
 CREATE TABLE IF NOT EXISTS customer (
     id SERIAL PRIMARY KEY, -- Идентификатор пользователя
@@ -65,3 +69,127 @@ CREATE TABLE IF NOT EXISTS cart_product (
     FOREIGN KEY (cart_id) REFERENCES cart(id) ON DELETE CASCADE, -- Внешний ключ к таблице "cart" (Корзина)
     FOREIGN KEY (product_id) REFERENCES product(id) ON DELETE CASCADE -- Внешний ключ к таблице "product" (Товар)
 );
+
+
+CREATE TABLE table_name (
+    column1 datatype constraint,
+    column2 datatype constraint,
+    ...
+);
+
+
+Ограничение NOT NULL:
+
+CREATE TABLE Students (
+    StudentID INT PRIMARY KEY,
+    FirstName VARCHAR(50) NOT NULL,
+    LastName VARCHAR(50) NOT NULL,
+    Age INT NOT NULL
+);
+
+
+Ограничение UNIQUE:
+
+CREATE TABLE Employees (
+    EmployeeID INT PRIMARY KEY,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    Email VARCHAR(100) UNIQUE
+);
+
+
+Ограничение PRIMARY KEY:
+
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    ProductID INT,
+    Quantity INT
+);
+
+
+Ограничение FOREIGN KEY:
+
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    ProductID INT,
+    Quantity INT,
+    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID),
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
+);
+
+
+Ограничение CHECK:
+
+CREATE TABLE Employees (
+    EmployeeID INT PRIMARY KEY,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    Age INT CHECK (Age >= 18)
+);
+
+
+Ограничение DEFAULT:
+
+CREATE TABLE Students (
+    StudentID INT PRIMARY KEY,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    Age INT DEFAULT 18
+);
+
+
+Ограничение ON DELETE:
+ON DELETE CASCADE:
+
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    ProductID INT,
+    Quantity INT,
+    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID) ON DELETE CASCADE,
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID) ON DELETE CASCADE
+);
+
+
+ON DELETE SET NULL:
+
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    ProductID INT,
+    Quantity INT,
+    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID) ON DELETE SET NULL,
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID) ON DELETE SET NULL
+);
+
+
+CREATE TABLE Products (
+    ProductID INT PRIMARY KEY,
+    ProductName VARCHAR(100) NOT NULL,
+    Price DECIMAL(10,2) NOT NULL,
+    Category VARCHAR(50) NOT NULL
+);
+
+
+CREATE TABLE Customers (
+    CustomerID INT PRIMARY KEY,
+    FirstName VARCHAR(50) NOT NULL,
+    LastName VARCHAR(50) NOT NULL,
+    Email VARCHAR(100) UNIQUE,
+    Phone VARCHAR(20) NOT NULL
+);
+
+
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    ProductID INT,
+    Quantity INT CHECK (Quantity > 0),
+    OrderDate DATE,
+    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID),
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
+);
+
+
