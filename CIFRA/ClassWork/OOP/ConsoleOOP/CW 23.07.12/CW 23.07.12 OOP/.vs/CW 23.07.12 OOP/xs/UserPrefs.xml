@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A01B7E87-B045-4B7D-8ADD-A19E31E6C04A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Practice1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Practice2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CW_22023.07.12_220OOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Practice2/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="41" />
+      <File FileName="Rectangle.cs" Line="34" Column="23" />
+      <File FileName="../Practice1/Program.cs" Line="17" Column="19" />
+      <File FileName="../Practice1/Practice1Class.cs" Line="48" Column="1" />
+      <File FileName="../Practice2/Program.cs" Line="20" Column="19" />
+      <File FileName="../Practice2/Count.cs" Line="64" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW 23.07.12 OOP" expanded="True">
+            <Node name="Practice2">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

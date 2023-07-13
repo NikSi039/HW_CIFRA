@@ -33,17 +33,14 @@ namespace Practice1
 
         public int Sum()
         {
-            return value1 + value2; 
+            return value1 + value2;
         }
 
         public int Max()
         {
             int max = value1;
 
-            if (value2 > max)
-            {
-                max = value2;
-            }
+            if (value2 > max) max = value2;
             return max;
         }
     }

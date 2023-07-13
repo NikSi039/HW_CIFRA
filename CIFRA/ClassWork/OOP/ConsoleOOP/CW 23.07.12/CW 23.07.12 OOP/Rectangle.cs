@@ -18,26 +18,17 @@ namespace CW_23._07._12_OOP
 
         public double getHeight()
         {
-            return height;  
+            return height;
         }
 
         public void setWidth(double w)
         {
-            if (w > 0)
-            {
-                width = w;
-            }
-
-           
+            if (w > 0) width = w;
         }
 
         public void setHeight(double h)
         {
-            if (h > 0)
-            {
-                height = h;
-            }
-           
+            if (h > 0) height = h;
         }
 
         public double getArea()
@@ -47,15 +38,11 @@ namespace CW_23._07._12_OOP
 
         public double getPerimetr()
         {
-            if (width!=0 && height!=0)
+            if (width != 0 && height != 0)
             {
                 return 2 * (width + height);
             }
-            else
-            {
-                return 0;
-            }
-           
+            else return 0;
         }
     }
 }

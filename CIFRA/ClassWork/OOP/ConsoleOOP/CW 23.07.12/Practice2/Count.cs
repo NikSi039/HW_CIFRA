@@ -16,18 +16,13 @@ namespace Practice2
         {
             if (count < min)
             {
-                Console.WriteLine("Текущее знычение должно быть меньше минимального");
-
-                
-
-
-
+                Console.WriteLine("Текущее знычение должно быть " +
+                    "меньше минимального");
             }
             else if (count > max)
             {
-                Console.WriteLine("Текущее знычение должно быть больше максимального");
-
-               
+                Console.WriteLine("Текущее знычение должно быть " +
+                    "больше максимального");
             }
             else
             {
@@ -35,10 +30,6 @@ namespace Practice2
                 this.min = min;
                 this.max = max;
             }
-
-
-          
-
         }
 
         public Count()
@@ -50,7 +41,6 @@ namespace Practice2
 
         public Count(int min, int max)
         {
-
             this.min = min;
             this.current = min;
             this.max = max;
@@ -62,22 +52,12 @@ namespace Practice2
 
         public void Up()
         {
-            if (current < max)
-            {
-                current++;
-            }
-
-
+            if (current < max) current++;
         }
 
         public void Down()
         {
-            if (current > min)
-            {
-                current--;
-            }
-
-           
+            if (current > min) current--;
         }
     }
 }

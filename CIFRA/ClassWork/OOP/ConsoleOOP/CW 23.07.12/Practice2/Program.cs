@@ -17,4 +17,4 @@ count.Up();
 count.Down();
 Console.WriteLine(count.getCurrent());
 
-
+Console.ReadKey();

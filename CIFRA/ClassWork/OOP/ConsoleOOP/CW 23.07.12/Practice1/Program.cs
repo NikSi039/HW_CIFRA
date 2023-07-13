@@ -13,3 +13,5 @@ Console.WriteLine($"Величина 2: {pract.getValue2()}");
 
 Console.WriteLine($"Сумма: {pract.Sum()}");
 Console.WriteLine($"Максимум: {pract.Max()}");
+
+Console.ReadKey();
