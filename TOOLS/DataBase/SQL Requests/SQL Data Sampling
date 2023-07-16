@@ -1,1 +1,254 @@
-dfvdfv
+Синтаксис оператора SELECT
+
+Пример выборки столбцов "aircraft_code" и "model" из таблицы "aircrafts":
+
+SELECT aircraft_code, model FROM aircrafts;
+
+
+
+
+Изменение имен столбцов при формировании выборки
+
+
+Синтаксис оператора SELECT с AS
+
+SELECT column1 AS alias1, column2 AS alias2, ... FROM table_name;
+
+
+Пример выборки столбцов "aircraft_code" и "model" с новыми именами "Код самолета" и "Model":
+
+SELECT aircraft_code AS "Код самолета", model AS "Model" FROM aircrafts;
+
+
+Пример выборки столбца "airport_name" с новым именем "Название аэропорта":
+
+SELECT airport_name AS "Название аэропорта" FROM airports;
+
+
+Вычисляемые столбцы в запросе SELECT
+
+
+Синтаксис вычисляемого столбца:
+
+SELECT column1, column2, ..., (expression) AS computed_column FROM table_name;
+
+
+
+Пример выборки данных с созданием вычисляемого столбца "total_amount", 
+который представляет сумму стоимостей перелетов из таблицы "ticket_flights":
+
+SELECT ticket_no, flight_id, amount, (amount * 0.15) AS total_amount FROM ticket_flights;
+
+
+
+Математические функции
+
+
+Вычисление значения с добавлением и округлением:
+
+SELECT amount + 0.1532, ROUND(amount + 0.1532, 2) AS rounded_amount
+FROM ticket_flights;
+
+
+
+Вычисление разности и абсолютного значения:
+
+SELECT amount - 100000, ABS(amount - 100000) AS rounded_amount
+FROM ticket_flights;
+
+
+
+Определение условий с помощью оператора CASE WHEN
+
+
+Синтаксис оператора CASE WHEN выглядит следующим образом:
+
+CASE
+    WHEN condition1 THEN result1
+    WHEN condition2 THEN result2
+    ...
+    ELSE result
+END
+
+
+
+Пример использования оператора CASE WHEN для классификации статуса рейса:
+
+SELECT flight_id, 
+       CASE 
+           WHEN status = 'On Time' THEN 'Вовремя'
+           WHEN status = 'Delayed' THEN 'Задержан'
+           WHEN status = 'Departed' THEN 'Вылетел'
+           WHEN status = 'Arrived' THEN 'Прибыл'
+           ELSE 'Неизвестно'
+       END AS flight_status
+FROM flights;
+
+
+
+Пример использования оператора CASE WHEN для определения скидки на билет:
+
+SELECT ticket_no, amount, 
+       CASE 
+           WHEN amount < 10000 THEN amount * 0.9
+           WHEN amount >= 10000 AND amount < 20000 THEN amount * 0.8
+           WHEN amount >= 20000 THEN amount * 0.7
+       END AS discounted_amount
+FROM ticket_flights; 
+
+
+
+Фильтрация данных по условию
+
+
+
+Синтаксис оператора WHERE следующий:
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+
+
+
+Сравнение на равенство (=):
+
+SELECT *
+FROM flights
+WHERE status = 'Scheduled';
+
+
+Сравнение на неравенство (<>):
+
+SELECT *
+FROM flights
+WHERE status <> 'Cancelled';
+
+
+Меньше чем (<):
+
+SELECT *
+FROM flights
+WHERE scheduled_departure < '2023-07-01';
+
+
+
+Логические операторы
+
+
+
+Пример использования оператора AND:
+
+SELECT *
+FROM flights
+WHERE status = 'Scheduled' AND departure_airport = 'VKO';
+
+
+Пример использования оператора OR:
+
+SELECT *
+FROM flights
+WHERE status = 'Delayed' OR status = 'Cancelled';
+
+
+Пример использования оператора NOT:
+
+SELECT *
+FROM flights
+WHERE NOT (status = 'Arrived' OR status = 'Departed');
+
+
+
+
+Оператор BETWEEN
+
+
+Оператор BETWEEN проверяет, находится ли значение в указанном диапазоне. 
+Синтаксис оператора BETWEEN выглядит следующим образом:
+
+value BETWEEN lower_bound AND upper_bound
+
+
+
+Пример использования оператора BETWEEN:
+
+SELECT *
+FROM flights
+WHERE scheduled_departure BETWEEN '2017-08-01' AND '2017-09-01';
+
+
+Оператор IN
+
+
+Оператор IN проверяет, находится ли значение в списке заданных значений. 
+Синтаксис оператора IN выглядит следующим образом:
+
+value IN (value1, value2, ...)
+
+
+
+Пример использования оператора IN:
+
+SELECT *
+FROM flights
+WHERE status IN ('Scheduled', 'Delayed');
+
+
+
+Сортировка данных
+
+
+Синтаксис оператора ORDER BY:
+
+SELECT column1, column2, ...
+FROM table_name
+ORDER BY column1 [ASC|DESC], column2 [ASC|DESC], ...
+
+
+
+Сортировка по столбцу "flight_id" в таблице "flights" в порядке возрастания:
+
+SELECT flight_id, flight_no, scheduled_departure, scheduled_arrival
+FROM flights
+ORDER BY flight_id ASC;
+
+
+Сортировка по столбцу "scheduled_departure" в таблице "flights" в порядке убывания:
+
+SELECT flight_id, flight_no, scheduled_departure, scheduled_arrival
+FROM flights
+ORDER BY scheduled_departure DESC;
+
+
+Сортировка по нескольким столбцам в таблице "flights":
+
+SELECT flight_id, flight_no, scheduled_departure, scheduled_arrival
+FROM flights
+ORDER BY scheduled_departure ASC, scheduled_arrival DESC;
+
+
+
+
+Оператор LIKE
+
+
+Пример с таблицей airports и столбцом airport_code, где мы выбираем аэропорты,
+ коды которых заканчиваются на 'A':
+
+SELECT airport_name, airport_code
+FROM airports
+WHERE airport_code LIKE '%A';
+
+
+Пример с таблицей tickets и столбцом ticket_no, 
+где мы выбираем билеты, номера которых содержат символ '7' в середине:
+
+SELECT ticket_no
+FROM tickets
+WHERE ticket_no LIKE '%7%';
+
+
+Выборка аэропортов по коду с использованием оператора LIKE и символа нижнего подчеркивания
+
+SELECT airport_name, airport_code
+FROM airports
+WHERE airport_code LIKE '__A';
