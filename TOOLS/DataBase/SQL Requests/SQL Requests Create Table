@@ -1,0 +1,195 @@
+Удаление таблицы
+DROP TABLE OrdersHistory;
+
+
+-- Создание таблицы "Customer" (Пользователь)
+CREATE TABLE IF NOT EXISTS customer (
+    id SERIAL PRIMARY KEY, -- Идентификатор пользователя
+    name VARCHAR(255) NOT NULL, -- Имя пользователя
+    email VARCHAR(255) NOT NULL, -- Адрес электронной почты пользователя
+    password VARCHAR(255) NOT NULL, -- Пароль пользователя
+    contact_info VARCHAR(255), -- Контактная информация пользователя
+    delivery_address VARCHAR(255) -- Адрес доставки пользователя
+);
+
+-- Создание таблицы "Category" (Категория)
+CREATE TABLE IF NOT EXISTS category (
+    id SERIAL PRIMARY KEY, -- Идентификатор категории
+    name VARCHAR(255) NOT NULL -- Название категории
+);
+
+-- Создание таблицы "Product" (Товар)
+CREATE TABLE IF NOT EXISTS product (
+    id SERIAL PRIMARY KEY, -- Идентификатор товара
+    name VARCHAR(255) NOT NULL, -- Название товара
+    description TEXT, -- Описание товара
+    image VARCHAR(255), -- Изображение товара
+    price DECIMAL(10, 2), -- Цена товара
+    category_id INTEGER, -- Идентификатор категории товара
+    stock_quantity INTEGER, -- Количество товара на складе
+    FOREIGN KEY (category_id) REFERENCES category(id) ON DELETE SET NULL -- Внешний ключ к таблице "Category" (Категория)
+);
+
+-- Создание таблицы "Cart" (Корзина)
+CREATE TABLE IF NOT EXISTS cart (
+    id SERIAL PRIMARY KEY, -- Идентификатор корзины
+    customer_id INTEGER, -- Идентификатор пользователя
+    creation_date DATE, -- Дата создания корзины
+    FOREIGN KEY (customer_id) REFERENCES customer(id) ON DELETE CASCADE -- Внешний ключ к таблице "Customer" (Пользователь)
+);
+
+-- Создание таблицы "CustomerOrder" (Заказ)
+CREATE TABLE IF NOT EXISTS customer_order (
+    id SERIAL PRIMARY KEY, -- Идентификатор заказа
+    customer_id INTEGER, -- Идентификатор пользователя
+    order_date TIMESTAMP, -- Дата заказа
+    delivery_method VARCHAR(255), -- Метод доставки
+    payment_method VARCHAR(255), -- Метод оплаты
+    status VARCHAR(255), -- Статус заказа
+    FOREIGN KEY (customer_id) REFERENCES customer(id) ON DELETE CASCADE -- Внешний ключ к таблице "Customer" (Пользователь)
+);
+
+-- Создание таблицы "Review" (Отзыв)
+CREATE TABLE IF NOT EXISTS review (
+    id SERIAL PRIMARY KEY, -- Идентификатор отзыва
+    customer_id INTEGER, -- Идентификатор пользователя
+    product_id INTEGER, -- Идентификатор товара
+    rating INTEGER, -- Рейтинг
+    comment TEXT, -- Комментарий
+    FOREIGN KEY (customer_id) REFERENCES customer(id) ON DELETE CASCADE, -- Внешний ключ к таблице "Customer" (Пользователь)
+    FOREIGN KEY (product_id) REFERENCES product(id) ON DELETE CASCADE -- Внешний ключ к таблице "Product" (Товар)
+);
+
+-- Создание таблицы "cart_product" (Промежуточная таблица для связи между "cart" и "product")
+CREATE TABLE IF NOT EXISTS cart_product (
+    cart_id INTEGER, -- Идентификатор корзины
+    product_id INTEGER, -- Идентификатор товара
+    quantity INTEGER, -- Количество товара в корзине
+    PRIMARY KEY (cart_id, product_id), -- Определение составного первичного ключа
+    FOREIGN KEY (cart_id) REFERENCES cart(id) ON DELETE CASCADE, -- Внешний ключ к таблице "cart" (Корзина)
+    FOREIGN KEY (product_id) REFERENCES product(id) ON DELETE CASCADE -- Внешний ключ к таблице "product" (Товар)
+);
+
+
+CREATE TABLE table_name (
+    column1 datatype constraint,
+    column2 datatype constraint,
+    ...
+);
+
+
+Ограничение NOT NULL:
+
+CREATE TABLE Students (
+    StudentID INT PRIMARY KEY,
+    FirstName VARCHAR(50) NOT NULL,
+    LastName VARCHAR(50) NOT NULL,
+    Age INT NOT NULL
+);
+
+
+Ограничение UNIQUE:
+
+CREATE TABLE Employees (
+    EmployeeID INT PRIMARY KEY,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    Email VARCHAR(100) UNIQUE
+);
+
+
+Ограничение PRIMARY KEY:
+
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    ProductID INT,
+    Quantity INT
+);
+
+
+Ограничение FOREIGN KEY:
+
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    ProductID INT,
+    Quantity INT,
+    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID),
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
+);
+
+
+Ограничение CHECK:
+
+CREATE TABLE Employees (
+    EmployeeID INT PRIMARY KEY,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    Age INT CHECK (Age >= 18)
+);
+
+
+Ограничение DEFAULT:
+
+CREATE TABLE Students (
+    StudentID INT PRIMARY KEY,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    Age INT DEFAULT 18
+);
+
+
+Ограничение ON DELETE:
+ON DELETE CASCADE:
+
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    ProductID INT,
+    Quantity INT,
+    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID) ON DELETE CASCADE,
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID) ON DELETE CASCADE
+);
+
+
+ON DELETE SET NULL:
+
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    ProductID INT,
+    Quantity INT,
+    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID) ON DELETE SET NULL,
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID) ON DELETE SET NULL
+);
+
+
+CREATE TABLE Products (
+    ProductID INT PRIMARY KEY,
+    ProductName VARCHAR(100) NOT NULL,
+    Price DECIMAL(10,2) NOT NULL,
+    Category VARCHAR(50) NOT NULL
+);
+
+
+CREATE TABLE Customers (
+    CustomerID INT PRIMARY KEY,
+    FirstName VARCHAR(50) NOT NULL,
+    LastName VARCHAR(50) NOT NULL,
+    Email VARCHAR(100) UNIQUE,
+    Phone VARCHAR(20) NOT NULL
+);
+
+
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    ProductID INT,
+    Quantity INT CHECK (Quantity > 0),
+    OrderDate DATE,
+    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID),
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
+);
+
+
