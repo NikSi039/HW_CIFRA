@@ -1,0 +1,5 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.17/HW 23.07.17 Turniket/obj/Debug/net7.0/HW 23.07.17 Turniket.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.17/HW 23.07.17 Turniket/obj/Debug/net7.0/HW 23.07.17 Turniket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.17/HW 23.07.17 Turniket/obj/Debug/net7.0/HW 23.07.17 Turniket.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.17/HW 23.07.17 Turniket/obj/Debug/net7.0/HW 23.07.17 Turniket.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.17/HW 23.07.17 Turniket/obj/Debug/net7.0/HW 23.07.17 Turniket.csproj.CoreCompileInputs.cache
