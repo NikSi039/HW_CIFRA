@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9C7B41F0-9F49-4432-9D13-8365441F3302}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwoVaribles.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="TwoVaribles.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW 23.07.17 Constructor i Destruktor">
+            <Node name="CW 23.07.17 Constructor i Destruktor" expanded="True">
+              <Node name="TwoVaribles.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CW_22023.07.17_220Constructor_220i_220Destruktor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

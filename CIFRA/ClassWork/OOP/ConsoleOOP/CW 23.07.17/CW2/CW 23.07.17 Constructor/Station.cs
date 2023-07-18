@@ -17,16 +17,16 @@ namespace CW_23._07._17_Constructor
             for (int i = 0; i < n; i++)
             {
                 Console.Write("Введите станцию назначения: ");
-                string station = Console.ReadLine();
+                string station = Console.ReadLine()!;
 
                 Console.Write("Введите номер поезда: ");
-                int number = int.Parse(Console.ReadLine());
+                int number = int.Parse(Console.ReadLine()!);
 
                 Console.WriteLine("Введите час отправления: ");
-                int hour = int.Parse(Console.ReadLine());
+                int hour = int.Parse(Console.ReadLine()!);
 
                 Console.WriteLine("Введите минуты отправления: ");
-                int minutes = int.Parse(Console.ReadLine());
+                int minutes = int.Parse(Console.ReadLine()!);
 
                 trains[i] = new Train(station, number, hour, minutes);
             }
