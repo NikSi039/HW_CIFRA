@@ -1,0 +1,15 @@
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\bin\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.exe
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\bin\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.deps.json
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\bin\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.runtimeconfig.json
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\bin\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.dll
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\bin\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.pdb
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\obj\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.csproj.AssemblyReference.cache
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\obj\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\obj\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.AssemblyInfoInputs.cache
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\obj\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.AssemblyInfo.cs
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\obj\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.csproj.CoreCompileInputs.cache
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\obj\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.dll
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\obj\Debug\net6.0\refint\CW 23.07.17 Constructor i Destruktor.dll
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\obj\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.pdb
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\obj\Debug\net6.0\CW 23.07.17 Constructor i Destruktor.genruntimeconfig.cache
+C:\Users\C1nb9\source\repos\BD\4 урок\CW1\CW 23.07.17 Constructor i Destruktor\obj\Debug\net6.0\ref\CW 23.07.17 Constructor i Destruktor.dll
