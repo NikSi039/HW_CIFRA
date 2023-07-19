@@ -17,11 +17,6 @@ namespace CW_WF_23._07._23_Diagramm
             kurses = new List<Kurs>();
 
             plGraf.Paint += new PaintEventHandler(drawDiagram!);
-
-
-
-
-
         }
 
         private void btSave_Click(object sender, EventArgs e)
@@ -40,8 +35,6 @@ namespace CW_WF_23._07._23_Diagramm
 
                         bw.Write(data);
                         bw.Write(k);
-
-
                     }
                 }
             }
@@ -72,9 +65,7 @@ namespace CW_WF_23._07._23_Diagramm
                         i++;
                     }
                 }
-
                 this.plGraf.Refresh();
-           
             }
         }
 
@@ -123,9 +114,6 @@ namespace CW_WF_23._07._23_Diagramm
                     x1 += w + 5;
                 }
             }
-
-           
-
         }
 
         private void plGraf_SizeChanged(object sender, EventArgs e)
@@ -143,8 +131,6 @@ namespace CW_WF_23._07._23_Diagramm
                 kurses.Add(kurs);
                 this.plGraf.Refresh();
             }
-
-          
         }
     }
 }

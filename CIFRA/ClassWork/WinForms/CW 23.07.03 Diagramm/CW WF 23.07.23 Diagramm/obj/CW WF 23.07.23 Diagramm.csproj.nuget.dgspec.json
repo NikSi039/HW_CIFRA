@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.07.03 Diagramm\\CW WF 23.07.23 Diagramm\\CW WF 23.07.23 Diagramm.csproj": {}
+    "C:\\Users\\sidor\\source\\repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.07.03 Diagramm\\CW WF 23.07.23 Diagramm\\CW WF 23.07.23 Diagramm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.07.03 Diagramm\\CW WF 23.07.23 Diagramm\\CW WF 23.07.23 Diagramm.csproj": {
+    "C:\\Users\\sidor\\source\\repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.07.03 Diagramm\\CW WF 23.07.23 Diagramm\\CW WF 23.07.23 Diagramm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.07.03 Diagramm\\CW WF 23.07.23 Diagramm\\CW WF 23.07.23 Diagramm.csproj",
+        "projectUniqueName": "C:\\Users\\sidor\\source\\repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.07.03 Diagramm\\CW WF 23.07.23 Diagramm\\CW WF 23.07.23 Diagramm.csproj",
         "projectName": "CW WF 23.07.23 Diagramm",
-        "projectPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.07.03 Diagramm\\CW WF 23.07.23 Diagramm\\CW WF 23.07.23 Diagramm.csproj",
-        "packagesPath": "C:\\Users\\C1nb9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.07.03 Diagramm\\CW WF 23.07.23 Diagramm\\obj\\",
+        "projectPath": "C:\\Users\\sidor\\source\\repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.07.03 Diagramm\\CW WF 23.07.23 Diagramm\\CW WF 23.07.23 Diagramm.csproj",
+        "packagesPath": "C:\\Users\\sidor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sidor\\source\\repos\\NikSi039\\HW_CIFRA\\CIFRA\\ClassWork\\WinForms\\CW 23.07.03 Diagramm\\CW WF 23.07.23 Diagramm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\C1nb9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sidor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

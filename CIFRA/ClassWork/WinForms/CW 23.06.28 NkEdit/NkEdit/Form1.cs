@@ -36,8 +36,6 @@ namespace NkEdit
             printDialog = new PrintDialog();
 
             fontDialog = new FontDialog();
-
-
         }
 
         private async void OpenDocument()
@@ -67,10 +65,7 @@ namespace NkEdit
                     fn = saveFileDialog.FileName;
                     this.Text = fn;
                 }
-                else
-                {
-                    result = -1;
-                }
+                else result = -1;
             }
 
             if (fn != String.Empty)
@@ -88,11 +83,7 @@ namespace NkEdit
         {
             openFileDialog.FileName = String.Empty;
 
-            if (docChanged == true)
-            {
-
-                Save();
-            }
+            if (docChanged == true) Save();
 
             OpenDocument();
         }
@@ -104,10 +95,7 @@ namespace NkEdit
 
         private void ñîçäàòüToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (docChanged)
-            {
-                Save();
-            }
+            if (docChanged) Save();
         }
 
         private void Save()
@@ -138,8 +126,6 @@ namespace NkEdit
             {
                 docChanged = true;
             }
-
-            
         }
 
         private void ñîõðàíèòüÊàêToolStripMenuItem_Click(object sender, EventArgs e)
@@ -155,12 +141,8 @@ namespace NkEdit
                 {
                     Save();
                 }
-
                 Close();
             }
-            
-            
-           
         }
 
         private void ïå÷àòüToolStripMenuItem_Click(object sender, EventArgs e)
@@ -176,17 +158,12 @@ namespace NkEdit
 
         private void øðèôòToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
                 fontDialog.Font = textBox1.Font;
 
                 if (fontDialog.ShowDialog() == DialogResult.OK)
                 {
                     textBox1.Font = fontDialog.Font;
                 }
-
-
-
-          
         }
 
         private void âûðåçàòüToolStripButton_Click(object sender, EventArgs e)
