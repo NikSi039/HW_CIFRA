@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.17\\CW3\\CW 23.07.17 Auto\\CW 23.07.17 Auto.csproj",
-      "projectName": "CW 23.07.17 Auto",
-      "projectPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.17\\CW3\\CW 23.07.17 Auto\\CW 23.07.17 Auto.csproj",
+      "projectUniqueName": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.19\\CW 23.07.19 Svoistva\\CW 23.07.19 Svoistva.csproj",
+      "projectName": "CW 23.07.19 Svoistva",
+      "projectPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.19\\CW 23.07.19 Svoistva\\CW 23.07.19 Svoistva.csproj",
       "packagesPath": "C:\\Users\\C1nb9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.17\\CW3\\CW 23.07.17 Auto\\obj\\",
+      "outputPath": "C:\\Users\\C1nb9\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.19\\CW 23.07.19 Svoistva\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\C1nb9\\AppData\\Roaming\\NuGet\\NuGet.Config",
