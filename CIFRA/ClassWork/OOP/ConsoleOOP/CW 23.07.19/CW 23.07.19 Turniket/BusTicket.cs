@@ -53,9 +53,8 @@ namespace CW_23._07._19_Turniket
 
         public void Print()
         {
-            Console.WriteLine("Срок действия: " + this.srok + "Вид билета: " + this.type);
+            Console.WriteLine("Срок действия: " + this.srok +
+                "Вид билета: " + this.type);
         }
-
-
     }
 }

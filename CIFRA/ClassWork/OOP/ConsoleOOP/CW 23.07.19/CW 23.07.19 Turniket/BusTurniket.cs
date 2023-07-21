@@ -8,7 +8,6 @@ namespace CW_23._07._19_Turniket
 {
     internal class BusTurniket
     {
-     
         public bool IsValid(DateOnly date, BusTicket ticket)
         {
             if (ticket.GetType()  == TypeOfTicket.разовый && ticket.IsTicketValid())
@@ -33,8 +32,6 @@ namespace CW_23._07._19_Turniket
                 return false;
             }
         }
-
-       
 
         private void Open(BusTicket ticket)
         {

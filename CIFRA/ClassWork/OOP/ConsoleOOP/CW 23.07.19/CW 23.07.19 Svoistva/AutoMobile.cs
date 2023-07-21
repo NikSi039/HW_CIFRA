@@ -16,10 +16,7 @@ namespace CW_23._07._19_Svoistva
             get { return fuel; }
             set
             {
-                if (value > 0)
-                {
-                    this.fuel = value;
-                }
+                if (value > 0) this.fuel = value;
             }
         }
         private double rashod;
@@ -28,10 +25,7 @@ namespace CW_23._07._19_Svoistva
             get { return rashod; }
             private set
             {
-                if (value > 0)
-                {
-                    this.rashod = value;
-                }
+                if (value > 0)  this.rashod = value;
             }
         }
 
