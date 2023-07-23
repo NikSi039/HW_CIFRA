@@ -1,5 +1,4 @@
 ﻿using CW_23._07._19_Sstatic_Method;
-using System.Drawing;
 
 Console.Write("Введите количество точек: ");
 int n = int.Parse(Console.ReadLine()!);
@@ -21,4 +20,3 @@ while (i <= n)
 Console.WriteLine(Point.Count);
 
 Console.ReadKey();
-

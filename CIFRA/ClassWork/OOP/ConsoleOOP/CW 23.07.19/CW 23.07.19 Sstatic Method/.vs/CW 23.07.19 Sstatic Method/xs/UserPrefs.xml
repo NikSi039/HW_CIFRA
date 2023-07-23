@@ -1,26 +1,26 @@
 ﻿<Properties StartupConfiguration="{E1FFF6F8-197D-4A47-8DE8-29125665A8B5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Point.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CW_22023.07.19_220Sstatic_220Method PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="Point.cs" Line="15" Column="44" />
+      <File FileName="Program.cs" Line="22" Column="19" />
+      <File FileName="Point.cs" Line="31" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CW 23.07.19 Sstatic Method">
-            <Node name="CW 23.07.19 Sstatic Method" expanded="True">
-              <Node name="Point.cs" selected="True" />
+            <Node name="CW 23.07.19 Sstatic Method">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CW_22023.07.19_220Sstatic_220Method PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
