@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.03.23 Switch Calculator", "10.03.23 Switch Calculator.csproj", "{7305F590-00BB-4CA1-A68D-7B2436F72A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calc", "..\calc\calc.csproj", "{64EA4316-87FB-455A-BC0A-5C75C672D45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7305F590-00BB-4CA1-A68D-7B2436F72A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7305F590-00BB-4CA1-A68D-7B2436F72A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7305F590-00BB-4CA1-A68D-7B2436F72A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7305F590-00BB-4CA1-A68D-7B2436F72A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64EA4316-87FB-455A-BC0A-5C75C672D45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EA4316-87FB-455A-BC0A-5C75C672D45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EA4316-87FB-455A-BC0A-5C75C672D45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EA4316-87FB-455A-BC0A-5C75C672D45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3C1C83-4B47-4B9C-8B46-E3B3B4A688BF}
+	EndGlobalSection
+EndGlobal
