@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/bin/Debug/net7.0/s 126 z 8
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/bin/Debug/net7.0/s 126 z 8.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/bin/Debug/net7.0/s 126 z 8.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/bin/Debug/net7.0/s 126 z 8.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/bin/Debug/net7.0/s 126 z 8.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/obj/Debug/net7.0/s 126 z 8.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/obj/Debug/net7.0/s 126 z 8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/obj/Debug/net7.0/s 126 z 8.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/obj/Debug/net7.0/s 126 z 8.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/obj/Debug/net7.0/s 126 z 8.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/obj/Debug/net7.0/s 126 z 8.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/obj/Debug/net7.0/refint/s 126 z 8.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/obj/Debug/net7.0/s 126 z 8.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/obj/Debug/net7.0/s 126 z 8.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/23.05.03 Structure/HW 23.05.03 Structure/s 126 z 8/obj/Debug/net7.0/ref/s 126 z 8.dll
