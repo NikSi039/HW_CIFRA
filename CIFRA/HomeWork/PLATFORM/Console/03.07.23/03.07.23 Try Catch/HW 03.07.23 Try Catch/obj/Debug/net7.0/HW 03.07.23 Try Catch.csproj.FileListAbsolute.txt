@@ -1,0 +1,5 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/03.07.23/03.07.23 Try Catch/HW 03.07.23 Try Catch/obj/Debug/net7.0/HW 03.07.23 Try Catch.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/03.07.23/03.07.23 Try Catch/HW 03.07.23 Try Catch/obj/Debug/net7.0/HW 03.07.23 Try Catch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/03.07.23/03.07.23 Try Catch/HW 03.07.23 Try Catch/obj/Debug/net7.0/HW 03.07.23 Try Catch.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/03.07.23/03.07.23 Try Catch/HW 03.07.23 Try Catch/obj/Debug/net7.0/HW 03.07.23 Try Catch.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/03.07.23/03.07.23 Try Catch/HW 03.07.23 Try Catch/obj/Debug/net7.0/HW 03.07.23 Try Catch.csproj.CoreCompileInputs.cache
