@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HW_31._05._23_massive
+build_property.ProjectDir = /Users/programmirovanie/Documents/GitHub/HW_CIFRA/HomeWork/PLATFORM/31.05.23 massive/31.05.23 massive/HW 31.05.23 massive/
