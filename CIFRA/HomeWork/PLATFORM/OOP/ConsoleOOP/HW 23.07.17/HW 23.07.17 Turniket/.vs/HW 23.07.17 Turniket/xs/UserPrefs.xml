@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{72650210-7BA7-4639-8385-AFAA1C81C1D5}|Default">
+  <MonoDevelop.Ide.ItemProperties.HW_22023.07.17_220Turniket PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../4/Turniket.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="../4/Turniket.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW 23.07.17 Turniket">
+            <Node name="4" expanded="True">
+              <Node name="Turniket.cs" selected="True" />
+            </Node>
+            <Node name="HW 23.07.17 Turniket" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
