@@ -1,0 +1,15 @@
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\obj\Debug\net6.0\CW 23.07.24 PPartial Classs.csproj.AssemblyReference.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\obj\Debug\net6.0\CW 23.07.24 PPartial Classs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\obj\Debug\net6.0\CW 23.07.24 PPartial Classs.AssemblyInfoInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\obj\Debug\net6.0\CW 23.07.24 PPartial Classs.AssemblyInfo.cs
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\obj\Debug\net6.0\CW 23.07.24 PPartial Classs.csproj.CoreCompileInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\bin\Debug\net6.0\CW 23.07.24 PPartial Classs.exe
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\bin\Debug\net6.0\CW 23.07.24 PPartial Classs.deps.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\bin\Debug\net6.0\CW 23.07.24 PPartial Classs.runtimeconfig.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\bin\Debug\net6.0\CW 23.07.24 PPartial Classs.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\bin\Debug\net6.0\CW 23.07.24 PPartial Classs.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\obj\Debug\net6.0\CW 23.07.24 PPartial Classs.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\obj\Debug\net6.0\refint\CW 23.07.24 PPartial Classs.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\obj\Debug\net6.0\CW 23.07.24 PPartial Classs.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\obj\Debug\net6.0\CW 23.07.24 PPartial Classs.genruntimeconfig.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\CW 23.07.24 PPartial Classs\CW 23.07.24 PPartial Classs\obj\Debug\net6.0\ref\CW 23.07.24 PPartial Classs.dll
