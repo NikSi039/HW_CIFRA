@@ -1,0 +1,15 @@
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\bin\Debug\net6.0\Studentsss.exe
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\bin\Debug\net6.0\Studentsss.deps.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\bin\Debug\net6.0\Studentsss.runtimeconfig.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\bin\Debug\net6.0\Studentsss.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\bin\Debug\net6.0\Studentsss.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\obj\Debug\net6.0\Studentsss.csproj.AssemblyReference.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\obj\Debug\net6.0\Studentsss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\obj\Debug\net6.0\Studentsss.AssemblyInfoInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\obj\Debug\net6.0\Studentsss.AssemblyInfo.cs
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\obj\Debug\net6.0\Studentsss.csproj.CoreCompileInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\obj\Debug\net6.0\Studentsss.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\obj\Debug\net6.0\refint\Studentsss.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\obj\Debug\net6.0\Studentsss.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\obj\Debug\net6.0\Studentsss.genruntimeconfig.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\Student\Student\obj\Debug\net6.0\ref\Studentsss.dll
