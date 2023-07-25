@@ -9,7 +9,8 @@ namespace CW_23._07._24_PPartial_Classs
     public partial class Person
     {
         private string name;
-       public partial void Read()
+
+        public partial void Read()
         {
             Console.WriteLine("I am reading");
         }

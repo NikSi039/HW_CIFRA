@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace CW_23._07._24_PPartial_Classs
 {
-   public partial class Person
+    public partial class Person
     {
         private int age;
-       public partial void Read();
+        public partial void Read();
 
         public Person(string name)
         {
             this.name = name;
-            this.age = 0;   
+            this.age = 0;
         }
         public Person(int age, string name)
         {

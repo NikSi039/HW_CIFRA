@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{D4D2DD3E-6458-4CCF-A0E9-A7152573B5C1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NullL/Schet.cs">
+    <Files>
+      <File FileName="NullL/Admin.cs" Line="13" Column="2" />
+      <File FileName="NullL/Card.cs" Line="22" Column="2" />
+      <File FileName="NullL/Client.cs" Line="14" Column="2" />
+      <File FileName="NullL/Order.cs" Line="15" Column="2" />
+      <File FileName="NullL/Program.cs" Line="1" Column="1" />
+      <File FileName="NullL/Schet.cs" Line="37" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Bank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

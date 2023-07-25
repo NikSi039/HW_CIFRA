@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{00433CBC-AA58-48CD-8D38-E67F46CE6507}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CW_22023.07.24_220PPartial_220Classs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CW 23.07.24 PPartial Classs/Program.cs">
+    <Files>
+      <File FileName="CW 23.07.24 PPartial Classs/PersonEat.cs" Line="24" Column="15" />
+      <File FileName="CW 23.07.24 PPartial Classs/PersonMove.cs" Line="30" Column="2" />
+      <File FileName="CW 23.07.24 PPartial Classs/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW 23.07.24 PPartial Classs">
+            <Node name="CW 23.07.24 PPartial Classs">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

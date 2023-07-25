@@ -10,7 +10,5 @@ namespace Bank
     {
         public string? FIO { get; set; }
         public Card? ClientCard { get; set; }
-
-
     }
 }

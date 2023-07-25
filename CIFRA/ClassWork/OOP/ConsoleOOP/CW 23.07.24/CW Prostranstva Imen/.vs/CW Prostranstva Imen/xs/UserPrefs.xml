@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{87FF2A6F-453F-45F1-969B-36F2C5165B78}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CW Prostranstva Imen/Program.cs">
+    <Files>
+      <File FileName="CW Prostranstva Imen/Heops/Piramida.cs" Line="14" Column="2" />
+      <File FileName="CW Prostranstva Imen/Semiramida/Garden.cs" Line="13" Column="2" />
+      <File FileName="CW Prostranstva Imen/Zeus/Olimpia.cs" Line="13" Column="2" />
+      <File FileName="CW Prostranstva Imen/Program.cs" Line="13" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW Prostranstva Imen">
+            <Node name="CW Prostranstva Imen">
+              <Node name="Heops" expanded="True" />
+              <Node name="Semiramida" expanded="True" />
+              <Node name="Zeus" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CW_220Prostranstva_220Imen PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

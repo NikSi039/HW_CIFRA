@@ -9,7 +9,5 @@ namespace Bank
     internal class Admin
     {
         public string? Name { get; set; }
-
-
     }
 }
