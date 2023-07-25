@@ -1,0 +1,15 @@
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\bin\Debug\net6.0\HumanWorker.exe
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\bin\Debug\net6.0\HumanWorker.deps.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\bin\Debug\net6.0\HumanWorker.runtimeconfig.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\bin\Debug\net6.0\HumanWorker.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\bin\Debug\net6.0\HumanWorker.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\obj\Debug\net6.0\HumanWorker.csproj.AssemblyReference.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\obj\Debug\net6.0\HumanWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\obj\Debug\net6.0\HumanWorker.AssemblyInfoInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\obj\Debug\net6.0\HumanWorker.AssemblyInfo.cs
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\obj\Debug\net6.0\HumanWorker.csproj.CoreCompileInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\obj\Debug\net6.0\HumanWorker.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\obj\Debug\net6.0\refint\HumanWorker.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\obj\Debug\net6.0\HumanWorker.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\obj\Debug\net6.0\HumanWorker.genruntimeconfig.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.25\HumanWorker\HumanWorker\obj\Debug\net6.0\ref\HumanWorker.dll
