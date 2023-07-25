@@ -10,6 +10,6 @@ namespace Bank
     {
         public Client? Client { get; set; }
         public string? Name { get; set; }
-        public decimal Total { get; set; }
+        public decimal? Total { get; set; }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\bin\Debug\net6.0\Bank.exe
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\bin\Debug\net6.0\Bank.deps.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\bin\Debug\net6.0\Bank.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\bin\Debug\net6.0\Bank.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\obj\Debug\net6.0\Bank.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\obj\Debug\net6.0\refint\Bank.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\obj\Debug\net6.0\Bank.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.24\NullL\NullL\obj\Debug\net6.0\ref\Bank.dll

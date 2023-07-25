@@ -9,7 +9,7 @@ namespace Bank
     internal class Schet
     {
         public long Id { get;private set; }
-        public decimal Summa { get; set; }
+        public decimal? Summa { get; set; }
 
         public Schet(long id)
         {
@@ -17,21 +17,11 @@ namespace Bank
             Summa = 0;
         }
 
-        public void Add(decimal s)
-        {
-            Summa += s;
-        }
+      
 
-        public void Sub(decimal s)
+        public void Print()
         {
-            if (Summa >= s)
-            {
-                Summa -= s;
-            }
-            else
-            {
-                Console.WriteLine("Операция невозможна");
-            }
+            Console.WriteLine("Остаток на счете: " + Summa);
         }
     }
 }
