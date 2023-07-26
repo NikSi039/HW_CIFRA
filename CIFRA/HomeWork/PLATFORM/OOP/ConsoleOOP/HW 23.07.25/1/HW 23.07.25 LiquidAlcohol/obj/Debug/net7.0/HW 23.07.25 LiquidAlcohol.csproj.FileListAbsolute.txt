@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/bin/Debug/net7.0/HW 23.07.25 LiquidAlcohol
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/bin/Debug/net7.0/HW 23.07.25 LiquidAlcohol.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/bin/Debug/net7.0/HW 23.07.25 LiquidAlcohol.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/bin/Debug/net7.0/HW 23.07.25 LiquidAlcohol.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/bin/Debug/net7.0/HW 23.07.25 LiquidAlcohol.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/obj/Debug/net7.0/HW 23.07.25 LiquidAlcohol.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/obj/Debug/net7.0/HW 23.07.25 LiquidAlcohol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/obj/Debug/net7.0/HW 23.07.25 LiquidAlcohol.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/obj/Debug/net7.0/HW 23.07.25 LiquidAlcohol.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/obj/Debug/net7.0/HW 23.07.25 LiquidAlcohol.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/obj/Debug/net7.0/HW 23.07.25 LiquidAlcohol.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/obj/Debug/net7.0/refint/HW 23.07.25 LiquidAlcohol.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/obj/Debug/net7.0/HW 23.07.25 LiquidAlcohol.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/obj/Debug/net7.0/HW 23.07.25 LiquidAlcohol.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/1/HW 23.07.25 LiquidAlcohol/obj/Debug/net7.0/ref/HW 23.07.25 LiquidAlcohol.dll
