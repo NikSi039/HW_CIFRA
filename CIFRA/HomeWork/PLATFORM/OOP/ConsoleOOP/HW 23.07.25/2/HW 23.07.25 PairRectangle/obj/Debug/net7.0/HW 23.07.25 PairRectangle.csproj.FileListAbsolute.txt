@@ -1,0 +1,15 @@
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/bin/Debug/net7.0/HW 23.07.25 PairRectangle
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/bin/Debug/net7.0/HW 23.07.25 PairRectangle.deps.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/bin/Debug/net7.0/HW 23.07.25 PairRectangle.runtimeconfig.json
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/bin/Debug/net7.0/HW 23.07.25 PairRectangle.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/bin/Debug/net7.0/HW 23.07.25 PairRectangle.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/obj/Debug/net7.0/HW 23.07.25 PairRectangle.csproj.AssemblyReference.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/obj/Debug/net7.0/HW 23.07.25 PairRectangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/obj/Debug/net7.0/HW 23.07.25 PairRectangle.AssemblyInfoInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/obj/Debug/net7.0/HW 23.07.25 PairRectangle.AssemblyInfo.cs
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/obj/Debug/net7.0/HW 23.07.25 PairRectangle.csproj.CoreCompileInputs.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/obj/Debug/net7.0/HW 23.07.25 PairRectangle.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/obj/Debug/net7.0/refint/HW 23.07.25 PairRectangle.dll
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/obj/Debug/net7.0/HW 23.07.25 PairRectangle.pdb
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/obj/Debug/net7.0/HW 23.07.25 PairRectangle.genruntimeconfig.cache
+/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/HomeWork/PLATFORM/OOP/ConsoleOOP/HW 23.07.25/2/HW 23.07.25 PairRectangle/obj/Debug/net7.0/ref/HW 23.07.25 PairRectangle.dll
