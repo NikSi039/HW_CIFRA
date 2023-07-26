@@ -17,8 +17,6 @@ namespace Bank
             Summa = 0;
         }
 
-      
-
         public void Print()
         {
             Console.WriteLine("Остаток на счете: " + Summa);

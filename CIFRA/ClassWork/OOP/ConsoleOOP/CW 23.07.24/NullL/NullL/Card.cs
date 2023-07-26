@@ -8,10 +8,10 @@ namespace Bank
 {
     internal class Card
     {
-        public string? Name { get;private set; }
-        public int Number { get;private set; }
-        public Schet? SchetCard { get;private set; }
-        public bool IsBlocked { get;set; }
+        public string? Name { get; private set; }
+        public int Number { get; private set; }
+        public Schet? SchetCard { get; private set; }
+        public bool IsBlocked { get; set; }
 
         public Card(string? name, int number, Schet schetCard)
         {
@@ -22,37 +22,18 @@ namespace Bank
 
         public void Add(decimal s)
         {
-            if (IsBlocked == false)
-            {
-           SchetCard!.Summa += s;
-
-            }
-            else
-            {
-                Console.WriteLine("Карта заблокирована");
-            }
-
+            if (IsBlocked == false) SchetCard!.Summa += s;
+            else Console.WriteLine("Карта заблокирована");
         }
 
         public void Sub(decimal? s)
         {
             if (IsBlocked == false)
             {
-                if (SchetCard!.Summa >= s)
-                {
-                    SchetCard!.Summa -= s;
-                }
-                else
-                {
-                    Console.WriteLine("Операция невозможна");
-                }
+                if (SchetCard!.Summa >= s) SchetCard!.Summa -= s;
+                else Console.WriteLine("Операция невозможна");
             }
-            else
-            {
-                Console.WriteLine("Карта заблокирована");
-            }
-
-           
+            else Console.WriteLine("Карта заблокирована");
         }
     }
 }
