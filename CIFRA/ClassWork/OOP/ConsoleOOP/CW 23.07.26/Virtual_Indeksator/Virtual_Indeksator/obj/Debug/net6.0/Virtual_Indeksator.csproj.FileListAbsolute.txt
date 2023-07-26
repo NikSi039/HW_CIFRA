@@ -1,0 +1,15 @@
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\bin\Debug\net6.0\Virtual_Indeksator.exe
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\bin\Debug\net6.0\Virtual_Indeksator.deps.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\bin\Debug\net6.0\Virtual_Indeksator.runtimeconfig.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\bin\Debug\net6.0\Virtual_Indeksator.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\bin\Debug\net6.0\Virtual_Indeksator.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\obj\Debug\net6.0\Virtual_Indeksator.csproj.AssemblyReference.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\obj\Debug\net6.0\Virtual_Indeksator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\obj\Debug\net6.0\Virtual_Indeksator.AssemblyInfoInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\obj\Debug\net6.0\Virtual_Indeksator.AssemblyInfo.cs
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\obj\Debug\net6.0\Virtual_Indeksator.csproj.CoreCompileInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\obj\Debug\net6.0\Virtual_Indeksator.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\obj\Debug\net6.0\refint\Virtual_Indeksator.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\obj\Debug\net6.0\Virtual_Indeksator.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\obj\Debug\net6.0\Virtual_Indeksator.genruntimeconfig.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Virtual_Indeksator\Virtual_Indeksator\obj\Debug\net6.0\ref\Virtual_Indeksator.dll
