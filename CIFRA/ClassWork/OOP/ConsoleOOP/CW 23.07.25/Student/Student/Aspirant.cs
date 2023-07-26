@@ -12,14 +12,8 @@ namespace Studentsss
 
         public new int getScolarship()
         {
-            if (AverageMark == 5)
-            {
-                return 25000;
-            }
-            else
-            {
-                return 15000;
-            }
+            if (AverageMark == 5) return 25000;
+            else return 15000;
         }
     }
 }

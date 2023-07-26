@@ -22,6 +22,3 @@ Console.WriteLine(aspirant.getScolarship());
 Student[] students = new Student[2];
 students[0] = student;
 students[1] = aspirant;
-
-
-
