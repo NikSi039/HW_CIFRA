@@ -1,0 +1,15 @@
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\obj\Debug\net6.0\Peregruzka.csproj.AssemblyReference.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\obj\Debug\net6.0\Peregruzka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\obj\Debug\net6.0\Peregruzka.AssemblyInfoInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\obj\Debug\net6.0\Peregruzka.AssemblyInfo.cs
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\obj\Debug\net6.0\Peregruzka.csproj.CoreCompileInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\bin\Debug\net6.0\Peregruzka.exe
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\bin\Debug\net6.0\Peregruzka.deps.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\bin\Debug\net6.0\Peregruzka.runtimeconfig.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\bin\Debug\net6.0\Peregruzka.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\bin\Debug\net6.0\Peregruzka.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\obj\Debug\net6.0\Peregruzka.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\obj\Debug\net6.0\refint\Peregruzka.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\obj\Debug\net6.0\Peregruzka.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\obj\Debug\net6.0\Peregruzka.genruntimeconfig.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.26\Peregruzka\Peregruzka\obj\Debug\net6.0\ref\Peregruzka.dll
