@@ -35,7 +35,4 @@ namespace Figures
             return Math.Abs(x1 - x2) * Math.Abs(y1 - y2);
         }
     }
-
-   
-
 }

@@ -18,7 +18,6 @@ namespace Figures
 
         public RectangleColor() : this("RectangleColor", 0, 0, 1, 1, 0) { }
 
-
         public override void Display()
         {
             base.Display();
@@ -30,6 +29,5 @@ namespace Figures
         {
             return 2 * base.Area();
         }
-
     }
 }
