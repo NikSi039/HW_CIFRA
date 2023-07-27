@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DB8F35C6-191F-4E56-8443-E482A6159E7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Peregruzka PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Peregruzka/Program.cs">
+    <Files>
+      <File FileName="Peregruzka/Timee.cs" Line="108" Column="2" />
+      <File FileName="Peregruzka/Program.cs" Line="19" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Peregruzka">
+            <Node name="Peregruzka">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

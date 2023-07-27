@@ -17,5 +17,3 @@ Console.WriteLine(t3 != t4);
 
 Timee t5 = t1 + 26;
 Console.WriteLine(t5.PrintTime());
-
-
