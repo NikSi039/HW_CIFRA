@@ -15,16 +15,9 @@ namespace Virtual_Indeksator
             {
                 string temp = Chislo.ToString();
 
-                if (i < temp.Length)
-                {
-                    return int.Parse(temp[i].ToString());
-
-                }
+                if (i < temp.Length) return int.Parse(temp[i].ToString());
                 else throw new Exception("Такого индекса в числе нет");
-              
-
             }
         }
-
     }
 }

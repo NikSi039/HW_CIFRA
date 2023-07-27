@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BCF98F51-8746-4BF4-BA20-792E9EFAD6FD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Virtual_Indeksator/Program.cs">
+    <Files>
+      <File FileName="Virtual_Indeksator/ZelChislo.cs" Line="23" Column="2" />
+      <File FileName="Virtual_Indeksator/Second.cs" Line="51" Column="2" />
+      <File FileName="Virtual_Indeksator/Program.cs" Line="21" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Virtual_Indeksator">
+            <Node name="Virtual_Indeksator">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Virtual__Indeksator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -12,13 +12,10 @@ try
 
     Console.Write("Введите число: ");
     second.Chislo = int.Parse(Console.ReadLine()!);
-    second.SecondChislo = int.Parse(Console.ReadLine()!);   
+    second.SecondChislo = int.Parse(Console.ReadLine()!);
     Console.WriteLine(second[3]);
 }
 catch (Exception ex)
 {
-
     Console.WriteLine(ex.Message);
 }
-
-

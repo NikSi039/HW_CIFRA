@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Virtual_Indeksator
 {
-    internal class Second: ZelChislo
+    internal class Second : ZelChislo
     {
         public int SecondChislo { get; set; }
 
@@ -23,12 +23,9 @@ namespace Virtual_Indeksator
                 }
                 else
                 {
-                      throw new Exception("Такого индекса нет в классе");
+                    throw new Exception("Такого индекса нет в классе");
                 }
-
-               
-            } 
-
+            }
         }
         public int this[int i, int j]
         {
@@ -38,28 +35,16 @@ namespace Virtual_Indeksator
                 {
                     string temp = Chislo.ToString();
 
-                    if (i < temp.Length)
-                    {
-                        return int.Parse(temp[i].ToString());
-
-                    }
+                    if (i < temp.Length) return int.Parse(temp[i].ToString());
                     else throw new Exception("Такого индекса нет в классе");
                 }
                 else
                 {
                     string temp = SecondChislo.ToString();
 
-                    if (i < temp.Length)
-                    {
-                        return int.Parse(temp[i].ToString());
-
-                    }
+                    if (i < temp.Length) return int.Parse(temp[i].ToString());
                     else throw new Exception("Такого индекса в числе нет");
                 }
-
-
-
-
             }
         }
     }
