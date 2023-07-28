@@ -31,9 +31,9 @@ namespace Aabstract_Class
             get => Area();
         }
 
-        public override string Print()
+        public override string? ToString()
         {
-            return base.Print() + $" Color:{Color}";
+            return base.ToString() + $" Color:{Color}";
         }
     }
 }

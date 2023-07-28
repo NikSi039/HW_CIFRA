@@ -16,6 +16,10 @@ namespace Aabstract_Class
         }
         public abstract double Area();
         public abstract double Area2 { get;  }
-        public virtual string Print() => Name;
+
+        public override string? ToString()
+        {
+            return Name;
+        }
     }
 }

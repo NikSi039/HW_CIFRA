@@ -42,9 +42,10 @@ namespace Aabstract_Class
             double pp = (a + b + c) / 2;
             return Math.Sqrt(pp*(pp-a)*(pp-b)*(pp-c));
         }
-        public override string Print()
+
+        public override string? ToString()
         {
-            return base.Print() + $" a:{a} b:{b} c:{c}";
+            return base.ToString() + $" a:{a} b:{b} c:{c}";
         }
     }
 }
