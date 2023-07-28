@@ -1,0 +1,15 @@
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\obj\Debug\net6.0\Aabstract_Class.csproj.AssemblyReference.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\obj\Debug\net6.0\Aabstract_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\obj\Debug\net6.0\Aabstract_Class.AssemblyInfoInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\obj\Debug\net6.0\Aabstract_Class.AssemblyInfo.cs
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\obj\Debug\net6.0\Aabstract_Class.csproj.CoreCompileInputs.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\bin\Debug\net6.0\Aabstract_Class.exe
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\bin\Debug\net6.0\Aabstract_Class.deps.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\bin\Debug\net6.0\Aabstract_Class.runtimeconfig.json
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\bin\Debug\net6.0\Aabstract_Class.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\bin\Debug\net6.0\Aabstract_Class.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\obj\Debug\net6.0\Aabstract_Class.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\obj\Debug\net6.0\refint\Aabstract_Class.dll
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\obj\Debug\net6.0\Aabstract_Class.pdb
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\obj\Debug\net6.0\Aabstract_Class.genruntimeconfig.cache
+C:\Users\C1NB5\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.07.28\Aabstract_Class\Aabstract_Class\obj\Debug\net6.0\ref\Aabstract_Class.dll
