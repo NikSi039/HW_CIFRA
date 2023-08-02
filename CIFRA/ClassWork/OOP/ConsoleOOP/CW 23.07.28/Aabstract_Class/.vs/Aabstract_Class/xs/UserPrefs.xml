@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F294E177-9790-4645-AE14-2A8405C750FE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aabstract_Class/Program.cs">
+    <Files>
+      <File FileName="Aabstract_Class/Figure.cs" Line="25" Column="2" />
+      <File FileName="Aabstract_Class/MyExtention.cs" Line="22" Column="2" />
+      <File FileName="Aabstract_Class/Triangle.cs" Line="51" Column="2" />
+      <File FileName="Aabstract_Class/TriangleColor.cs" Line="39" Column="2" />
+      <File FileName="Aabstract_Class/Program.cs" Line="29" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aabstract_Class">
+            <Node name="Aabstract_Class">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Aabstract__Class PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\C1NB5\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.28\\Aabstract_Class\\Aabstract_Class\\Aabstract_Class.csproj": {}
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/OOP/ConsoleOOP/CW 23.07.28/Aabstract_Class/Aabstract_Class/Aabstract_Class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\C1NB5\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.28\\Aabstract_Class\\Aabstract_Class\\Aabstract_Class.csproj": {
+    "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/OOP/ConsoleOOP/CW 23.07.28/Aabstract_Class/Aabstract_Class/Aabstract_Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\C1NB5\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.28\\Aabstract_Class\\Aabstract_Class\\Aabstract_Class.csproj",
+        "projectUniqueName": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/OOP/ConsoleOOP/CW 23.07.28/Aabstract_Class/Aabstract_Class/Aabstract_Class.csproj",
         "projectName": "Aabstract_Class",
-        "projectPath": "C:\\Users\\C1NB5\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.28\\Aabstract_Class\\Aabstract_Class\\Aabstract_Class.csproj",
-        "packagesPath": "C:\\Users\\C1NB5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\C1NB5\\source\\repos\\HW_CIFRA\\CIFRA\\ClassWork\\OOP\\ConsoleOOP\\CW 23.07.28\\Aabstract_Class\\Aabstract_Class\\obj\\",
+        "projectPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/OOP/ConsoleOOP/CW 23.07.28/Aabstract_Class/Aabstract_Class/Aabstract_Class.csproj",
+        "packagesPath": "/Users/programmirovanie/.nuget/packages/",
+        "outputPath": "/Users/programmirovanie/Documents/GitHub/HW_CIFRA/CIFRA/ClassWork/OOP/ConsoleOOP/CW 23.07.28/Aabstract_Class/Aabstract_Class/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\C1NB5\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/programmirovanie/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -27,6 +27,3 @@ Console.WriteLine(a.GetHashCode());
 
 
 Console.WriteLine("jhgfgffgjhklkljjk".CountChar('f'));
-
-
-

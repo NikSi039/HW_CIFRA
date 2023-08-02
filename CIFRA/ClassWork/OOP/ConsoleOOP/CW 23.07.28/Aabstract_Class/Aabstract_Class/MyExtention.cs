@@ -14,11 +14,7 @@ namespace Aabstract_Class
 
             for (int i = 0; i < s.Length; i++)
             {
-                if (s[i] == c)
-                {
-                    count++;
-                }
-                
+                if (s[i] == c) count++;
             }
             return count;
         }
