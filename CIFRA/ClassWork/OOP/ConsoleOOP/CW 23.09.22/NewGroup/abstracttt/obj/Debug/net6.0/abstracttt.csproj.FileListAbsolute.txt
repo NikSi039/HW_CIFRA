@@ -1,0 +1,15 @@
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\bin\Debug\net6.0\abstracttt.exe
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\bin\Debug\net6.0\abstracttt.deps.json
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\bin\Debug\net6.0\abstracttt.runtimeconfig.json
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\bin\Debug\net6.0\abstracttt.dll
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\bin\Debug\net6.0\abstracttt.pdb
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\obj\Debug\net6.0\abstracttt.csproj.AssemblyReference.cache
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\obj\Debug\net6.0\abstracttt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\obj\Debug\net6.0\abstracttt.AssemblyInfoInputs.cache
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\obj\Debug\net6.0\abstracttt.AssemblyInfo.cs
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\obj\Debug\net6.0\abstracttt.csproj.CoreCompileInputs.cache
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\obj\Debug\net6.0\abstracttt.dll
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\obj\Debug\net6.0\refint\abstracttt.dll
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\obj\Debug\net6.0\abstracttt.pdb
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\obj\Debug\net6.0\abstracttt.genruntimeconfig.cache
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\abstracttt\obj\Debug\net6.0\ref\abstracttt.dll
