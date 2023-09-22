@@ -4,7 +4,7 @@ Employee employee = new Employee("Bob", "Manager");
 client.Display();
 employee.Display();
 
-Person person = new Person();
+
 
 
 
