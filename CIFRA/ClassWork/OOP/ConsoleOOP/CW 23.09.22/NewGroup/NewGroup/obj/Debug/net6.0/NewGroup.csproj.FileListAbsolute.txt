@@ -1,0 +1,15 @@
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\bin\Debug\net6.0\NewGroup.exe
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\bin\Debug\net6.0\NewGroup.deps.json
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\bin\Debug\net6.0\NewGroup.runtimeconfig.json
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\bin\Debug\net6.0\NewGroup.dll
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\bin\Debug\net6.0\NewGroup.pdb
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\obj\Debug\net6.0\NewGroup.csproj.AssemblyReference.cache
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\obj\Debug\net6.0\NewGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\obj\Debug\net6.0\NewGroup.AssemblyInfoInputs.cache
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\obj\Debug\net6.0\NewGroup.AssemblyInfo.cs
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\obj\Debug\net6.0\NewGroup.csproj.CoreCompileInputs.cache
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\obj\Debug\net6.0\NewGroup.dll
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\obj\Debug\net6.0\refint\NewGroup.dll
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\obj\Debug\net6.0\NewGroup.pdb
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\obj\Debug\net6.0\NewGroup.genruntimeconfig.cache
+C:\Users\c4pc14\source\repos\HW_CIFRA\CIFRA\ClassWork\OOP\ConsoleOOP\CW 23.09.22\NewGroup\NewGroup\obj\Debug\net6.0\ref\NewGroup.dll
