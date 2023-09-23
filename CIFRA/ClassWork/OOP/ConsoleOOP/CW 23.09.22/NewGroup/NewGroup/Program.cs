@@ -20,24 +20,18 @@ for (int i = 0; i < array.GetLength(0); i++)
 {
     for (int j = 0; j < array.GetLength(1); j++)
     {
-        Console.Write(array[i,j] + " ");
+        Console.Write(array[i, j] + " ");
     }
     Console.WriteLine();
 }
 
 
-
-
-
-
-
-
 class Matrix
 {
-    public int[,] firstMatrix = new int[3,3];
-    public int[,] secondMatrix = new int[3,3];  
-    
-    public static int[,] operator+(Matrix first, Matrix second)
+    public int[,] firstMatrix = new int[3, 3];
+    public int[,] secondMatrix = new int[3, 3];
+
+    public static int[,] operator +(Matrix first, Matrix second)
     {
         int[,] currentMatrix = new int[3, 3];
 
@@ -45,11 +39,10 @@ class Matrix
         {
             for (int columns = 0; columns < currentMatrix.GetLength(1); columns++)
             {
-                currentMatrix[row,columns] = first.firstMatrix[row,columns] + second.firstMatrix[row,columns];
+                currentMatrix[row, columns] = first.firstMatrix[row, columns]
+                    + second.firstMatrix[row, columns];
             }
         }
-
         return currentMatrix;
-
     }
 }

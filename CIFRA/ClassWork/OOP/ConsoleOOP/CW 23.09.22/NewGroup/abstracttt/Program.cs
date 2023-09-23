@@ -4,15 +4,6 @@ Employee employee = new Employee("Bob", "Manager");
 client.Display();
 employee.Display();
 
-
-
-
-
-
-
-
-
-
 abstract class Person
 {
     public string Name { get; set; }
@@ -44,7 +35,3 @@ class Employee : Person
         Position = position;
     }
 }
-
-
-
-

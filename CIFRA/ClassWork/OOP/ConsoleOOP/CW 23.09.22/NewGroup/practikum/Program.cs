@@ -14,8 +14,7 @@ abstract class Figure
         this.name = name;
     }
 
-
-    public string Name {get;set;}
+    public string Name { get; set; }
 
     public abstract double Area2 { get; set; }
 
@@ -26,7 +25,6 @@ abstract class Figure
         Console.WriteLine(Name);
     }
 }
-
 
 class Triangle : Figure
 {
